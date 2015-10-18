@@ -23,9 +23,9 @@
 [Q] v. 增大，加强，提高 [A] augment - They are augmented by a number of additional technologies and improvements that have appeared over the lifetime of Qt 4.
 #
 #
+#
 # The Brink
 # S01E01
-#
 #
 [Q] n. 大使馆, 大使及其随员 [A] embassy - I'm the only one at this fucking embassy who bothered to learn your name.
 [Q] n. <美><非正>笨蛋，傻瓜； 阴茎; [A] putz - 二货
@@ -774,3 +774,83 @@
 [Q] adj. 没有政治倾向; 无政治意义的; [A] apolitical
 [Q] v. 猜测; 深思 [A] speculate
 [Q] 布景设计师 [A] set designers
+#
+#
+#
+# 没了裸女照的《花花公子》还剩下什么？
+# Nudes Are Old News at Playboy
+# http://cn.nytstyle.com/culture/20151016/t16playboy/dual/
+#
+[Q] 旗下的夜总会 [A] X's spinoff clubs
+[Q] n. 资产分派; 让产易股; 附带的利益; 副产品; 续集 [A] spinoff
+[Q] 专卖店 [A] specialist stores
+[Q] adj. 传说上有名的; 以历史画装饰的 [A] storied
+[Q] 历史悠久的 [A] as storied as
+[Q] 要打着手电看才行 [A] consumed by flashlight
+[Q] 在这个节骨眼; 在眼下 [A] at this juncture
+[Q] adj. n. 裸的, 无装饰的, 与生俱有的 ; 裸体 [A] nude - fully nude 全裸
+[Q] 挑逗姿势 [A] provocative poses
+[Q] 纸质版 [A] print edition
+[Q] n. 大厦; 公寓; 官邸 [A] Mansion
+[Q] 遮遮掩掩; 鬼鬼祟祟 [A] furtive
+[Q] adj. 无处不在 [A] ubiquitous
+[Q] 激进的建议 [A] radical suggestion
+[Q] 从遮遮掩掩变为无处不在 [A] from furtive to ubiquitous
+[Q] adj. ；挑逗的; 气人的, 刺激的, 挑拨的 [A] provocative
+[Q] v. 赶上, 压倒, 突然来袭 [A] overtaken
+[Q] 总编 [A] editor in chief
+[Q] v.n. 开辟, 倡导; 当先驱, 成为开拓者 [A] pioneer
+[Q] n. 接合, 接缝, 连接; 关口 [A] juncture
+[Q] n. 仪式, 习俗, 典礼 [A] rite
+[Q] 文化仪式 [A] cultural rite
+[Q] adj. 非法的, 违禁的 [A] illicit
+[Q] n.v. 震颤, 刺激性, 激动; 快感 [A] thrill
+[Q] 不正当的刺激 [A] illicit thrill
+[Q] adj. 色情的; 色情作品的 [A] pornographic
+[Q] 色情杂志 [A] Pornographic magazines
+[Q] n. 创刊号; 首次露面; 初次登台 [A] debut
+[Q] n. 发行量 [A] circulations
+[Q] 联盟 [A] alliance
+[Q] v. 减少 [A] diminish
+[Q] 大大缩减 [A] in severely diminished form
+[Q] 《阁楼》 [A] Penthouse
+[Q] v. 修补 [A] revamp
+[Q] v. 缓和, 减轻, 镇定; 安抚 [A] assuage
+[Q] 掩饰 [A] cover-up
+[Q] n. 裸露; 裸体画; 裸体像 [A] nudity
+[Q] n. 修正案; 改正, 改善, 改良 [A] amendment
+[Q] 熟人 [A] acquaintance
+[Q] 出第二期 [A] make it to a second
+[Q] adj. 重要的, 充满活力的, 生命的 [A] vital
+[Q] 发放 [A] dispense
+[Q] n. 玩伴, 游伴 [A] playmate
+[Q] adj. 亲密的, 秘密的, 私人的 [A] intimate
+[Q] n. 专栏作家 [A] columnist
+[Q] 满腔热情地 [A] enthusiastically
+[Q] n. 酒; 烈酒 [A] liquor
+[Q] 千禧 [A] millennial
+[Q] 年轻人喜欢(被吸引到)艺术 [A] younger people are drawn to art
+[Q] 香水 [A] fragrances
+[Q] n. 商品; 货物 [A] merchandise
+[Q] [A] diminished
+[Q] 市场营销的开支 [A] marketing expense
+[Q] n. 店面 [A] storefront
+[Q] [A] libertarian
+[Q] [A] dispense
+[Q] n. 盲文; 布莱叶点字法 [A] Braille
+[Q] 色欲, 欲望 [A] lust
+[Q] 最畅销的一期 [A] best-selling issue
+[Q] adj. 秘密从事的, 从事间谍活动的, 秘密的 [A] undercover
+[Q] 女权主义先驱 [A] pioneering feminist
+[Q] 女权主义者 [A] feminist
+[Q] 开胃小菜; 冷盘 [A] hors d'oeuvre
+[Q] n. 作品, 创作 (来自法语) [A] oeuvre
+[Q] adv.之外;prep.在...之外 [A] hors
+[Q] v. 监督, 监视 [A] oversee
+[Q] adj. 美味的; 有生气的; 爽利的; 辛辣的 [A] racy
+[Q] 更可亲，更亲密 [A] a little more accessible, a little more intimate
+[Q] 插页 [A] centerfold
+[Q] 花花公子公司于1971年上市 [A] Playboy, which had gone public in 1971
+[Q] 外表羞涩的 [A] publicity-shy
+[Q] 第五大道 [A] Fifth Avenue
+[Q] 自由意志主义者 [A] libertarian
