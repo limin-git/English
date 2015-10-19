@@ -1,26 +1,26 @@
-[Q] 活的时间长，英文？ [A] outlive
-[Q] 阶级组织，英文、读音？ [A] hierarchy
-[Q] 什么是克尼格查找，别名及缩写？ [A] Koenig Lookup - 函数，将参数的作用域加入函数查找范围 Argument Depdendent Lookup (ADL)。
-[Q] 几何学，英文？ [A] geometry - e.g. QHBoxLayout that manages the geometry of five QPushButtons
+[Q] 活的时间长, 英文？ [A] outlive
+[Q] 阶级组织, 英文、读音？ [A] hierarchy
+[Q] 什么是克尼格查找, 别名及缩写？ [A] Koenig Lookup - 函数, 将参数的作用域加入函数查找范围 Argument Depdendent Lookup (ADL)。
+[Q] 几何学, 英文？ [A] geometry - e.g. QHBoxLayout that manages the geometry of five QPushButtons
 [Q] n. 协调、一致。[A] accordance (in accordance with) - All the widgets will initially be allocated an amount of space in accordance with their QWidget::sizePolicy() and QWidget::sizeHint().
 [Q] adj. 按比例（成比例、相称、均衡） [A] in proportion - in proportion to on another
-[Q] adj. 直觉的，直观的。 [A] intuitive - be intutive to - e.g. The editing interface is intuitive for simple operations.
+[Q] adj. 直觉的, 直观的。 [A] intuitive - be intutive to - e.g. The editing interface is intuitive for simple operations.
 [Q] & 的记号名称 [A] ampersand
 [Q] adj. 有助于记忆的。 [A] mnemonic - Inserting an ampersand character (&) causes the letter following it to be used as a mnemonic for the menu.
-[Q] adj. 过分单纯化的，过分简单化的(片面看问题的)。 [A] simplistic - "simple" might sometimes morph into "simplistic."
+[Q] adj. 过分单纯化的, 过分简单化的(片面看问题的)。 [A] simplistic - "simple" might sometimes morph into "simplistic."
 [Q] n. 手续费 [A] commission
-[Q] n.预占，抢先。 [A] preemption - preemption possible
-[Q] n. 带信人；持有人；持票人；挑夫；搬运工 [A] bearer
-[Q] v. 惧怕；担心 [A] dread - enters the dreaded deadlock.
-[Q] adj. 过度的(不相称的,未到支付期的；过分的；不适当的；不正当的 [A] undue - If your class makes undue requirements on unbounded code, that's usually a sign that encapsulation is out the window.
-[Q] v. 使膨胀；使自大 [A] bloat - BankAccount avoids code bloating by having the internal locked functions forward to the external locked functions, which do the actual job.
-[Q] n. 黄鼠狼；靠不住 的人；v. 狡辩 [A] weasel - weasel words 狡辩之辞；There's a weasel word in there.
+[Q] n.预占, 抢先。 [A] preemption - preemption possible
+[Q] n. 带信人; 持有人; 持票人; 挑夫; 搬运工 [A] bearer
+[Q] v. 惧怕; 担心 [A] dread - enters the dreaded deadlock.
+[Q] adj. 过度的(不相称的, 未到支付期的; 过分的; 不适当的; 不正当的 [A] undue - If your class makes undue requirements on unbounded code, that's usually a sign that encapsulation is out the window.
+[Q] v. 使膨胀; 使自大 [A] bloat - BankAccount avoids code bloating by having the internal locked functions forward to the external locked functions, which do the actual job.
+[Q] n. 黄鼠狼; 靠不住 的人; v. 狡辩 [A] weasel - weasel words 狡辩之辞; There's a weasel word in there.
 [Q] adj. 恶意的; 恶毒的 [A] malicious - n unwary or malicious programmer can easily lock the wrong object and manipulate any BankAccount without actually locking it.
-[Q] n. 恶意；蓄意 [A] malice - malice issue - These languages are not concerned with malice (as Java is, for example)
-[Q] n. 斗蓬; 掩护; 宽大外衣；v. 遮掩, 披斗蓬, 隐匿 [A] cloak - externally_locked cloaks an object of type T
-[Q] n. 分母；最小公分母 [A] denominator - If this is not possible then QWidget is the obvious choice for a placeholder widget since it is the lowest common denominator for all widgets.
+[Q] n. 恶意; 蓄意 [A] malice - malice issue - These languages are not concerned with malice (as Java is, for example)
+[Q] n. 斗蓬; 掩护; 宽大外衣; v. 遮掩, 披斗蓬, 隐匿 [A] cloak - externally_locked cloaks an object of type T
+[Q] n. 分母; 最小公分母 [A] denominator - If this is not possible then QWidget is the obvious choice for a placeholder widget since it is the lowest common denominator for all widgets.
 [Q] n. 郁金香 [A] tulip - The Tulip Containers, a set of template container classes.
-[Q] v. 增大，加强，提高 [A] augment - They are augmented by a number of additional technologies and improvements that have appeared over the lifetime of Qt 4.
+[Q] v. 增大, 加强, 提高 [A] augment - They are augmented by a number of additional technologies and improvements that have appeared over the lifetime of Qt 4.
 #
 #
 #
@@ -28,14 +28,14 @@
 # S01E01
 #
 [Q] n. 大使馆, 大使及其随员 [A] embassy - I'm the only one at this fucking embassy who bothered to learn your name.
-[Q] n. <美><非正>笨蛋，傻瓜； 阴茎; [A] putz - 二货
+[Q] n. <美><非正>笨蛋, 傻瓜; 阴茎; [A] putz - 二货
 [Q] n. 狂怒, 盛怒; [A] rage - I don't feel safe going out. There's a rage in the air.
 [Q] 知道你的问题在哪吗 你流露出恐惧 [A] You know what your problem is? You telegraph fear.
 [Q] n. 好斗者; 激进分子; 富有战斗性的人 [A] militant - The militants can smell it on you.
 [Q] n. 傲慢; 自负; 自大 [A] arrogance - Ah. You telegraph arrogance.
 [Q] adj. 直肠的, 肛门的, 肛门附近的 [A] anal - So you think I'm going to take any risks in this anal cavity of a country?
 [Q] n. 洞; 腔; 空穴 [A] cavity - So you think I'm going to take any risks in this anal cavity of a country?
-[Q] n. 忍者；日本武士; [A] ninja - The sexy ninja assassin took the pillow away too soon.
+[Q] n. 忍者; 日本武士; [A] ninja - The sexy ninja assassin took the pillow away too soon.
 [Q] n. 官僚作风的人, 官僚政治论者, 官僚 [A] bureaucrat - Evil American bureaucrat is still alive.
 [Q] n. 杀人; 一般杀人罪 [A] manslaughter - Manslaughter, but you just tell them you were defending yourself. 应该过失杀人 不过你就说我要攻击你
 [Q] 客房服务的托盘 [A] room service tray - and you pretend to take a dirty knife from a room service tray and kill me, yeah?
@@ -43,29 +43,29 @@
 [Q] 集装箱 [A] cargo container - Why do all your sexual fantasies involve you fleeing Cambodia in a cargo container?
 [Q] adj. 全能的; 万能的; 有无限权力的; 非常的; [A] almighty - Oh! Christ almighty. 噢 全能的主啊
 [Q] n. 三倍的, 三人的竞赛, 三人一组 [A] threesome - As you know, threesomes are extra. 你懂的 3P要加钱噢
-[Q] 因为如你所见 我正在开会呢 [A] cause as you can plainly see,I am in the middle of a meeting.
+[Q] 因为如你所见 我正在开会呢 [A] cause as you can plainly see, I am in the middle of a meeting.
 [Q] 你看了我给你的文件夹吗 [A] Did you read through the binders I sent you?
 [Q] 除非它们被加密刻在一个亚裔应召女郎的小穴壁上 不然没看 [A] Unless they were encrypted on the vaginal walls of an Asian call girl, no.
-[Q] vt.& vi. 撕碎，切碎; 用撕毁机撕毁（文件）; [A] shred - We'll have to send someone to track them down and shred them.
+[Q] vt.& vi. 撕碎, 切碎; 用撕毁机撕毁（文件）; [A] shred - We'll have to send someone to track them down and shred them.
 [Q] n. 酒吧的侍者; 酒保 [A] bartender - He's the bartender there.
 [Q] 说到这儿 防患于未然 [A] Speaking of which, let's not let a good crisis go to waste.
-[Q] adj. 该死的，讨厌的; 受诅咒的; [A] goddamn - Now, tell me everything I need to know about Pakistan and not a goddamn thing more.
+[Q] adj. 该死的, 讨厌的; 受诅咒的; [A] goddamn - Now, tell me everything I need to know about Pakistan and not a goddamn thing more.
 [Q] adj. 在进行中的; 起步的; [航]在航行中的; [A] underway - Not for a while. We're underway. 这段时间不行 我们在航行
-[Q] v.（当无法付款时）取消抵押品的赎回权（剥夺分期付款者收回抵押财产的权利）；排除，排斥＝bar； [A] foreclose - It sounds like they're gonna foreclose, 听起来他们要取消抵押品赎回权了
+[Q] v.（当无法付款时）取消抵押品的赎回权（剥夺分期付款者收回抵押财产的权利）; 排除, 排斥＝bar; [A] foreclose - It sounds like they're gonna foreclose, 听起来他们要取消抵押品赎回权了
 [Q] 我不会动那些存货的 你得提高要价 [A] I'm not gonna break into my stock. You need to charge more.
 [Q] n. 涨价; 涨价幅度 [A] markup - Your markup is pathetic. 你的利润少得可怜
 [Q] v. 净赚; [A] net - Most of these poor guys, they net 250 a week. 这些可怜鬼每周的净收入只有250块
 [Q] v. 放弃; 弃绝; 撤出; 交出, 让与 [A] relinquish - A thread obtains ownership of a mutex object by calling one of the lock functions and relinquishes ownership by calling the corresponding unlock function.
 [Q] 万丈雄心令人目眩。 [A] The ambitions are dizzying.
 [Q] 成千上万的铁路建设劳工丧生于险恶的巴西丛林 [A] thousands of laborers perished building railways through the forbidding jungles of Brazil
-[Q] 中国希望打造一条“陆上通道”，通过穿越哥伦比亚的铁路线来把加勒比海和太平洋连接起来。 [A] China has sought to build a “dry canal” in the form of a railway across Colombia, linking the Caribbean to the Pacific.
+[Q] 中国希望打造一条“陆上通道”, 通过穿越哥伦比亚的铁路线来把加勒比海和太平洋连接起来。 [A] China has sought to build a “dry canal” in the form of a railway across Colombia, linking the Caribbean to the Pacific.
 [Q] 中国投资者还宣布将在洪都拉斯进行大型工程 [A] Chinese investors announced another huge venture in Honduras
-[Q] 中国宣布了又一个超级铁路项目，是前述长度的近10倍。它将穿越巴西和秘鲁，贯通南美的东西海岸。 [A] China announced yet another megarailway across Brazil and Peru, stretching from one coast of South America to the other.
-[Q] 然而，在这片大陆的各个地方，中国一个接一个的大型铁路项目开始遭遇拉丁美洲冰冷的政治现实、环境团体的抵制，以及对中国越来越深的警惕。 [A] But across the region, one large Chinese rail venture after another has come crashing against the hard realities of Latin American politics, resistance from environmental groups, and a growing wariness toward China.
-[Q] 尽管中国总是夸耀它在世界各地的铁路项目，但在拉丁美洲却频繁受阻，由此折射出，即便是中国的勃勃雄心也会面临限制。[A] While China boasts of its rail initiatives around the world, it has often been stymied here in Latin America, reflecting how even China’s formidable ambitions have limits.
-[Q] 眼下，在拉丁美洲的不少地区头疼于自身对中国的依赖之际，对中国经济增长状况的新担忧令其口中的“铁路外交”攻势遭受了更多的质疑。 [A] Now, new worries over China’s economic growth are raising more doubts about the blitz of what China calls its “railroad diplomacy,” as parts of Latin America reel from their dependence on China.
-[Q] 尤其是规模庞大的穿越巴西和秘鲁的两大洋铁路计划，“将成为一次关键的考验，衡量的是中国作为一个全球大国的本事，以及中国对南美资源的筹谋会得到我们更大接受度的可能性，”巴西学者表示。 [A] The enormous twin-ocean railroad across Brazil and Peru, in particular, “will be a crucial test of China’s mettle as a global power and the potential for greater acquiescence in South America to the designs that China has on our resources,” said a Brazilian scholar.
-[Q] “鉴于扑朔迷离的中国经济目前处于不稳定状态，我们正在经历对它过度依赖的负面影响，”他还说。“假如这条铁路得以推进，会对环境带来毁灭，给中国送上插手我们事务的更大筹码。想象一下，那会是怎样一番情形？” [A] “We’re experiencing the downside of our overreliance on China now that the opaque Chinese economy is in flux,” he added. “Imagine what will happen if this railway somehow advances, bringing with it environmental devastation and even more leverage for China in our affairs.”
+[Q] 中国宣布了又一个超级铁路项目, 是前述长度的近10倍。它将穿越巴西和秘鲁, 贯通南美的东西海岸。 [A] China announced yet another megarailway across Brazil and Peru, stretching from one coast of South America to the other.
+[Q] 然而, 在这片大陆的各个地方, 中国一个接一个的大型铁路项目开始遭遇拉丁美洲冰冷的政治现实、环境团体的抵制, 以及对中国越来越深的警惕。 [A] But across the region, one large Chinese rail venture after another has come crashing against the hard realities of Latin American politics, resistance from environmental groups, and a growing wariness toward China.
+[Q] 尽管中国总是夸耀它在世界各地的铁路项目, 但在拉丁美洲却频繁受阻, 由此折射出, 即便是中国的勃勃雄心也会面临限制。[A] While China boasts of its rail initiatives around the world, it has often been stymied here in Latin America, reflecting how even China’s formidable ambitions have limits.
+[Q] 眼下, 在拉丁美洲的不少地区头疼于自身对中国的依赖之际, 对中国经济增长状况的新担忧令其口中的“铁路外交”攻势遭受了更多的质疑。 [A] Now, new worries over China’s economic growth are raising more doubts about the blitz of what China calls its “railroad diplomacy, ” as parts of Latin America reel from their dependence on China.
+[Q] 尤其是规模庞大的穿越巴西和秘鲁的两大洋铁路计划, “将成为一次关键的考验, 衡量的是中国作为一个全球大国的本事, 以及中国对南美资源的筹谋会得到我们更大接受度的可能性, ”巴西学者表示。 [A] The enormous twin-ocean railroad across Brazil and Peru, in particular, “will be a crucial test of China’s mettle as a global power and the potential for greater acquiescence in South America to the designs that China has on our resources, ” said a Brazilian scholar.
+[Q] “鉴于扑朔迷离的中国经济目前处于不稳定状态, 我们正在经历对它过度依赖的负面影响, ”他还说。“假如这条铁路得以推进, 会对环境带来毁灭, 给中国送上插手我们事务的更大筹码。想象一下, 那会是怎样一番情形？” [A] “We’re experiencing the downside of our overreliance on China now that the opaque Chinese economy is in flux, ” he added. “Imagine what will happen if this railway somehow advances, bringing with it environmental devastation and even more leverage for China in our affairs.”
 #
 #
 #
@@ -79,7 +79,7 @@
 [Q] 对中国传统医学的肯定 [A] as a vindication of traditional Chinese medicine.
 [Q] n. 生理学 [A] physiology - Her Nobel for medicine or physiology
 [Q] 84岁的屠呦呦未能入选中国科学院院士 [A] Dr. Tu, 84, has been turned down for membership in the Chinese Academy of Sciences
-[Q] 青蒿素的发现源于越南战争期间的一个秘密军事项目，目的是帮助中国的盟友北越对抗疟疾 [A] which grew out of a secret military project during the Vietnam War to fight the malaria that was debilitating China’s allies in North Vietnam
+[Q] 青蒿素的发现源于越南战争期间的一个秘密军事项目, 目的是帮助中国的盟友北越对抗疟疾 [A] which grew out of a secret military project during the Vietnam War to fight the malaria that was debilitating China’s allies in North Vietnam
 [Q] 米色沙发 [A] beige couch
 [Q] 她屡次翻开一些书以说明她的观点 [A] she repeatedly turned to textbooks to make her points.
 [Q] 崇拜者送来的鲜花 [A] flowers from admirers
@@ -92,7 +92,7 @@
 [Q] n. 隔离; 隔离区; 检疫; 检疫所 [A] quarantine - There was a team of acupuncture specialists who were trying to cure patients in quarantine centers.
 [Q] adv. 无限地; 庞大地; 广大地 [A] as the discoverer of this immensely important drug
 [Q] 中国当时有没专利这回事。 [A] China had no such thing as patents back then.
-[Q] 作为小组长，我代表小组领了奖。 [A] As the team leader, I accepted on behalf of the team.
+[Q] 作为小组长, 我代表小组领了奖。 [A] As the team leader, I accepted on behalf of the team.
 [Q] n. 批评家, 鉴定家 [A] critic
 [Q] 每个人都有发表意见的权利。 [A] Everyone is entitled to his opinion.
 [Q] 我们都相信集体主义。 [A] We all believed in collectivism
@@ -101,7 +101,7 @@
 #
 #
 #
-# 印尼烟雾污染再度危害邻国，难寻解决之道
+# 印尼烟雾污染再度危害邻国, 难寻解决之道
 # Southeast Asia, Choking on Haze, Struggles for a Solution
 # http://cn.nytimes.com/science/20151009/c09haze/dual/
 #
@@ -116,7 +116,7 @@
 [Q] 新加坡摩天观景轮 [A] Singapore Flayer
 [Q] 摩天轮 [A] Ferris wheel - n. 费理斯十九世纪美国工程师发明一种转轮
 [Q] 雅加达 [A] Jakarta
-[Q] n.主要部分(组成部分,本质) [A] part and parcel
+[Q] n.主要部分(组成部分, 本质) [A] part and parcel
 [Q] 几近年度仪式 [A] near-annual ritual
 [Q] 苏门答腊岛 [A] Sumatra
 [Q] 再加上厄尔尼诺现象的影响 [A] coupled with the effects of El Nino
@@ -127,7 +127,7 @@
 [Q] 吉隆坡 [A] Kuala Lumpur
 [Q] 高调的抨击 [A] high-profile sniping
 [Q] n. 诉讼, 控诉 [A] lawsuit
-[Q] 这一幕很眼熟，实际上是2013年的情景再现 [A] familiar replay from 2013
+[Q] 这一幕很眼熟, 实际上是2013年的情景再现 [A] familiar replay from 2013
 [Q] 上一次深受浓烟之苦 [A] suffered its last major bout of haze.
 [Q] 危机再次爆发。 [A] the crisis erupted anew.
 [Q] n. 一致; 舆论; 合意; 共识 [A] consensus
@@ -135,9 +135,9 @@
 [Q] adj. 不衰退的, 不减弱的 [A] unabated
 [Q] n. 总部, 总部人员, 司令部 [A] headquarters
 [Q] n. 泥炭地; [A] peatland
-[Q] v. 缩短; 剥夺（特权，官衔等）; 削减; [A] curtail
+[Q] v. 缩短; 剥夺（特权, 官衔等）; 削减; [A] curtail
 [Q] 林地变成农业用地 [A] conversions of forests to agricultural uses
-[Q] adj. 有成本效益的，划算的; 合算的（等于cost-efficient）; [A] cost-effective
+[Q] adj. 有成本效益的, 划算的; 合算的（等于cost-efficient）; [A] cost-effective
 [Q] 很难 [A] daunt enough
 [Q] 控制烟雾 [A] curb the haze
 [Q] 军事人员 [A] military personnel
@@ -163,7 +163,7 @@
 [Q] 做出此举 [A] made the move
 [Q] 遵循通知行事 [A] following notification from
 [Q] n. 子公司, 辅助者, 附加物 [A] subsidiary
-[Q] n. 可持续发展的 持续性，能维持性，永续性; [A] sustainability
+[Q] n. 可持续发展的 持续性, 能维持性, 永续性; [A] sustainability
 [Q] firmly against [A] 坚决反对
 [Q] 解除关系 [A] disengage
 [Q] 反烟雾活动团体 [A] antihaze activist group
@@ -187,8 +187,8 @@
 #
 #
 #
-# “在宇宙中留下印记”的乔布斯，是可以被容忍的
-# In ‘Steve Jobs,’ Tolerating Tech’s Unpleasant Visionaries
+# “在宇宙中留下印记”的乔布斯, 是可以被容忍的
+# In ‘Steve Jobs, ’ Tolerating Tech’s Unpleasant Visionaries
 # http://cn.nytimes.com/technology/20151010/c10state/dual/
 #
 [Q] n. 有幻觉的人; 好幻想的人; 空想家; 有远见卓识者 [A] visionary
@@ -221,7 +221,7 @@
 [Q] 替身 [A] stand-ins
 [Q] 科技释放的强大力量 [A] powerful forces unleashed by technology
 [Q] 最近推出的广受好评的小说 [A] recent acclaimed novel
-[Q] n. 恶棍，大反派 [A] villain
+[Q] n. 恶棍, 大反派 [A] villain
 [Q] 取材自科技行业 [A] takes on the tech industry
 [Q] 流行文化作品的盛行 [A] the bumper crop of pop-cultural
 [Q] 经济担忧; 社会文化方面的焦虑 [A] angst - economic angst; social and cultural angst
@@ -284,11 +284,11 @@
 [Q] 非常不爽 [A] very disconcerting
 [Q] 设备上的审查 [A] On device censorship
 [Q] 毛骨悚然 [A] creepy
-[Q] 很可恶；不像话 [A] outrageous
+[Q] 很可恶; 不像话 [A] outrageous
 #
 #
 #
-# 习近平致信金正恩，中朝关系升温
+# 习近平致信金正恩, 中朝关系升温
 # Message From China’s Leader, Xi Jinping, to North Korea May Signal Thaw
 # http://cn.nytimes.com/china/20151012/c12xi/dual/
 #
@@ -312,14 +312,14 @@
 [Q] 经济援助 [A] economic largess
 [Q] 维持着朝鲜最起码的经济 [A] keeps North Korea’s bare-bones economy afloat
 [Q] 在过去的一年里, 一直在争论 [A] a debate has been roiling in the past year among
-[Q] 这个盟友对中国来说更多地是负担，还是有价值的东西。 [A] whether its ally is more a liability than an asset.
+[Q] 这个盟友对中国来说更多地是负担, 还是有价值的东西。 [A] whether its ally is more a liability than an asset.
 [Q] 双边关系 [A] bilateral relationship
 [Q] 例行公事 [A] “It’s a routine action
 [Q] 副教授 [A] associate professor
 [Q] 与朝鲜重修旧好的机会 [A] as an occasion to mend fences with
 [Q] 金氏王朝 [A] Kim dynasty
 [Q] 恭维之词 [A] fulsome praise
-[Q] 对平壤使用的语言一直是戒备的，甚至是恼火的。 [A] sounded guarded, even irritated, in its language toward Pyongyang.
+[Q] 对平壤使用的语言一直是戒备的, 甚至是恼火的。 [A] sounded guarded, even irritated, in its language toward Pyongyang.
 [Q] 强硬立场 [A] hard-line stance toward
 #
 #
@@ -329,8 +329,8 @@
 # http://cn.nytimes.com/opinion/20151010/c10brooks/dual/
 #
 [Q] n. 提名, 提名权, 任命 [A] nomination
-[Q] 在这个两极分化日益严重的时代，为了赢得党内提名，他们必须在政策上选取一个取悦选民的、伪极端的政策立场。 [A] To win their party’s nomination in an age of growing polarization they have to adopt base-pleasing, pseudo-extreme policy positions.
-[Q] 但是，要赢得大选并真正去执政，他们不得不采取准中间路线的多数派立场。 [A] But to win a general election and actually govern they have to adopt semi-centrist majority positions.
+[Q] 在这个两极分化日益严重的时代, 为了赢得党内提名, 他们必须在政策上选取一个取悦选民的、伪极端的政策立场。 [A] To win their party’s nomination in an age of growing polarization they have to adopt base-pleasing, pseudo-extreme policy positions.
+[Q] 但是, 要赢得大选并真正去执政, 他们不得不采取准中间路线的多数派立场。 [A] But to win a general election and actually govern they have to adopt semi-centrist majority positions.
 [Q] adv. 明亮地; 易觉察地; 显然地; 透明地 [A] transparently
 [Q] v. 拥抱; 包含; 互相拥抱; 拥抱 [A] embrace
 [Q] 转回去 [A] flip back
@@ -355,7 +355,7 @@
 [Q] 一度称之为 [A] at one point calling it...
 [Q] adj. 表示实在的, 独立的, 有实质的 [A] substantive
 [Q] 这不仅仅是一次实实在在的后手翻。 [A] This was not only a substantive flip-flop.
-[Q] 她翻得如此不加遮掩，简直是用一场无畏而响亮的宣言表达自己对后手翻这一动作的信念。[A] It was so naked it amounted to a bold and clarion statement of faith on behalf of flip-flopping itself.
+[Q] 她翻得如此不加遮掩, 简直是用一场无畏而响亮的宣言表达自己对后手翻这一动作的信念。[A] It was so naked it amounted to a bold and clarion statement of faith on behalf of flip-flopping itself.
 [Q] n. 尖音号角, 清晰嘹亮的嗓音; [A] clarion
 [Q] 平底人字拖鞋 [A] flip-flop
 [Q] 它显示了一整套基于无原则的原则建立起来的竞选风格和执政手法。[A] It suggested a whole style of campaigning and method of governing based on the principle of unprincipledness.
@@ -413,7 +413,7 @@
 [Q] adj. 细致优雅的, 美味的, 微妙的 [A] delicate
 [Q] v. 敢于, 冒...的危险; 冒险; n. 冒险, 风险, 投机 [A] venture
 [Q] v. 忍住; 戒除; 抑制 [A] refrain
-[Q] 至少从2012年起，美国一直避免这么近距离地接近中国在南海中占据的岛屿。 [A] The United States has refrained from venturing that close to Chinese-occupied islands in the South China Sea since at least 2012.
+[Q] 至少从2012年起, 美国一直避免这么近距离地接近中国在南海中占据的岛屿。 [A] The United States has refrained from venturing that close to Chinese-occupied islands in the South China Sea since at least 2012.
 [Q] 航空母舰 [A] aircraft carrier
 [Q] n. 通讯记者; 通信者 [A] correspondent
 [Q] CNN记者 [A] CNN correspondent
@@ -452,7 +452,7 @@
 #
 #
 #
-# 天津港爆炸两月后，天津又一仓库起火
+# 天津港爆炸两月后, 天津又一仓库起火
 # China: Fire Strikes Tianjin, 2 Months After Fatal Blast
 # http://cn.nytimes.com/china/20151013/c13tianjin/dual/
 #
@@ -464,7 +464,7 @@
 [Q] v. 夷平; 移平 [A] level
 [Q] 将天津的港口地区的部分移平。 [A] leveled part of Tianjin’s port district
 [Q] 执行不力 [A] lax enforcement
-[Q] n 任用亲信（在委以政治职位时，对朋友进行偏袒的行为）[A] cronyism
+[Q] n 任用亲信（在委以政治职位时, 对朋友进行偏袒的行为）[A] cronyism
 [Q] 政治上的任人唯亲 [A] political cronyism
 [Q] adj. 都市的, 习惯于都市的, 住在都市的 [A] urban
 [Q] 离天津城中心更近 [A] an area far closer to the urban core of Tianjin.
@@ -521,7 +521,7 @@
 [Q] adj. 苦的; 怀恨的; 痛苦的 [A] bitter
 [Q] adj. 易受伤害的, 易受攻击的 [A] vulnerable
 [Q] adv. 例行公事地; 一贯地; [A] routinely
-[Q] v. n. 撤退;让步 [A] retreat
+[Q] v. n. 撤退; 让步 [A] retreat
 [Q] n. 参议院; [A] Senate
 [Q] v. 强迫; 迫使 [A] compel
 [Q] n. 渠道 [A] portal
@@ -530,7 +530,7 @@
 [Q] n. 基本, 原素, 本质 [A] essence
 [Q] 事实上 [A] in essence
 [Q] 汽车后备箱 [A] car trunk
-[Q] 目前看来，情况不错 [A] This looks promising
+[Q] 目前看来, 情况不错 [A] This looks promising
 [Q] 树立起一个先例 [A] set a precedent
 [Q] 国宴 [A] state dinner
 [Q] 宴会主桌 [A] head table
@@ -545,7 +545,7 @@
 #
 #
 #
-# 凭借完美首辩，希拉里踢拜登出局？
+# 凭借完美首辩, 希拉里踢拜登出局？
 # Hillary Clinton Debate Performance Chills Biden Movement
 # http://cn.nytimes.com/usa/20151015/c15clinton/dual/
 #
@@ -580,12 +580,12 @@
 [Q] 进退两难; 困境 [A] dilemma
 [Q] v. 划线于...下, 强调; 突显出 [A] underscore
 [Q] 老将; 资深的 [A] veteran
-[Q] 说到对克林顿的批评，没有人能和 Donald Trump 相提并论。[A] No less a critic of Clinton than Donald Trump
+[Q] 说到对克林顿的批评, 没有人能和 Donald Trump 相提并论。[A] No less a critic of Clinton than Donald Trump
 [Q] v. 承认; [A] concede
 [Q] 可能不会被吓退 [A] may not be dissuaded from giving up
 [Q] v. 劝阻 [A] dissuade
 [Q] n. 权衡; 熟思; 审议; [A] deliberation
-[Q] 对于自己的权衡，他没有透露更多情况 [A] shed no new light on his deliberations
+[Q] 对于自己的权衡, 他没有透露更多情况 [A] shed no new light on his deliberations
 [Q] 偏见 [A] prejudice
 [Q] adv. 柔和地, 谨慎地, 和善地 [A] mildly
 [Q] 尽管我有一些自己的偏好 [A] I'm mildly prejudiced
@@ -626,7 +626,7 @@
 [Q] 遵循; 依照 [A] stick to
 [Q] v. 入庙祀奉; 铭记 [A] enshrine
 [Q] 宗派倾向越来越严重 [A] turned increasingly sectarian
-[Q] 打压了逊尼派，与伊朗保持一致 [A] repressing Sunnis and aligning with Iran
+[Q] 打压了逊尼派, 与伊朗保持一致 [A] repressing Sunnis and aligning with Iran
 [Q] 伊斯兰国 [A] Islamic State (ISIS, ISIL)
 [Q] n. 大浪, 波涛; 浪涌; [A] surge
 [Q] 临时增兵 [A] a temporary surge of American troops
@@ -648,7 +648,7 @@
 #
 #
 #
-# 美式“蜗居”：在奥克兰，住在集装箱和睡箱里
+# 美式“蜗居”：在奥克兰, 住在集装箱和睡箱里
 # Thinking Outside the Box by Moving Into One
 # http://cn.nytstyle.com/living/20151016/t16containers/dual/
 #
@@ -680,7 +680,7 @@
 [Q] v. 仿效; 折叠; 复制 [A] replicate
 [Q] 剥离到基本需求 [A] stripping down to the basics
 [Q] n. 住处, 寓所, 住宅 [A] dwelling
-[Q] 思维定式；心理定势 [A] mind-set
+[Q] 思维定式; 心理定势 [A] mind-set
 [Q] 赠送; 分发, 泄露, 放弃 [A] give away
 [Q] 色彩缤纷的 [A] cheerily painted
 [Q] 哄; 吸引; 劝诱, 哄骗 [A] coax
@@ -700,13 +700,13 @@
 [Q] 相似之处仅限于此 [A] But that is where the similarities between A and B end.
 [Q] n. 铲车 [A] forkshift
 [Q] n. 天蓝色, 碧空 [A] azure
-[Q] 阁楼床；高架床；双层床 [A] loft bed
+[Q] 阁楼床; 高架床; 双层床 [A] loft bed
 [Q] n. 侧面, 胁, 侧腹 [A] flank
 [Q] 还在改造 [A] is still at work on ...
 [Q] 抹泥修墙 [A] spackling
 [Q] n. 板墙; 不涂泥灰的石墙; [A] drywall
 [Q] 厨房台面 [A] kitchen countertop
-[Q] 碾压,切削; 磨坊 [A] mill
+[Q] 碾压, 切削; 磨坊 [A] mill
 [Q] 重新安排 [A] reprioritize
 [Q] adj. 荒谬的, 可笑的 [A] ridiculous
 [Q] 垃圾箱 [A] dumpster
@@ -719,7 +719,7 @@
 [Q] 他替小窝的居住者问 [A] he asked of the dwellers
 [Q] 但除此之外并无其他麻烦 [A] but were otherwise left alone.
 [Q] adj. 郊区; 郊外的, 偏远的 [A] suburban
-[Q] 错视画 [A] trompe l’oeil paint job
+[Q] 错视画 [A] trompe l'oeil paint job
 #
 #
 #
@@ -766,7 +766,7 @@
 [Q] 遮得严严实实 [A] fully veiled
 [Q] adj. 知名; 显赫的; 有名的; 杰出的; [A] eminent
 [Q] v. 使委屈; 愤愤不平 [A] aggrieve
-[Q] n. 扭曲; [A] distortion
+[Q] n. 扭曲 [A] distortion
 [Q] 对剧情的设定 [A] framing
 [Q] v. 联合抵制 [A] boycott
 [Q] v. 欺骗; 愚弄 [A] dupe
@@ -796,7 +796,7 @@
 [Q] adj. 无处不在 [A] ubiquitous
 [Q] 激进的建议 [A] radical suggestion
 [Q] 从遮遮掩掩变为无处不在 [A] from furtive to ubiquitous
-[Q] adj. ；挑逗的; 气人的, 刺激的, 挑拨的 [A] provocative
+[Q] adj. 挑逗的; 气人的, 刺激的, 挑拨的 [A] provocative
 [Q] v. 赶上, 压倒, 突然来袭 [A] overtaken
 [Q] 总编 [A] editor in chief
 [Q] v.n. 开辟, 倡导; 当先驱, 成为开拓者 [A] pioneer
@@ -835,8 +835,6 @@
 [Q] [A] diminished
 [Q] 市场营销的开支 [A] marketing expense
 [Q] n. 店面 [A] storefront
-[Q] [A] libertarian
-[Q] [A] dispense
 [Q] n. 盲文; 布莱叶点字法 [A] Braille
 [Q] 色欲, 欲望 [A] lust
 [Q] 最畅销的一期 [A] best-selling issue
@@ -845,12 +843,121 @@
 [Q] 女权主义者 [A] feminist
 [Q] 开胃小菜; 冷盘 [A] hors d'oeuvre
 [Q] n. 作品, 创作 (来自法语) [A] oeuvre
-[Q] adv.之外;prep.在...之外 [A] hors
+[Q] adv.之外; prep.在...之外 [A] hors
 [Q] v. 监督, 监视 [A] oversee
 [Q] adj. 美味的; 有生气的; 爽利的; 辛辣的 [A] racy
-[Q] 更可亲，更亲密 [A] a little more accessible, a little more intimate
+[Q] 更可亲, 更亲密 [A] a little more accessible, a little more intimate
 [Q] 插页 [A] centerfold
 [Q] 花花公子公司于1971年上市 [A] Playboy, which had gone public in 1971
 [Q] 外表羞涩的 [A] publicity-shy
 [Q] 第五大道 [A] Fifth Avenue
 [Q] 自由意志主义者 [A] libertarian
+#
+#
+#
+# 习近平来访，英国政府谈钱不谈政治
+# Britain to Put Commerce With China First in President Xi Jinping’s State Visit
+# http://cn.nytimes.com/world/20151019/c19china/dual/
+#
+[Q] n. 大臣; 总理; 大法官; 首席法官 [A] chancellor
+[Q] n. 国库, 财政部, 财源 [A] exchequer
+[Q] adj. 动荡的; 不愿向前走的, 难驾御的, 倔强的 [A] restive
+[Q] 动荡的地区 [A] restive region of
+[Q] v. 迫害, 残害; 困扰, 为难 [A] persecute
+[Q] 为...拿到合同 [A] to secure contracts for
+[Q] adj. 感情横溢的; 流出的 [A] effusive
+[Q] 热情洋溢地说 [A] in effusive language
+[Q] adj. 有争议的; 好争吵的, 有异议的, 爱争论的 [A] contentious
+[Q] 有争议的议题 [A] contentious issues
+[Q] n. 马车, 四轮大马车; [A] carriage
+[Q] 皇家马车 [A] royal horse-drawn carriage
+[Q] v. 预报; 传达; 宣布 [A] herald
+[Q] 官方媒体 [A] state-run news media
+[Q] 于...结束 [A] run through
+[Q] v. 铺设, 为...铺路, 安排 [A] pave
+[Q] 为...铺平道路 [A] pave the way for
+[Q] adj. 被堵塞的; 有条纹的; 闩住的 [A] barred - Huawei Technologies, the Chinese telecom company, which is barred from operations in the United States on security grounds
+[Q] 委员会 [A] board - A British board established to monitor the company’s operations
+[Q] 不构成威胁 [A] it poses no threat
+[Q] adj. 铁蹄上装有防滑钉的; 残暴的, 无情的 [A] roughshod
+[Q] 他不把...看在眼里 [A] He is running roughshod over...
+[Q] 西藏流亡精神领袖 [A] exiled Tibetan spiritual leader
+[Q] v. 流放, 放逐; 使离乡背井 [A] exile
+[Q] n. 文件夹, 卷宗夹; 部长职; 公事包; 大臣职 [A] portfolio
+[Q] n. 债券 [A] bond
+[Q] adj. 笨拙的 [A] awkward
+[Q] 令人尴尬的事 [A] awkward twist
+[Q] 《大宪章》 [A] Magna Carta
+[Q] 概述 [A] outline
+[Q] 极大政治影响力的 [A] politically explosive
+[Q] “行政”原因 [A] "administrative" reasons.
+[Q] 准备... [A] be poised to - The design of the nuclear plant that the Chinese are poised to invest in has drawn criticism
+[Q] 股份 [A] stake
+[Q] n. 饵 [A] bait
+[Q] v. 值得, 应受; 应受 [A] merit - a radical move that certainly merits a public debate on the grounds of national security.(对这一过激做法肯定应该进行公开的辩论。)
+#
+#
+#
+# 大众承认欺骗，车主却不愿修车
+# The Owner Has a Crucial Part in Volkswagen Diesel Repair
+# http://cn.nytimes.com/business/20151019/c19repair/dual/
+#
+[Q] 大众 [A] Volkswagen
+[Q] n. 柴油机 [A] diesel
+[Q] 从事; 着手 [A] embark on
+[Q] n. 篱笆; 障碍; 栏 [A] hurdle
+[Q] n. 扭矩 [A] torque
+[Q] v. 改装; 对...作翻新改进 [A] retrofit
+[Q] adj. 诡辩的, 久经世故的; 复杂的; 精密的 [A] sophisticated - But those tests are far less sophisticated than the E.P.A.'s 但这些测试远不如EPA那么精密
+[Q] n. 欺骗; 谎言; 骗局; 舞弊; 作弊; [A] deceit
+[Q] 漏洞 [A] loophole
+[Q] adj. 可修缮的, 可补偿的, 可赔偿的 [A] reparable
+[Q] adj. 无法挽回的; 不能修补的, [A] irreparable
+[Q] n. 氮 [A] nitrogen
+[Q] n. 氧化物 [A] oxide
+[Q] n. 污染物质 [A] pollutant
+[Q] 中型 [A] medium-duty
+[Q] n. 兄弟姐妹; 民族成员; 同胞 [A] sibling
+#
+#
+#
+# 台湾大选国民党临阵换将，朱立伦替下洪秀柱
+# Fearing Election Losses, Taiwan’s Governing Party Drops Its Presidential Candidate
+# http://cn.nytimes.com/china/20151018/c18taiwan/dual/
+#
+[Q] 执政党 [A] Governing Party
+[Q] 民进党 [A] Democratic Progressive Party
+[Q] 民意调查 [A] polls
+[Q] 落后 [A] trail - He replaced Hung Hsiu-chu, who in polls has badly trailed Tsai Ing-wen 他代替了洪秀柱，后者在民调中远远落后于反对党民进党推选的候选人蔡英文
+[Q] v. 压制; 驳回, 支配, 否决 [A] overrule - she was overruled by party elders 她被党内元老压制
+[Q] n. 立法院 [A] Legislature
+[Q] 国民党 [A] Nationalist Party
+[Q] n. 权力主义者; 独裁主义者 [A] authoritarian
+[Q] n. 摇动, 摇摆; 统治; 支配; 影响 [A] sway
+[Q] 中国的经济影响力 [A] economic sway of China
+[Q] n. 契约, 条约, 协定 [A] pact
+[Q] 贸易协定 [A] trade pact
+[Q] adv. 大大地; 激烈地; 彻底地 [A] drastically
+[Q] v. 降低; 渐渐破坏, 暗地里破坏, 挖掘地基 [A] undermine - further undermined the Kuomintang’s already weak chances. 降低了国民党微弱的获胜可能性
+[Q] adj. 有雅量的, 大量的, 量大的 [A] generous - a generous dose of ignorance and arrogance 相当的无知和傲慢
+[Q] n. 剂量, 服用量 [A] dose - a generous dose of ignorance and arrogance 相当的无知和傲慢
+[Q] 意识到 [A] sense
+[Q] v. 恶化; 激怒; 增剧 [A] exacerbate
+[Q] adj. 误人子弟; 含有...的, 充满...的, 伴着...的 [A] fraught
+[Q] 原本就令人担忧的局势 [A] already fraught situation - exacerbate an already fraught situation for the party
+[Q] adj. 当代的; 现代的; 同时代的 [A] contemporary - University of Nottingham’s School of Contemporary Chinese Studies 诺丁汉大学当代中国研究学院
+[Q] adv. 漫不经心的; 愉快地; 快乐地; 轻率地 [A] blithely - And for months they blithely carried on 几个月来他们对此无知无觉
+[Q] v.n. 争吵, 口角 [A] squabble
+[Q] 国会议员 [A] lawmaker
+[Q] n. 说法; 断言; 辩解; 申述; 主张 [A] allegation
+[Q] n. 感情, 心情 - 观点 [A] sentiment - But the party has de-emphasized such sentiments during this campaign. 但民进党在此次选举中弱化了这种观点。
+[Q] 弱化 [A] de-emphasized
+[Q] 现状 [A] status quo
+[Q] 放样 [A] stake out - Tsai has staked out the center ground 蔡英文已经划出了一个核心范围
+[Q] adv. 踏实地; 不变地 [A] steadfastly
+[Q] 明确地坚持 [A] sticking steadfastly to
+[Q] 维持现状 [A] maintaining the status quo
+[Q] 阿喀琉斯之踵 - 致命要害 [A] Achilles’ heel
+[Q] adj 美味的；令人愉快的 [A] palatable - It is ambiguous enough and palatable enough for most players 它对大多数参与者来说模棱两可，足以令人接受。
+[Q] n. 不一致 [A] disparity
+[Q] 收入差距的拉大 [A] growing income disparity
