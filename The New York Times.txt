@@ -9,7 +9,7 @@
 [Q] adj. 有助于记忆的。 [A] mnemonic - Inserting an ampersand character (&) causes the letter following it to be used as a mnemonic for the menu.
 [Q] adj. 过分单纯化的, 过分简单化的(片面看问题的)。 [A] simplistic - "simple" might sometimes morph into "simplistic."
 [Q] n. 手续费 [A] commission
-[Q] n.预占, 抢先。 [A] preemption - preemption possible
+[Q] n. 预占, 抢先。 [A] preemption - preemption possible
 [Q] n. 带信人; 持有人; 持票人; 挑夫; 搬运工 [A] bearer
 [Q] v. 惧怕; 担心 [A] dread - enters the dreaded deadlock.
 [Q] adj. 过度的(不相称的, 未到支付期的; 过分的; 不适当的; 不正当的 [A] undue - If your class makes undue requirements on unbounded code, that's usually a sign that encapsulation is out the window.
@@ -51,7 +51,7 @@
 [Q] 说到这儿 防患于未然 [A] Speaking of which, let's not let a good crisis go to waste.
 [Q] adj. 该死的, 讨厌的; 受诅咒的; [A] goddamn - Now, tell me everything I need to know about Pakistan and not a goddamn thing more.
 [Q] adj. 在进行中的; 起步的; [航]在航行中的; [A] underway - Not for a while. We're underway. 这段时间不行 我们在航行
-[Q] v.（当无法付款时）取消抵押品的赎回权（剥夺分期付款者收回抵押财产的权利）; 排除, 排斥＝bar; [A] foreclose - It sounds like they're gonna foreclose, 听起来他们要取消抵押品赎回权了
+[Q] v. （当无法付款时）取消抵押品的赎回权（剥夺分期付款者收回抵押财产的权利）; 排除, 排斥＝bar; [A] foreclose - It sounds like they're gonna foreclose, 听起来他们要取消抵押品赎回权了
 [Q] 我不会动那些存货的 你得提高要价 [A] I'm not gonna break into my stock. You need to charge more.
 [Q] n. 涨价; 涨价幅度 [A] markup - Your markup is pathetic. 你的利润少得可怜
 [Q] v. 净赚; [A] net - Most of these poor guys, they net 250 a week. 这些可怜鬼每周的净收入只有250块
@@ -70,7 +70,7 @@
 #
 #
 # 屠呦呦谈诺奖争议：西方奖项更重视个人
-# http://cn.nytimes.com/china/20151010/c10sino-tuyouyou/dual/
+# http://cn. nytimes.com/china/20151010/c10sino-tuyouyou/dual/
 #
 [Q] n. 冶金, 冶金术 [A] metallurgy - metallurgy engineer 冶金工程师
 [Q] 纷至沓来的电话和祝福 [A] the clamor of phone calls and well-wishers
@@ -103,7 +103,7 @@
 #
 # 印尼烟雾污染再度危害邻国, 难寻解决之道
 # Southeast Asia, Choking on Haze, Struggles for a Solution
-# http://cn.nytimes.com/science/20151009/c09haze/dual/
+# http://cn. nytimes.com/science/20151009/c09haze/dual/
 #
 [Q] n. 霾, 薄雾; 模糊; 朦胧 [A] haze
 [Q] n. 天桥, 陆桥 立交桥 [A] overpass - taking an overpass that provides a stunning view of the popular hotels and tourist attractions around Marina Bay.
@@ -116,7 +116,7 @@
 [Q] 新加坡摩天观景轮 [A] Singapore Flayer
 [Q] 摩天轮 [A] Ferris wheel - n. 费理斯十九世纪美国工程师发明一种转轮
 [Q] 雅加达 [A] Jakarta
-[Q] n.主要部分(组成部分, 本质) [A] part and parcel
+[Q] n. 主要部分(组成部分, 本质) [A] part and parcel
 [Q] 几近年度仪式 [A] near-annual ritual
 [Q] 苏门答腊岛 [A] Sumatra
 [Q] 再加上厄尔尼诺现象的影响 [A] coupled with the effects of El Nino
@@ -189,7 +189,7 @@
 #
 # “在宇宙中留下印记”的乔布斯, 是可以被容忍的
 # In ‘Steve Jobs, ’ Tolerating Tech’s Unpleasant Visionaries
-# http://cn.nytimes.com/technology/20151010/c10state/dual/
+# http://cn. nytimes.com/technology/20151010/c10state/dual/
 #
 [Q] n. 有幻觉的人; 好幻想的人; 空想家; 有远见卓识者 [A] visionary
 [Q] 科幻小说或电影很少描述 [A] portray - so seldom portrayed in science fiction or movies
@@ -250,7 +250,7 @@
 [Q] 让他不断向前 [A] gets him going
 [Q] 强烈愿望 [A] insatiable desire
 [Q] 执着 [A] insistence
-[Q] n. 笑柄; v.使惹人嘲笑 [A] pillory - is usually pilloried in the news media
+[Q] n. 笑柄; v. 使惹人嘲笑 [A] pillory - is usually pilloried in the news media
 [Q] 最终可以被容忍 [A] ultimately tolerated
 [Q] 毋庸置疑 [A] a matter of dispute
 [Q] 它引发的忧虑和激起的希望不相上下 [A] it raises almost as many fears as it does hopes.
@@ -269,7 +269,7 @@
 #
 # 苹果在中国境内禁用其新闻应用
 # Apple Is Said to Deactivate Its News App in China
-# http://cn.nytimes.com/technology/20151012/c12apple/dual/
+# http://cn. nytimes.com/technology/20151012/c12apple/dual/
 #
 [Q] 对媒体和网上言论的严格规定 [A] strict rules governing media and online expression
 [Q] 收入来源 [A] source of revenue
@@ -290,7 +290,7 @@
 #
 # 习近平致信金正恩, 中朝关系升温
 # Message From China’s Leader, Xi Jinping, to North Korea May Signal Thaw
-# http://cn.nytimes.com/china/20151012/c12xi/dual/
+# http://cn. nytimes.com/china/20151012/c12xi/dual/
 #
 [Q] 一封热情的函件 [A] a warm note
 [Q] 执政党 [A] ruling party
@@ -314,7 +314,7 @@
 [Q] 在过去的一年里, 一直在争论 [A] a debate has been roiling in the past year among
 [Q] 这个盟友对中国来说更多地是负担, 还是有价值的东西。 [A] whether its ally is more a liability than an asset.
 [Q] 双边关系 [A] bilateral relationship
-[Q] 例行公事 [A] “It’s a routine action
+[Q] 例行公事 [A] it's a routine action
 [Q] 副教授 [A] associate professor
 [Q] 与朝鲜重修旧好的机会 [A] as an occasion to mend fences with
 [Q] 金氏王朝 [A] Kim dynasty
@@ -326,7 +326,7 @@
 #
 # 见风使舵会让希拉里赢得大选吗？
 # Hillary Clinton’s Opportunist Solution!
-# http://cn.nytimes.com/opinion/20151010/c10brooks/dual/
+# http://cn. nytimes.com/opinion/20151010/c10brooks/dual/
 #
 [Q] n. 提名, 提名权, 任命 [A] nomination
 [Q] 在这个两极分化日益严重的时代, 为了赢得党内提名, 他们必须在政策上选取一个取悦选民的、伪极端的政策立场。 [A] To win their party’s nomination in an age of growing polarization they have to adopt base-pleasing, pseudo-extreme policy positions.
@@ -365,7 +365,7 @@
 [Q] n. 选民, 读者, 顾客 [A] constituency
 [Q] n. 主旋律; 主导主题; 主旨, 主题 [A] leitmotif
 [Q] 实习生 [A] intern
-[Q] 记录了克林顿的转变 [A] documented Clinton’s shifts
+[Q] 记录了克林顿的转变 [A] documented Clinton's shifts
 [Q] 在各种问题上发表过的对立性声明。 [A] statements on either side of various issues.
 [Q] 支持同性婚姻 [A] she is pro-gay marriage.
 [Q] n. 监禁 [A] incarceration
@@ -396,7 +396,7 @@
 #
 # 美国南海巡航计划挑战中国领海主张
 # U.S. Briefing Asian Allies on Plans for Naval Patrols in South China Sea
-# http://cn.nytimes.com/asia-pacific/20151013/c13islands/dual/
+# http://cn. nytimes.com/asia-pacific/20151013/c13islands/dual/
 #
 [Q] 人工岛屿 [A] artificial islands
 [Q] 海军巡逻 [A] naval patrols
@@ -436,7 +436,7 @@
 [Q] 以...为名(借口) [A] under the pretext of
 [Q] 严重关切 [A] severely concerned
 [Q] 高级助手 [A] senior aides
-[Q] 《联合国海洋法公约》 [A] The U.N. Convention on the Law of the Sea
+[Q] 《联合国海洋法公约》 [A] The U.n. Convention on the Law of the Sea
 [Q] n. 开垦; 收回; 改造 [A] reclamation
 [Q] 填海造陆 [A] land reclamation
 [Q] v. 调节, 使适应, 和解; 供应; 适应 [A] accommodate
@@ -454,7 +454,7 @@
 #
 # 天津港爆炸两月后, 天津又一仓库起火
 # China: Fire Strikes Tianjin, 2 Months After Fatal Blast
-# http://cn.nytimes.com/china/20151013/c13tianjin/dual/
+# http://cn. nytimes.com/china/20151013/c13tianjin/dual/
 #
 [Q] 官方新闻媒体报道 [A] the state news media reported
 [Q] 这场事故发生在 [A] the episode took place
@@ -473,7 +473,7 @@
 #
 # 补钙其实无助于增强骨质
 # Calcium Doesn’t Improve Bone Density, Analysis Finds
-# http://cn.nytimes.com/readers-translation/20151013/c13well-calcium-reader/dual/
+# http://cn. nytimes.com/readers-translation/20151013/c13well-calcium-reader/dual/
 #
 [Q] n. 钙 [A] calcium
 [Q] n. 破碎, 骨折 [A] fracture
@@ -486,7 +486,7 @@
 #
 # 中国维权律师王宇之子被软禁
 # Bao Zhuoxuan, Son of Rights Lawyer Held in China, Is Said to Be Under House Arrest
-# http://cn.nytimes.com/china/20151013/c13lawyersson/dual/
+# http://cn. nytimes.com/china/20151013/c13lawyersson/dual/
 #
 [Q] 软禁 [A] under house arrest
 [Q] v. 拘押, 扣留, 阻止, 扣押 [A] detain
@@ -499,7 +499,7 @@
 [Q] v. 激励; 煽动; 激起 [A] incite
 [Q] n. 颠覆 [A] subversion
 [Q] 煽动颠覆国家政权 [A] inciting subversion of state power.
-[Q] n.宾馆 [A] guesthouse
+[Q] n. 宾馆 [A] guesthouse
 [Q] n. 监视, 监督 [A] surveillance
 [Q] v. 给...姓氏; 给...起别名; 以姓氏称呼; 以别名称呼 [A] surnamed
 [Q] n. 羁押; 滞留; 拘留; 延迟 [A] detention
@@ -513,7 +513,7 @@
 #
 # 奥巴马放弃要求科技公司“开后门”
 # Obama Won’t Seek Access to Encrypted User Data
-# http://cn.nytimes.com/usa/20151012/c12cyber/dual/
+# http://cn. nytimes.com/usa/20151012/c12cyber/dual/
 #
 [Q] 在与...的争执中做出了让步 [A] backed down in its bitter dispute with
 [Q] 执法机构 [A] law enforcement agencies
@@ -547,7 +547,7 @@
 #
 # 凭借完美首辩, 希拉里踢拜登出局？
 # Hillary Clinton Debate Performance Chills Biden Movement
-# http://cn.nytimes.com/usa/20151015/c15clinton/dual/
+# http://cn. nytimes.com/usa/20151015/c15clinton/dual/
 #
 [Q] 踢拜登出局 [A] Chills Biden Movement
 [Q] 民主党人 [A] democrat
@@ -559,7 +559,7 @@
 [Q] 前景; 希望 [A] prospect
 [Q] v. 支吾, 蹒跚地走 [A] falter
 [Q] n. 失误; 失足, 失策, 过失 [A] misstep
-[Q] v.n. 捕食, 折磨, 掠夺 [A] prey
+[Q] v. n. 捕食, 折磨, 掠夺 [A] prey
 [Q] adj. 毁灭的; 严重的 [A] damning
 [Q] n. 被曝; 显示, 被揭露的事, 揭露; [A] revelation
 [Q] n. 共和党人士; [A] Republican
@@ -600,7 +600,7 @@
 #
 # 伊拉克的教训影响奥巴马阿富汗决策
 # Lessons of Iraq Loom Over Obama’s Decision to Keep Troops in Afghanistan
-# http://cn.nytimes.com/usa/20151016/c16prexy/dual/
+# http://cn. nytimes.com/usa/20151016/c16prexy/dual/
 #
 [Q] 阿富汗 [A] Afghanistan
 [Q] v. 隐约地出现; [A] loom - loom over - Lessons of Iraq Loom Over Obama’s Decision to Keep Troops in Afghanistan
@@ -650,7 +650,7 @@
 #
 # 美式“蜗居”：在奥克兰, 住在集装箱和睡箱里
 # Thinking Outside the Box by Moving Into One
-# http://cn.nytstyle.com/living/20151016/t16containers/dual/
+# http://cn. nytstyle.com/living/20151016/t16containers/dual/
 #
 [Q] adj. 中间的; 中值 [A] median
 [Q] 中值租金 [A] median rent
@@ -725,7 +725,7 @@
 #
 # 《国土安全》被“植入”抗议涂鸦
 # Street Artists Infiltrate ‘Homeland’ With Subversive Graffiti
-# http://cn.nytimes.com/world/20151016/c16homeland/dual/
+# http://cn. nytimes.com/world/20151016/c16homeland/dual/
 #
 [Q] v. 渗入; "植入" [A] infiltrate
 [Q] adj. 从事颠覆的; 抗议的 [A] subversive
@@ -741,7 +741,7 @@
 [Q] 自称是这些涂鸦的创作者 [A] took credit for the graffiti
 [Q] 邀功 [A] take credit for
 [Q] adj. 微妙的 [A] subtle
-[Q] n.v. 抗议 [A] protest
+[Q] n. v. 抗议 [A] protest
 [Q] 刻板印象 [A] stereotype
 [Q] n. 郊区 [A] outskirts
 [Q] v. 发泄 [A] vent
@@ -779,7 +779,7 @@
 #
 # 没了裸女照的《花花公子》还剩下什么？
 # Nudes Are Old News at Playboy
-# http://cn.nytstyle.com/culture/20151016/t16playboy/dual/
+# http://cn. nytstyle.com/culture/20151016/t16playboy/dual/
 #
 [Q] 旗下的夜总会 [A] X's spinoff clubs
 [Q] n. 资产分派; 让产易股; 附带的利益; 副产品; 续集 [A] spinoff
@@ -799,12 +799,12 @@
 [Q] adj. 挑逗的; 气人的, 刺激的, 挑拨的 [A] provocative
 [Q] v. 赶上, 压倒, 突然来袭 [A] overtaken
 [Q] 总编 [A] editor in chief
-[Q] v.n. 开辟, 倡导; 当先驱, 成为开拓者 [A] pioneer
+[Q] v. n. 开辟, 倡导; 当先驱, 成为开拓者 [A] pioneer
 [Q] n. 接合, 接缝, 连接; 关口 [A] juncture
 [Q] n. 仪式, 习俗, 典礼 [A] rite
 [Q] 文化仪式 [A] cultural rite
 [Q] adj. 非法的, 违禁的 [A] illicit
-[Q] n.v. 震颤, 刺激性, 激动; 快感 [A] thrill
+[Q] n. v. 震颤, 刺激性, 激动; 快感 [A] thrill
 [Q] 不正当的刺激 [A] illicit thrill
 [Q] adj. 色情的; 色情作品的 [A] pornographic
 [Q] 色情杂志 [A] Pornographic magazines
@@ -832,7 +832,6 @@
 [Q] 年轻人喜欢(被吸引到)艺术 [A] younger people are drawn to art
 [Q] 香水 [A] fragrances
 [Q] n. 商品; 货物 [A] merchandise
-[Q] [A] diminished
 [Q] 市场营销的开支 [A] marketing expense
 [Q] n. 店面 [A] storefront
 [Q] n. 盲文; 布莱叶点字法 [A] Braille
@@ -843,7 +842,7 @@
 [Q] 女权主义者 [A] feminist
 [Q] 开胃小菜; 冷盘 [A] hors d'oeuvre
 [Q] n. 作品, 创作 (来自法语) [A] oeuvre
-[Q] adv.之外; prep.在...之外 [A] hors
+[Q] adv. 之外; prep.在...之外 [A] hors
 [Q] v. 监督, 监视 [A] oversee
 [Q] adj. 美味的; 有生气的; 爽利的; 辛辣的 [A] racy
 [Q] 更可亲, 更亲密 [A] a little more accessible, a little more intimate
@@ -857,7 +856,7 @@
 #
 # 习近平来访，英国政府谈钱不谈政治
 # Britain to Put Commerce With China First in President Xi Jinping’s State Visit
-# http://cn.nytimes.com/world/20151019/c19china/dual/
+# http://cn. nytimes.com/world/20151019/c19china/dual/
 #
 [Q] n. 大臣; 总理; 大法官; 首席法官 [A] chancellor
 [Q] n. 国库, 财政部, 财源 [A] exchequer
@@ -900,7 +899,7 @@
 #
 # 大众承认欺骗，车主却不愿修车
 # The Owner Has a Crucial Part in Volkswagen Diesel Repair
-# http://cn.nytimes.com/business/20151019/c19repair/dual/
+# http://cn. nytimes.com/business/20151019/c19repair/dual/
 #
 [Q] 大众 [A] Volkswagen
 [Q] n. 柴油机 [A] diesel
@@ -923,7 +922,7 @@
 #
 # 台湾大选国民党临阵换将，朱立伦替下洪秀柱
 # Fearing Election Losses, Taiwan’s Governing Party Drops Its Presidential Candidate
-# http://cn.nytimes.com/china/20151018/c18taiwan/dual/
+# http://cn. nytimes.com/china/20151018/c18taiwan/dual/
 #
 [Q] 执政党 [A] Governing Party
 [Q] 民进党 [A] Democratic Progressive Party
@@ -947,7 +946,7 @@
 [Q] 原本就令人担忧的局势 [A] already fraught situation - exacerbate an already fraught situation for the party
 [Q] adj. 当代的; 现代的; 同时代的 [A] contemporary - University of Nottingham’s School of Contemporary Chinese Studies 诺丁汉大学当代中国研究学院
 [Q] adv. 漫不经心的; 愉快地; 快乐地; 轻率地 [A] blithely - And for months they blithely carried on 几个月来他们对此无知无觉
-[Q] v.n. 争吵, 口角 [A] squabble
+[Q] v. n. 争吵, 口角 [A] squabble
 [Q] 国会议员 [A] lawmaker
 [Q] n. 说法; 断言; 辩解; 申述; 主张 [A] allegation
 [Q] n. 感情, 心情 - 观点 [A] sentiment - But the party has de-emphasized such sentiments during this campaign. 但民进党在此次选举中弱化了这种观点。
@@ -961,3 +960,133 @@
 [Q] adj 美味的；令人愉快的 [A] palatable - It is ambiguous enough and palatable enough for most players 它对大多数参与者来说模棱两可，足以令人接受。
 [Q] n. 不一致 [A] disparity
 [Q] 收入差距的拉大 [A] growing income disparity
+#
+#
+#
+# 中国沿海湿地锐减，威胁生态安全
+# Rapid Economic Growth in China Is Chipping Away at Coastal Wetlands
+# http://cn. nytimes.com/china/20151020/c20china/dual/
+#
+[Q] 蚕食 [A] chip away
+[Q] 沿海湿地 [A] coastal wetlands
+[Q] n. 捕鱼权; 渔业权; 渔业 [A] fishery
+[Q] n. 尖叫, 强烈抗议, 倒彩 [A] outcry
+[Q] 舆论哗然; 公众强烈抗议之声 [A] public outcry
+[Q] n. 院长, 主持牧师 [A] dean
+[Q] v. 衰退; 变坏; 堕落; 退化 [A] degenerate
+[Q] 生物多样性 [A] biodiversity
+[Q] adj. 决定性的, 果断的, 坚定的 [A] decisive
+[Q] adj. 完全的, 充分的; 全体出席的; 绝对的 [A] plenary
+[Q] 全会 [A] plenary session
+[Q] 国务院 [A] State Council
+[Q] n. 英亩 [A] acres
+[Q] v. 危及 [A] endanger
+[Q] 绕开 [A] bypass - It added that “huge economic returns from reclamation have prompted local governments to ‘bypass’ regulations issued by the central government.”“填海造地的丰厚经济回报让地方政府‘绕开’中央政府发布的规定。”
+[Q] 法律依据 [A] legal basis
+[Q] n. 栖息地, 自生地, 居留地 [A] habitat - most important habitats for migratory birds. 最重要的候鸟栖息地。
+[Q] 北京师范大学 [A] Beijing Normal University
+[Q] 可以说; 所谓 [A] so to speak - “China’s wetlands are the only gas station, so to speak, along the way,” “可以说，中国湿地是它们沿途的唯一加油站，”
+[Q] n. 差异; 多样性 [A] diversity
+#
+#
+#
+# 虾仔传奇（一）：从黑帮大佬到守法公民？
+# Shrimp Boy’s Day in Court
+# http://cn.nytimes.com/usa/20151019/c19shrimp1/dual/
+#
+[Q] n. 虾; 无足轻重的人; 矮个子; 小东西 [A] shrimp
+[Q] 五金店 [A] hardware store
+[Q] 油漆桶 [A] paint bucket
+[Q] n. 葡萄酒商 [A] vintner
+[Q] 黑帮首领 [A] mafia don
+[Q] n. 独立产权的公寓 [A] condo
+[Q] 这种生活很不一样，让人兴奋 [A] a state he found exotic and thrilling.
+[Q] adj. 异国的, 外来的 [A] exotic
+[Q] 环境保护论 [A] environmentalism
+[Q] 节约汽油 [A] conserving gas
+[Q] v. 汲取, 挖空, 舀取 [A] scoop
+[Q] 照顾狗(在遛狗时收起他们的大便) [A] scoop up after dogs
+[Q] 梗犬 [A] terrier
+[Q] 獒犬 [A] mastiff
+[Q] n. 牡蛎, 沉默者, 蚝 [A] oyster
+[Q] 蘸酱 [A] dip
+[Q] 小卖部; 杂货店 [A] commissary
+[Q] n. 金枪鱼 [A] tuna
+[Q] n. 蛋黄酱 [A] mayonnaise
+[Q] 玉米片 [A] corn chip
+[Q] n. 剩货, 剩饭, 残留物 [A] leftover
+[Q] n. 粗燕麦粉; 粗面粉 [A] grits
+[Q] v. 潜逃; 逃亡; 避债 [A] abscond - which Shrimp Boy ate when he could abscond with some leftover grits from breakfast in prison 在监狱里能偷偷藏起一些早餐吃剩的粗玉米粉时
+[Q] 湿纸巾 [A] damp paper towel
+[Q] adj. 潮湿的 [A] damp
+[Q] n. 酸 [A] acid
+[Q] n. 酵母, 发酵粉 [A] yeast
+[Q] n. 门廊, 走廊 [A] porch
+[Q] v. 发酵 [A] ferment
+[Q] n. 成分; 因素 [A] ingredient
+[Q] n. 市郊, 边缘, 郊区 [A] suburb
+[Q] 不合时宜 [A] out of place - He was so out of place in society 在社会上，他显得特别不合时宜
+[Q] adj. 防弹的 [A] bulletproof
+[Q] 奔驰 [A] Mercedes
+[Q] n. 碎片, 残余物 [A] scrap - vegetable scraps 蔬菜等剩饭
+[Q] n. 混合物, 堆肥 [A] compost - put the recycling in the blue garbage can and the vegetable scraps in the green compost one. 堆肥桶
+[Q] 黑帮老大 [A] gang boss
+[Q] 正直的公民 [A] upstanding citizen
+[Q] 实地考察 (校外活动) [A] field trip - Shrimp Boy organized a field trip for students at Lo’s daughter’s school to participate in the Chinese New Year parade. 参加农历新年大游行
+[Q] n. 校长; adj. 主要的; 首要的 [A] the principal
+[Q] adj. 异乎寻常的; 惊人的; 过分的 [A] egregious
+[Q] 出镜 [A] tape - While taping a 2008 segment for the TV series ‘‘Gangland,’’ he gloated, ‘‘In this city, I’m the man that calls the shots.’’
+[Q] 幸灾乐祸; 得意忘形 [A] gloat - he gloated, ‘‘In this city, I’m the man that calls the shots.’’ 他得意忘形地说，“在这个城市，我说了算。”
+[Q] 发号施令; 定调子, 操纵 [A] calls the shots
+[Q] 过去式 [A] past tense
+[Q] 现在回想起来 [A] in hindsight
+[Q] n. 事后; 事后的认识, 后见之明, 事后聪明; [A] hindsight
+[Q] 穿着一身白 [A] worn all white - In hindsight, Shrimp Boy also probably should not have worn all white to the funeral of a murdered rival Chinese gang leader in 2006.
+[Q] 律师 [A] attorney
+[Q] 法庭文件 [A] court filing
+[Q] n. 敲诈勒索 [A] racketeering
+[Q] v. 劝告, 忠告; 提议; 商议, 劝告 [A] counsel - He counseled at-risk high-school students about addiction to crime. 他为有危险倾向的高中生解答有关犯罪嗜好的问题。
+[Q] 有危险倾向的 [A] at-risk
+[Q] 犯罪嗜好 [A] addiction to crime
+[Q] 代笔人 [A] ghostwriter
+[Q] n. 传记, 追思录, 回忆录 [A] memoir
+[Q] 地狱之子 [A] Son of the Underworld
+[Q] n. 妓女 [A] prostitute
+[Q] 刑满释放 [A] ex-cons
+[Q] n. 慰藉; 安慰 [A] solace - He told fellow ex-cons about the solace he found in Lo’s dogs.
+[Q] n. 牛尾 [A] oxtail
+[Q] 牛尾汤 [A] oxtail soup
+[Q] 漫画 [A] comics
+[Q] n. 黎明 [A] dawn
+[Q] n. 浩劫 ; 大破坏, 蹂躏 [A] havoc
+[Q] 为了让事态最小化 [A] to minimize the havoc
+[Q] 我差点笑了 [A] I kind of laughed
+#
+#
+#
+# 狗从哪里来？基因研究揭晓答案
+# Central Asia Could Be Birthplace of the Modern Dog
+# http://cn.nytimes.com/science/20151020/c20dogs/dual/
+#
+[Q] n. 祖宗, 祖先; 先驱; 原型; 被继承人 [A] ancestor
+[Q] 在这件事上，科学家们的意见相当一致。 [A] Scientists are pretty consistent about that.
+[Q] n. 起源; 起因; 由来; 出身 [A] origin
+[Q] n. 纯种的动物 [A] purebred
+[Q] n. 清道夫, 食腐动物 [A] scavenger
+[Q] 自由放养(流浪的) [A] free-ranging
+[Q] adj. 不同的; 变化多的 [A] diverse
+[Q] n. 品种; 种类, 类型 [A] breed
+[Q] adj. 地理学的; 地理的 [A] geographic
+[Q] 地理群落 [A] geographic groups
+[Q] adj. 全然的; 绝对的; 纯粹的 [A] sheer - the sheer number of street dogs
+[Q] n. 宽度; 幅; 幅宽 [A] breadth - geographic breadth 地域广度
+[Q] 排除 [A] rule out
+[Q] v. 驯养; 使喜爱家庭; 驯化; 使适应家庭生活 [A] domesticate
+[Q] n. 犬, 狗; 犬齿; 犬科动物 [A] canine
+[Q] adv.怎么也不(再多也不); 再多的 [A] no amount of
+[Q] n. 染色体 [A] chromosome
+[Q] n. 核心, 原子核, 核子 [A] nucleus
+[Q] n. 线粒体 [A] mitochondria
+[Q] adj. 细胞的 [A] cellular
+[Q] v. 征募; 充实; 吸收; 雇用, 聘用; [A] recruit
+[Q] n. 内脏, 肠; 腑脏 [A] entrails
