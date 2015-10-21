@@ -1090,3 +1090,94 @@
 [Q] adj. 细胞的 [A] cellular
 [Q] v. 征募; 充实; 吸收; 雇用, 聘用; [A] recruit
 [Q] n. 内脏, 肠; 腑脏 [A] entrails
+#
+#
+#
+# 北京加强资本控制，香港图书出版自由收紧
+# Hong Kong Bookstores Display Beijing’s Clout
+#
+[Q] n. 影响力; 敲打; 破布; 轻叩 [A] clout - Hong Kong Bookstores Display Beijing’s Clout
+[Q] n. 渡船, 渡口 [A] ferry
+[Q] n. 仙女, 精灵 [A] fairy
+[Q] 天星码头 [A] Star Ferry terminal
+[Q] 小书摊 [A] tiny book stall
+[Q] 兴旺的; 活波的 [A] brisk - does a brisk business catering to 生意兴隆
+[Q] n. 指非在餐馆内所提供的饮食及服务; 承办酒席 [A] catering
+[Q] 幕后 [A] backroom
+[Q] adj. 传说的, 难以置信的, 无根据的 [A] fabulous
+[Q] 精英 [A] elite - the Communist Party elite in China 中国大陆共产党精英的神话般财富
+[Q] v. 翻书页; 匆匆翻阅 [A] leaf
+[Q] n. 小报; 药片; 文摘, 摘要 [A] tabloid
+[Q] n. 名声; 名人 [A] celebrity - leafed through a tabloid about local celebrity gossip. 翻着充满当地名人八卦的小报
+[Q] 当地名人八卦的小报 [A] local celebrity gossip - said the owner, Mak Kuen-tat, as he leafed through a tabloid about local celebrity gossip. ”店主麦权达(Mak Kuen-tat)一边翻着充满当地名人八卦的小报，一边说。
+[Q] 有不同的算计 [A] a different calculus is at play
+[Q] n. 传记 [A] biography - four biographies of Lee Kuan Yew
+[Q] (把书)摆(在架子上) [A] tuck - tucked out of sight on shelves far from heavily trafficked areas 摆在远离客流的架子上。
+[Q] 控股公司 [A] holding companies - Sino United is owned, through a series of holding companies, by the Chinese government. 联合出版集团通过一系列的控股公司由中国政府拥有。
+[Q] n. 汉学家; 研究中国文化者 [A] Sinologist
+[Q] adj. 占优势的, 支配的 [A] dominant - The company's dominant position in the city's publishing and bookselling industry is a major breach in the wall between the communist mainland and Hong Kong 该公司在香港出版和图书销售行业的主导地位，是设置在香港与共产党统治的中国大陆之间的屏障上的一大突破口
+[Q] n. 殖民地; 侨居地; 侨民; 聚居地 [A] colony
+[Q] 民权 [A] civil liberties
+[Q] 公民自由 [A] civil liberty
+[Q] n. 条约, 谈判 [A] treaty - guaranteed by treaty for half a century 协议保证50年不变
+[Q] n. 君权, 统治权; 主权国家; 主权 [A] sovereignty
+[Q] v. 使用, 运用, 挥舞 [A] wield - wields influence through force
+[Q] 金融实力; 资金实力 [A] financial clout - It also illustrates how the central government in Beijing wields influence here not through force, but through its financial clout. 这也表明，北京的中央政府如何能够通过金融实力、而不是武力行使其对香港的影响。
+[Q] adj. 粗暴的, 骚乱的, 难控制的 [A] rambunctious - The traditionally rambunctious news media here 香港传统的喧闹新闻媒体
+[Q] n. 富豪; 巨头; 企业界大亨, 将军 [A] tycoon - ...are independently owned, but often by pro-Beijing tycoons 由私人独立拥有，但拥有者往往是那些亲北京的富豪。
+[Q] 亲北京的 [A] pro-Beijing
+[Q] n. 新闻报导; [A] coverage - In some cases, top editors who oversaw coverage critical of China have been shunted aside. 出现过一些制作对大陆负面报道的资深编辑被调离岗位的情况。
+[Q] 被调离岗位 [A] be shunt aside - In some cases, top editors who oversaw coverage critical of China have been shunted aside.
+[Q] n. v. 转轨, 分流 [A] shunt
+[Q] 直言不讳地 [A] vocally - The two most vocally pro-Beijing newspapers 两家最直言不讳地亲北京的报纸
+[Q] 迎合 [A] cater to - bookstores that cater to mainland visitors 针对内地游客的香港书店
+[Q] 曾经很常见 [A] been a fixture in - The market for books on Chinese politics, which have long been a fixture in Hong Kong bookstores that cater to mainland visitors, - 有关中国大陆政治的书籍曾在主要针对内地游客的香港书店中很常见
+[Q] n. 出现; 到来; [A] advent - Advent 基督降临; 降临节 - market forces — rising rents and the advent of e-books — play a part. 这部分是市场原因造成的，比如书店租金上涨，还有电子书的出现。
+[Q] 发挥作用; 扮演一个角色, 参与, 装腔骗人 [A] play a part
+[Q] n. 异议 [A] dissent - is increasingly intolerant of dissent 北京对异见越来越不能容忍
+[Q] n. 任期 [A] tenure - During Xi's tenure 习近平上任以来
+[Q] n. 首相; 总理 [A] premier - a former Chinese premier 中国前总理
+[Q] adj. 有关存在的 [A] existential - It's an existential threat 这是一个生存威胁
+[Q] 收支平衡 (不赔钱) [A] At best we can break even 最好的情况是，我们不赔钱。
+[Q] n. 花彩; v. 以花彩装饰 [A] festoon - is festooned with pro-Beijing political posters 挂满了亲北京的政治宣传海报。
+[Q] n. 保温罩 [A] cozy
+[Q] 取悦; 拉拢 [A] cozy up to - but self-censorship by Hong Kong's news media elite as they cozy up to Beijing. 而是香港新闻媒体精英的自我审查，因为他们想取悦北京。
+[Q] 铜锣湾 [A] Causeway Bay
+[Q] conj. 尽管, 虽然 [A] albeit - was available at Sino United's large Commercial Press store in the busy Causeway Bay neighborhood, albeit tucked away on a shelf in the back of the store.
+#
+#
+#
+# 日本为福岛核事故善后工人支付癌症赔偿
+# Japan Compensates Worker Who Got Cancer After Fukushima Cleanup
+# http://cn.nytimes.com/asia-pacific/20151021/c21fukushima/dual/
+#
+[Q] n. 白血病 [A] leukemia
+[Q] 患白血病 [A] develop leukemia - A man who developed leukemia after working on a cleanup crew at the ruined Fukushima Daiichi nuclear power plant
+[Q] 相当于; 总计为 [A] amount to - in what amounts to the first official acknowledgment that exposure to radiation at the disaster site may have caused cancer. 这相当于首次正式承认暴露在那里的辐射环境中可能诱发癌症。
+[Q] 费时费力的清理工作 [A] vast and laborious cleanup effort - More than 40,000 workers have participated in the vast and laborious cleanup effort at Fukushima Daiichi
+[Q] n. 海啸, 地震海啸 [A] tsunami
+[Q] n. 碎片; 残骸 [A] debris
+[Q] n. 熔融; 核电厂反应炉核心熔毁; [A] meltdown - leading to multiple reactor meltdowns and blanketing the area with toxic debris 多个反应堆熔融，导致该地被有毒碎片覆盖
+[Q] 令人担忧 [A] fraught - Their claims are both politically and medically fraught. 他们的诉求在政治和医学上均令人担忧。
+[Q] 精确定位 [A] pinpoint - Pinpointing the cause of any individual cancer is usually impossible 对于任何个别癌症患者来说，查明患癌原因通常都是不可能的
+[Q] adv. 不可避免地; 必然地 [A] inevitably - some cases would inevitably arise regardless of radiation exposure 无论是否暴露在辐射环境下，某些人都会患上癌症。
+[Q] 引发 [A] fuel - Questions about the Fukushima accident’s health effects have fueled a polarizing national debate. 福岛核事故对健康的影响引发了一场两极分化的全国性讨论。
+[Q] n. 邻近, 接近, 附近 [A] vicinity - former residents remain displaced from the vicinity of the plant 以前住在那里的居民仍然背井离乡
+[Q] v. 弄脏; 毒害; 污染; 使受毒气影响 [A] contaminate - scrape up contaminated soil 清理被污染的土壤
+[Q] 铲起 [A] scrape up - to scrape up contaminated soil 来清理被污染的土壤
+[Q] 向疏散区回迁 [A] roll back the evacuation zone
+[Q] adv. 逐步地, 渐渐地 [A] gradually
+[Q] v. 使混淆, 挫败, 使狼狈 [A] confound - a confounding signal for people making consequential decisions about their lives. 那些需要做出重大人生决定的人们，看到的却是莫衷一是的信息。
+[Q] 广为报道的 [A] well-publicized - One well-publicized recent study found
+[Q] n. 发生率; 发病率 [A] incidence - an elevated incidence of thyroid cancer in children living near the plant 居住在电站附近儿童的甲状腺癌发病率上升
+[Q] v. 否定; 提出论据反对; [A] contradict - but its results have been contradicted by other research. 但其他研究得出了不同的结果。
+[Q] n. 等级 级别 [A] magnitude - Plant workers face a different magnitude of risk. 电站工人面临着不同级别的风险。
+[Q] n. 转包商; 分包者 [A] subcontractor
+[Q] 不到位; adj 邋遢的＝slovenly；马虎的＝careless＝slipshod [A] sloppy - Tepco has been criticized for the sometimes sloppy training and protection it has offered cleanup workers 一些人批评东京电力公司，说它为福岛灾后清理工人提供的培训和保护措施都不到位
+[Q] vt.少报(低估) [A] underreport - found it had underreported the radiation exposure of a third of the workers whose records were reviewed by inspectors. 在抽查的工人记录中，有三分之一的工人的辐射暴露状况存在少报的情况。
+[Q] 激增 [A] balloon - suggesting that the number of compensation cases could balloon. 说明赔偿案例可能会激增。
+[Q] adj. 职业的 [A] occupational
+[Q] 职业病 [A] occupational illnesses
+[Q] 安全机构 [A] safety regulators
+[Q] n. 可能; 可能性 [A] likelihood
+[Q] 撤回 [A] withdrawn - One claim was withdrawn 一人撤回申请
