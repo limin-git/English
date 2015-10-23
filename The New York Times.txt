@@ -1,33 +1,33 @@
-[Q] 活的时间长, 英文？ [A] outlive
-[Q] 阶级组织, 英文、读音？ [A] hierarchy
+[Q] 活的时间长, 英文？ [A] {outlive}
+[Q] 阶级组织, 英文、读音？ [A] {hierarchy}
 [Q] 什么是克尼格查找, 别名及缩写？ [A] Koenig Lookup - 函数, 将参数的作用域加入函数查找范围 Argument Depdendent Lookup (ADL)。
-[Q] 几何学, 英文？ [A] geometry - e.g. QHBoxLayout that manages the geometry of five QPushButtons
-[Q] n. 协调、一致。[A] accordance (in accordance with) - All the widgets will initially be allocated an amount of space in accordance with their QWidget::sizePolicy() and QWidget::sizeHint().
-[Q] adj. 按比例（成比例、相称、均衡） [A] in proportion - in proportion to on another
-[Q] adj. 直觉的, 直观的。 [A] intuitive - be intutive to - e.g. The editing interface is intuitive for simple operations.
-[Q] & 的记号名称 [A] ampersand
-[Q] adj. 有助于记忆的。 [A] mnemonic - Inserting an ampersand character (&) causes the letter following it to be used as a mnemonic for the menu.
-[Q] adj. 过分单纯化的, 过分简单化的(片面看问题的)。 [A] simplistic - "simple" might sometimes morph into "simplistic."
-[Q] n. 手续费 [A] commission
-[Q] n. 预占, 抢先。 [A] preemption - preemption possible
-[Q] n. 带信人; 持有人; 持票人; 挑夫; 搬运工 [A] bearer
-[Q] v. 惧怕; 担心 [A] dread - enters the dreaded deadlock.
-[Q] adj. 过度的(不相称的, 未到支付期的; 过分的; 不适当的; 不正当的 [A] undue - If your class makes undue requirements on unbounded code, that's usually a sign that encapsulation is out the window.
-[Q] v. 使膨胀; 使自大 [A] bloat - BankAccount avoids code bloating by having the internal locked functions forward to the external locked functions, which do the actual job.
-[Q] n. 黄鼠狼; 靠不住 的人; v. 狡辩 [A] weasel - weasel words 狡辩之辞; There's a weasel word in there.
-[Q] adj. 恶意的; 恶毒的 [A] malicious - n unwary or malicious programmer can easily lock the wrong object and manipulate any BankAccount without actually locking it.
-[Q] n. 恶意; 蓄意 [A] malice - malice issue - These languages are not concerned with malice (as Java is, for example)
-[Q] n. 斗蓬; 掩护; 宽大外衣; v. 遮掩, 披斗蓬, 隐匿 [A] cloak - externally_locked cloaks an object of type T
-[Q] n. 分母; 最小公分母 [A] denominator - If this is not possible then QWidget is the obvious choice for a placeholder widget since it is the lowest common denominator for all widgets.
-[Q] n. 郁金香 [A] tulip - The Tulip Containers, a set of template container classes.
-[Q] v. 增大, 加强, 提高 [A] augment - They are augmented by a number of additional technologies and improvements that have appeared over the lifetime of Qt 4.
+[Q] 几何学, 英文？ [A] {geometry} - e.g. QHBoxLayout that manages the geometry of five QPushButtons
+[Q] n. 协调、一致。[A] {accordance} (in accordance with) - All the widgets will initially be allocated an amount of space in accordance with their QWidget::sizePolicy() and QWidget::sizeHint().
+[Q] adj. 按比例（成比例、相称、均衡） [A] in {proportion} - in proportion to on another
+[Q] adj. 直觉的, 直观的。 [A] intuitive - be {intutive} to - e.g. The editing interface is intuitive for simple operations.
+[Q] & 的记号名称 [A] {ampersand}
+[Q] adj. 有助于记忆的。 [A] {mnemonic} - Inserting an {ampersand} character (&) causes the letter following it to be used as a {mnemonic} for the menu.
+[Q] adj. 过分单纯化的, 过分简单化的(片面看问题的)。 [A] {simplistic} - "simple" might sometimes morph into "simplistic."
+[Q] n. 手续费 [A] {commission}
+[Q] n. 预占, 抢先。 [A] {preemption} - preemption possible
+[Q] n. 带信人; 持有人; 持票人; 挑夫; 搬运工 [A] {bearer}
+[Q] v. 惧怕; 担心 [A] {dread} - enters the dreaded deadlock.
+[Q] adj. 过度的(不相称的, 未到支付期的; 过分的; 不适当的; 不正当的 [A] {undue} - If your class makes undue requirements on unbounded code, that's usually a sign that encapsulation is out the window.
+[Q] v. 使膨胀; 使自大 [A] {bloat} - BankAccount avoids code bloating by having the internal locked functions forward to the external locked functions, which do the actual job.
+[Q] n. 黄鼠狼; 靠不住 的人; v. 狡辩 [A] {weasel} - weasel words 狡辩之辞; There's a weasel word in there.
+[Q] adj. 恶意的; 恶毒的 [A] {malicious} - n unwary or malicious programmer can easily lock the wrong object and manipulate any BankAccount without actually locking it.
+[Q] n. 恶意; 蓄意 [A] {malice} - malice issue - These languages are not concerned with malice (as Java is, for example)
+[Q] n. 斗蓬; 掩护; 宽大外衣; v. 遮掩, 披斗蓬, 隐匿 [A] {cloak} - externally_locked cloaks an object of type T
+[Q] n. 分母; 最小公分母 [A] {denominator} - If this is not possible then QWidget is the obvious choice for a placeholder widget since it is the lowest common denominator for all widgets.
+[Q] n. 郁金香 [A] {tulip} - The Tulip Containers, a set of template container classes.
+[Q] v. 增大, 加强, 提高 [A] {augment} - They are augmented by a number of additional technologies and improvements that have appeared over the lifetime of Qt 4.
 #
 #
 #
 # The Brink
 # S01E01
 #
-[Q] n. 大使馆, 大使及其随员 [A] embassy - I'm the only one at this fucking embassy who bothered to learn your name.
+[Q] n. 大使馆, 大使及其随员 [A] {embassy} - I'm the only one at this fucking embassy who bothered to learn your name.
 [Q] n. <美><非正>笨蛋, 傻瓜; 阴茎; [A] putz - 二货
 [Q] n. 狂怒, 盛怒; [A] rage - I don't feel safe going out. There's a rage in the air.
 [Q] 知道你的问题在哪吗 你流露出恐惧 [A] You know what your problem is? You telegraph fear.
@@ -1229,7 +1229,7 @@
 [Q] n. 前哨, 边区村落 [A] {outpost} - opening hundreds of language and cultural outposts. 还开办了几百个语言和文化中心。
 [Q] 文化中心 [A] cultural {outpost}s
 [Q] n. 背书; 赞同; 签署; 支持 [A] {endorsement} - endorsement of some of the world’s most {renown}ed institutions. 也得到了世界上一些最知名机构的认可。
-[Q] n.  名声, 声望 [A] {renown}
+[Q] n. 名声, 声望 [A] {renown}
 [Q] adj. 有名的, 有声誉的 [A] {renowned} - most {renown}ed institutions. 最知名机构
 [Q] n. 少数 [A] {handful} - but also a handful on subjects deemed politically sensitive in China, 但也有少数课程涉及在中国被视为政治敏感的内容
 [Q] 按照; 坚持 [A] {adhere} to - must adhere to the party’s views. 按照共产党的观点授课。
@@ -1272,3 +1272,94 @@
 [Q] 孔子学院 [A] {Confucius} Institutes
 [Q] n. 校园 [A] {campus}
 [Q] “最有效的政治宣传，”他说，“就是不做政治宣传。” [A] “The most effective {propaganda},” he said, “is not propaganda.”
+#
+#
+#
+# 厄尔尼诺肆虐，2015将成史上最热年
+# 2015 Likely to Be Hottest Year Ever Recorded
+# http://cn.nytimes.com/science/20151022/c22climate/dual/
+#
+[Q] 趋势 [A] on track to - 2015 is on track to beat it by a {substantial} margin, 2015年就显示了大举刷新记录的趋势
+[Q] adj. 大量的; 实质上的, 有内容的, 物质的; [A] {substantial} - 2015 is on track to beat it by a substantial margin 2015年就显示了大举刷新记录的趋势
+[Q] 大举 [A] by a {substantial} margin
+[Q] 持续的 [A] {sustained} - a sustained period of rapid global warming. 全球气温持续急速上升的阶段。
+[Q] 几乎可以肯定 [A] all but certain - Scientists say it is now all but certain that the full year will be the hottest on record, too. 科学家说，现在几乎可以肯定，今年全年将创下最热的新纪录。
+[Q] v. 集会; 聚集; 召集; 传唤...出庭受审, 票传 [A] {convene}
+[Q] v. 展开, 显露, 打开; 伸展, 呈现, 开花 [A] {unfold} - climate-related disasters are unfolding around the world, 与气候有关的灾害几乎肯定正在世界各地徐徐展开
+[Q] adj. 起初的, 初期的, 发端的 [A] {incipient} - an incipient drought in Australia 澳大利亚进入早期干旱阶段
+[Q] n. 干旱; 缺乏 [A] {drought}
+[Q] adj. 严厉的, 剧烈的, 严格的 [A] {severe}
+[Q] v. 加强; 强化 [A] {intensify} - Those effects are likely to intensify in coming months. 这些问题可能会在未来几个月内加剧。
+[Q] adj. 炒过的, 干透的, 焦的 [A] {parched}
+[Q] v. 烘, 烤; 使燥热; 使干透; 使干渴; 烤干, 焦干 [A] {parch}
+[Q] v. 猛抛, 促成, 使陷入; 猛地落下 [A] {precipitate} - precipitating floods and {mudslides}. 引发洪水和泥石流。
+[Q] 泥石流 [A] {mudslides}
+[Q] 该州的炎热状况 [A] {parched} state - relief for that parched state but also precipitating floods and mudslides. 在一定程度上缓解该州的炎热状况，但也会引发洪水和泥石流。
+[Q] 热浪 [A] heat wave
+[Q] 遭受热浪袭击 [A] spring heat wave
+[Q] v. 漂白 [A] {bleach}
+[Q] 珊瑚礁 [A] {coral} reef
+[Q] 救援机构 [A] relief agency
+[Q] 粮食救济 [A] food relief - to provide food relief for hard-hit regions. 特别是为受灾严重的地方提供粮食救济。
+[Q] 受灾严重 [A] {hard-hit}
+[Q] adj. 热带的 [A] {tropical} - El Nino originates in the eastern tropical Pacific Ocean 厄尔尼诺现象始于热带东太平洋
+[Q] 规律发生转变 [A] patterns shift - when normal weather patterns shift in a way that 正常的天气规律发生转变
+[Q] v. 扰乱, 使心慌, 使混乱 [A] {perturb}
+[Q] n. 湿气, 降雨, 水分 [A] {moisture}
+[Q] 热量和水分 [A] heat and {moisture}
+[Q] adj. 极深的, 深厚的, 深奥的 [A] {profound} - The effects can be profound 影响可能非常深远
+[Q] v. 诉请; 求助; 要求; 对...上诉, 将...上诉 [A] {appeal}
+[Q] 呼吁大家捐款 [A] {appeal}ing for {donation}s
+[Q] n. 收获; 收成, 产量; [A] {harvest} - Harvests are down across large {swath}s of that huge {continent} 非洲大陆大部分区域的收成有所下降
+[Q] n. 大陆 [A] {continent}
+[Q] n. 收割的宽度; 长而宽的一长条; 一行(足迹); 草铺; 草条; 地带 [A] {swath} - {Harvest}s are down across large {swath}s of that huge {continent} 非洲大陆大部分区域的收成有所下降
+#
+#
+#
+# 英德竞相讨好中国，欧洲为经济利益妥协价值观
+# Xi’s Visit to Britain Highlights Broader Shift in Concerns About China
+# http://cn.nytimes.com/china/20151023/c23britain/dual/
+#
+[Q] adj. 哑的; 沉默的; 无声的 [A] {mute} - have muted public criticism of Chinese political 减弱公开批评中国政治
+[Q] v. 诱惑, 引诱; 吸引; 诱人, 吸引人 [A] {allure} - But the shifting European calculations about the allure of doing business with China are hardly limited to Britain and extend to Germany,但是，在欧洲，因与中国做生意的诱惑而改变计划的不仅限于英国，包括欧洲经济强国德国在内
+[Q] 改变计划 [A] shift {calculation}s
+[Q] 经济强国 [A] economic {powerhouse} - Germany, Europe’s economic powerhouse 欧洲经济强国德国
+[Q] adj. 勤勉的; 刻苦的 [A] {assiduous}
+[Q] n. 求爱, 求爱时期, 求婚; 讨好 [A] {courtship} - Berlin, too, has been {assiduous} in its courtship of Beijing 柏林也一直在努力讨好北京
+[Q] adj. 刺耳的, 尖锐的, 吱吱尖叫的 [A] {strident} - has been hardly strident in its comments on China’s domestic abuses of human rights 德国政府对中国国内的人权问题以及中国在亚洲不断增长的军事实力几乎没有发表过任何抨击。
+[Q] 国内的 [A] {domestic}
+[Q] n. 加入许可; 入场券; 承认, 坦白 [A] {admission} - its recent admission about cheating on {diesel} emission standards 这家公司在最近承认柴油排放标准作弊
+[Q] n. 腐败, 贪污, 堕落 [A] {corruption}
+[Q] adj /v 奢侈浪费的；丰富的＝unstinting [A] {lavish} - {crackdown} on {corruption} and {lavish} {gift-giving}. 打击腐败和送豪华礼物
+[Q] 送礼 [A] {gift-giving}
+[Q] 在某种意义上 [A] in a sense - In a real sense 从现实意义来看
+[Q] n. 矮子; 侏儒 v. 使矮小; 阻碍...的生长; 使显得矮小; [A] {dwarf} - dwarfs Britain’s 10 percent and France’s 9 percent 远高于英国的10％和法国的9％。
+[Q] 贸易顺差 [A] positive trade balance
+[Q] n. 赤字; 不足额 [A] {deficit}
+[Q] 贸易逆差 [A] trade {deficit}
+[Q] n. 团体; 集团; 联盟 [A] {bloc}
+[Q] 欧盟五大经济体 [A] five largest {bloc} economies
+[Q] 维吾尔 [A] {Uighur}
+[Q] n. 独立分子; 分离主义者, 独立派 [A] {separatist} - {Uighur} separatists have been {repress}ed by the central government. 维吾尔族独立分子受到北京中央政府的打压。
+[Q] 沮丧 [A] {frustration} - causing frustration and even anger in Washington, 让华盛顿沮丧甚至愤怒
+[Q] 损害 [A] {undermine} - the country undermined the position of the European Commission 德国的做法损害了欧盟委员会的立场
+[Q] n. 关税 [A] {tariff} - tariff dispute 征收关税的争议
+[Q] n. 倾销 [A] {dumping}
+[Q] 贬低; 淡化; 降低; 减少; [A] {play down} - has also been accused of playing down human rights for economic interests 出于经济利益，淡化人权问题
+[Q] 支柱 [A] {pillar} - two pillars of growth in Asia and Europe 亚洲和欧洲经济增长的两大支柱
+[Q] 异见人士 [A] {dissident}
+[Q] 公开表态 [A] public gestures - not made many public gestures toward {dissident}s 也一直未对异见人士作出多少公开表态
+[Q] 喉舌; 代言人 [A] {mouthpiece} - the government’s English-language mouthpiece, Global Times. 中国官方的英文喉舌《环球时报》的称赞。
+[Q] n. 间谍组织, 间谍活动 [A] {espionage}
+[Q] 网络间谍 [A] {cyberespionage}
+[Q] n. 喧嚣, 骚动 [A] {uproar} - Mr. Ai protested and there was a public uproar, Britain {relent}ed and apologized. 艾未未对此提出抗议，引起舆论一片哗然，最后英国做出让步并道了歉。
+[Q] v. 变温和; 做出让步 [A] {relent} - Britain relented and apologized. 最后英国做出让步并道了歉。
+[Q] n. 美学; 审美学; 美术理论 [A] {aesthetics} - which is very bad strategy and also is a very bad aesthetics, 这是非常糟糕的战略，而且也非常不好看
+[Q] vt.源于(基于,出于); 来自于 [A] {stem from} - The weakness of European efforts, he said, stem from “China’s use of its economic leverage 他说，欧盟在这方面的薄弱环节，来自于“中国对其经济影响力的运用
+[Q] v. 挤 [A] {crowd} - the crowding out of Chinese human rights issues by pressing {geopolitical} concerns closer to Europe.” 着眼于距离欧洲更近的地缘政治担忧，把中国人权问题挤到了一边”。
+[Q] n. 行人, 步行者 adj. 徒步的, 通俗的, 呆板的 [A] {pedestrian}
+[Q] n. 妥协 [A] {compromise}
+[Q] n. 方便; 权宜; 私利 [A] {expediency} - noting the constant compromise between {professed European values and economic expediency. 这指的是欧洲在价值观和经济权宜之间不断做出的妥协。
+[Q] adj. 公然的; 专门的; 公开承认的; 专业的 [A] professed - professed European values 欧洲价值观
+[Q] v. 公开宣称; 承认; 表示 [A] {profess}
+[Q] n. 犯罪地点, 集合地点, 审判地 [A] {venue} - It is just a venue for us to express concern 这仅仅是一个我们表示关切的场合。
