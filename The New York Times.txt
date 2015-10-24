@@ -28,76 +28,76 @@
 # S01E01
 #
 [Q] n. 大使馆, 大使及其随员 [A] {embassy} - I'm the only one at this fucking embassy who bothered to learn your name.
-[Q] n. <美><非正>笨蛋, 傻瓜; 阴茎; [A] putz - 二货
-[Q] n. 狂怒, 盛怒; [A] rage - I don't feel safe going out. There's a rage in the air.
-[Q] 知道你的问题在哪吗 你流露出恐惧 [A] You know what your problem is? You telegraph fear.
-[Q] n. 好斗者; 激进分子; 富有战斗性的人 [A] militant - The militants can smell it on you.
-[Q] n. 傲慢; 自负; 自大 [A] arrogance - Ah. You telegraph arrogance.
-[Q] adj. 直肠的, 肛门的, 肛门附近的 [A] anal - So you think I'm going to take any risks in this anal cavity of a country?
-[Q] n. 洞; 腔; 空穴 [A] cavity - So you think I'm going to take any risks in this anal cavity of a country?
-[Q] n. 忍者; 日本武士; [A] ninja - The sexy ninja assassin took the pillow away too soon.
-[Q] n. 官僚作风的人, 官僚政治论者, 官僚 [A] bureaucrat - Evil American bureaucrat is still alive.
-[Q] n. 杀人; 一般杀人罪 [A] manslaughter - Manslaughter, but you just tell them you were defending yourself. 应该过失杀人 不过你就说我要攻击你
-[Q] 客房服务的托盘 [A] room service tray - and you pretend to take a dirty knife from a room service tray and kill me, yeah?
-[Q] n. 高棉; 柬埔寨 [A] cambodia - Why do all your sexual fantasies involve you fleeing Cambodia in a cargo container?
-[Q] 集装箱 [A] cargo container - Why do all your sexual fantasies involve you fleeing Cambodia in a cargo container?
-[Q] adj. 全能的; 万能的; 有无限权力的; 非常的; [A] almighty - Oh! Christ almighty. 噢 全能的主啊
+[Q] n. <美><非正>笨蛋, 傻瓜; 阴茎; [A] {putz} - 二货
+[Q] n. 狂怒, 盛怒; [A] {rage} - I don't feel safe going out. There's a rage in the air.
+[Q] 知道你的问题在哪吗 你流露出恐惧 [A] You know what your problem is? You {telegraph} fear.
+[Q] n. 好斗者; 激进分子; 富有战斗性的人 [A] {militant} - The militants can smell it on you.
+[Q] n. 傲慢; 自负; 自大 [A] arrogance - Ah. You {telegraph} {arrogance}.
+[Q] adj. 直肠的, 肛门的, 肛门附近的 [A] {anal} - So you think I'm going to take any risks in this anal {cavity} of a country?
+[Q] n. 洞; 腔; 空穴 [A] {cavity} - So you think I'm going to take any risks in this {anal} {cavity} of a country?
+[Q] n. 忍者; 日本武士; [A] {ninja} - The sexy ninja assassin took the pillow away too soon.
+[Q] n. 官僚作风的人, 官僚政治论者, 官僚 [A] {bureaucrat} - Evil American bureaucrat is still alive.
+[Q] n. 杀人; 一般杀人罪 [A] {manslaughter} - Manslaughter, but you just tell them you were defending yourself. 应该过失杀人 不过你就说我要攻击你
+[Q] 客房服务的托盘 [A] room service {tray} - and you pretend to take a dirty knife from a room service tray and kill me, yeah?
+[Q] n. 高棉; 柬埔寨 [A] {cambodia} - Why do all your sexual fantasies involve you fleeing Cambodia in a cargo container?
+[Q] 集装箱 [A] {cargo} container - Why do all your sexual fantasies involve you fleeing Cambodia in a cargo container?
+[Q] adj. 全能的; 万能的; 有无限权力的; 非常的; [A] {almighty} - Oh! Christ almighty. 噢 全能的主啊
 [Q] n. 三倍的, 三人的竞赛, 三人一组 [A] threesome - As you know, threesomes are extra. 你懂的 3P要加钱噢
-[Q] 因为如你所见 我正在开会呢 [A] cause as you can plainly see, I am in the middle of a meeting.
-[Q] 你看了我给你的文件夹吗 [A] Did you read through the binders I sent you?
-[Q] 除非它们被加密刻在一个亚裔应召女郎的小穴壁上 不然没看 [A] Unless they were encrypted on the vaginal walls of an Asian call girl, no.
-[Q] vt.& vi. 撕碎, 切碎; 用撕毁机撕毁（文件）; [A] shred - We'll have to send someone to track them down and shred them.
-[Q] n. 酒吧的侍者; 酒保 [A] bartender - He's the bartender there.
-[Q] 说到这儿 防患于未然 [A] Speaking of which, let's not let a good crisis go to waste.
-[Q] adj. 该死的, 讨厌的; 受诅咒的; [A] goddamn - Now, tell me everything I need to know about Pakistan and not a goddamn thing more.
-[Q] adj. 在进行中的; 起步的; [航]在航行中的; [A] underway - Not for a while. We're underway. 这段时间不行 我们在航行
-[Q] v. （当无法付款时）取消抵押品的赎回权（剥夺分期付款者收回抵押财产的权利）; 排除, 排斥＝bar; [A] foreclose - It sounds like they're gonna foreclose, 听起来他们要取消抵押品赎回权了
-[Q] 我不会动那些存货的 你得提高要价 [A] I'm not gonna break into my stock. You need to charge more.
-[Q] n. 涨价; 涨价幅度 [A] markup - Your markup is pathetic. 你的利润少得可怜
-[Q] v. 净赚; [A] net - Most of these poor guys, they net 250 a week. 这些可怜鬼每周的净收入只有250块
-[Q] v. 放弃; 弃绝; 撤出; 交出, 让与 [A] relinquish - A thread obtains ownership of a mutex object by calling one of the lock functions and relinquishes ownership by calling the corresponding unlock function.
-[Q] 万丈雄心令人目眩。 [A] The ambitions are dizzying.
-[Q] 成千上万的铁路建设劳工丧生于险恶的巴西丛林 [A] thousands of laborers perished building railways through the forbidding jungles of Brazil
-[Q] 中国希望打造一条“陆上通道”, 通过穿越哥伦比亚的铁路线来把加勒比海和太平洋连接起来。 [A] China has sought to build a “dry canal” in the form of a railway across Colombia, linking the Caribbean to the Pacific.
-[Q] 中国投资者还宣布将在洪都拉斯进行大型工程 [A] Chinese investors announced another huge venture in Honduras
-[Q] 中国宣布了又一个超级铁路项目, 是前述长度的近10倍。它将穿越巴西和秘鲁, 贯通南美的东西海岸。 [A] China announced yet another megarailway across Brazil and Peru, stretching from one coast of South America to the other.
-[Q] 然而, 在这片大陆的各个地方, 中国一个接一个的大型铁路项目开始遭遇拉丁美洲冰冷的政治现实、环境团体的抵制, 以及对中国越来越深的警惕。 [A] But across the region, one large Chinese rail venture after another has come crashing against the hard realities of Latin American politics, resistance from environmental groups, and a growing wariness toward China.
-[Q] 尽管中国总是夸耀它在世界各地的铁路项目, 但在拉丁美洲却频繁受阻, 由此折射出, 即便是中国的勃勃雄心也会面临限制。[A] While China boasts of its rail initiatives around the world, it has often been stymied here in Latin America, reflecting how even China’s formidable ambitions have limits.
-[Q] 眼下, 在拉丁美洲的不少地区头疼于自身对中国的依赖之际, 对中国经济增长状况的新担忧令其口中的“铁路外交”攻势遭受了更多的质疑。 [A] Now, new worries over China’s economic growth are raising more doubts about the blitz of what China calls its “railroad diplomacy, ” as parts of Latin America reel from their dependence on China.
-[Q] 尤其是规模庞大的穿越巴西和秘鲁的两大洋铁路计划, “将成为一次关键的考验, 衡量的是中国作为一个全球大国的本事, 以及中国对南美资源的筹谋会得到我们更大接受度的可能性, ”巴西学者表示。 [A] The enormous twin-ocean railroad across Brazil and Peru, in particular, “will be a crucial test of China’s mettle as a global power and the potential for greater acquiescence in South America to the designs that China has on our resources, ” said a Brazilian scholar.
-[Q] “鉴于扑朔迷离的中国经济目前处于不稳定状态, 我们正在经历对它过度依赖的负面影响, ”他还说。“假如这条铁路得以推进, 会对环境带来毁灭, 给中国送上插手我们事务的更大筹码。想象一下, 那会是怎样一番情形？” [A] “We’re experiencing the downside of our overreliance on China now that the opaque Chinese economy is in flux, ” he added. “Imagine what will happen if this railway somehow advances, bringing with it environmental devastation and even more leverage for China in our affairs.”
+[Q] 因为如你所见 我正在开会呢 [A] cause as you can {plainly} see, I am in the middle of a meeting.
+[Q] 你看了我给你的文件夹吗 [A] Did you read through the {binder}s I sent you?
+[Q] 除非它们被加密刻在一个亚裔应召女郎的小穴壁上 不然没看 [A] Unless they were {encrypt}ed on the {vaginal} walls of an Asian call girl, no.
+[Q] vt.& vi. 撕碎, 切碎; 用撕毁机撕毁（文件）; [A] {shred} - We'll have to send someone to track them down and shred them.
+[Q] n. 酒吧的侍者; 酒保 [A] {bartender} - He's the bartender there.
+[Q] 说到这儿 防患于未然 [A] Speaking of which, let's not let a good {crisis} go to waste.
+[Q] adj. 该死的, 讨厌的; 受诅咒的; [A] {goddamn} - Now, tell me everything I need to know about Pakistan and not a goddamn thing more.
+[Q] adj. 在进行中的; 起步的; [航]在航行中的; [A] {underway} - Not for a while. We're underway. 这段时间不行 我们在航行
+[Q] v. （当无法付款时）取消抵押品的赎回权（剥夺分期付款者收回抵押财产的权利）; 排除, 排斥＝bar; [A] {foreclose} - It sounds like they're gonna foreclose, 听起来他们要取消抵押品赎回权了
+[Q] 我不会动那些存货的 你得提高要价 [A] I'm not gonna break into my {stock}. You need to {charge} more.
+[Q] n. 涨价; 涨价幅度 [A] {markup} - Your markup is pathetic. 你的利润少得可怜
+[Q] v. 净赚; [A] {net} - Most of these poor guys, they net 250 a week. 这些可怜鬼每周的净收入只有250块
+[Q] v. 放弃; 弃绝; 撤出; 交出, 让与 [A] {relinquish} - A thread obtains ownership of a mutex object by calling one of the lock functions and relinquishes ownership by calling the corresponding unlock function.
+[Q] 万丈雄心令人目眩。 [A] The {ambition}s are {dizzying}.
+[Q] 成千上万的铁路建设劳工丧生于险恶的巴西丛林 [A] thousands of {laborer}s {perished} building railways through the {forbidding} jungles of {Brazil}
+[Q] 中国希望打造一条“陆上通道”, 通过穿越哥伦比亚的铁路线来把加勒比海和太平洋连接起来。 [A] China has {sought} to build a “dry canal” in the form of a railway across {Colombia}, linking the {Caribbean} to the {Pacific}.
+[Q] 中国投资者还宣布将在洪都拉斯进行大型工程 [A] Chinese {investor}s announced another huge {venture} in {Honduras}
+[Q] 中国宣布了又一个超级铁路项目, 是前述长度的近10倍。它将穿越巴西和秘鲁, 贯通南美的东西海岸。 [A] China announced yet another {megarailway} across {Brazil} and {Peru}, {stretch}ing from one coast of South America to the other.
+[Q] 然而, 在这片大陆的各个地方, 中国一个接一个的大型铁路项目开始遭遇拉丁美洲冰冷的政治现实、环境团体的抵制, 以及对中国越来越深的警惕。 [A] But across the region, one large Chinese rail venture after another has come crashing against the hard {realities} of Latin American politics, {resistance} from environmental groups, and a growing wariness toward China.
+[Q] 尽管中国总是夸耀它在世界各地的铁路项目, 但在拉丁美洲却频繁受阻, 由此折射出, 即便是中国的勃勃雄心也会面临限制。[A] While China {boast}s of its rail initiatives around the world, it has often been {stymie}d here in Latin America, reflecting how even China’s {formidable} ambitions have limits.
+[Q] 眼下, 在拉丁美洲的不少地区头疼于自身对中国的依赖之际, 对中国经济增长状况的新担忧令其口中的“铁路外交”攻势遭受了更多的质疑。 [A] Now, new worries over China’s economic growth are raising more doubts about the {blitz} of what China calls its “{railroad} {diplomacy}, ” as parts of Latin America {reel} from their dependence on China.
+[Q] 尤其是规模庞大的穿越巴西和秘鲁的两大洋铁路计划, “将成为一次关键的考验, 衡量的是中国作为一个全球大国的本事, 以及中国对南美资源的筹谋会得到我们更大接受度的可能性, ”巴西学者表示。 [A] The {enormous} twin-ocean railroad across Brazil and Peru, in particular, “will be a crucial test of China’s {mettle} as a global power and the potential for greater {acquiescence} in South America to the designs that China has on our resources, ” said a Brazilian scholar.
+[Q] “鉴于扑朔迷离的中国经济目前处于不稳定状态, 我们正在经历对它过度依赖的负面影响, ”他还说。“假如这条铁路得以推进, 会对环境带来毁灭, 给中国送上插手我们事务的更大筹码。想象一下, 那会是怎样一番情形？” [A] “We’re {experiencing} the {downside} of our {overreliance} on China now that the {opaque} Chinese economy is in {flux}, ” he added. “Imagine what will happen if this railway somehow advances, bringing with it environmental devastation and even more {leverage} for China in our {affair}s.”
 #
 #
 #
 # 屠呦呦谈诺奖争议：西方奖项更重视个人
 # http://cn. nytimes.com/china/20151010/c10sino-tuyouyou/dual/
 #
-[Q] n. 冶金, 冶金术 [A] metallurgy - metallurgy engineer 冶金工程师
-[Q] 纷至沓来的电话和祝福 [A] the clamor of phone calls and well-wishers
-[Q] 青蒿素 [A] artemisinin
-[Q] 治疗疟疾标准疗法 [A] now part of standard antimalarial regimens
-[Q] 对中国传统医学的肯定 [A] as a vindication of traditional Chinese medicine.
-[Q] n. 生理学 [A] physiology - Her Nobel for medicine or physiology
-[Q] 84岁的屠呦呦未能入选中国科学院院士 [A] Dr. Tu, 84, has been turned down for membership in the Chinese Academy of Sciences
-[Q] 青蒿素的发现源于越南战争期间的一个秘密军事项目, 目的是帮助中国的盟友北越对抗疟疾 [A] which grew out of a secret military project during the Vietnam War to fight the malaria that was debilitating China’s allies in North Vietnam
-[Q] 米色沙发 [A] beige couch
+[Q] n. 冶金, 冶金术 [A] {metallurgy} - metallurgy engineer 冶金工程师
+[Q] 纷至沓来的电话和祝福 [A] the {clamor} of phone calls and {well-wisher}s
+[Q] 青蒿素 [A] {artemisinin}
+[Q] 治疗疟疾标准疗法 [A] now part of standard {antimalarial} {regimen}s
+[Q] 对中国传统医学的肯定 [A] as a {vindication} of traditional Chinese medicine.
+[Q] n. 生理学 [A] {physiology} - Her Nobel for medicine or physiology
+[Q] 84岁的屠呦呦未能入选中国科学院院士 [A] Dr. Tu, 84, has been turned down for {membership} in the Chinese {Academy} of Sciences
+[Q] 青蒿素的发现源于越南战争期间的一个秘密军事项目, 目的是帮助中国的盟友北越对抗疟疾 [A] which grew out of a secret military project during the {Vietnam} War to fight the {malaria} that was {debilitating} China’s allies in North Vietnam
+[Q] 米色沙发 [A] {beige} {couch}
 [Q] 她屡次翻开一些书以说明她的观点 [A] she repeatedly turned to textbooks to make her points.
-[Q] 崇拜者送来的鲜花 [A] flowers from admirers
-[Q] n. 花束 [A] bouquet
-[Q] 流行性疟疾 [A] an epidemic of malaria.
-[Q] n. 寄生虫, 食客 [A] parasite - malaria parasite 疟原虫
-[Q] 那个混乱的时候有事情做了 [A] have something to do amid all the chaos.
-[Q] 表明药不会死人 [A] Two colleagues and I took it to show that it wasn’t lethal.
-[Q] 针灸专家的团队 [A] a team of acupuncture specialists
-[Q] n. 隔离; 隔离区; 检疫; 检疫所 [A] quarantine - There was a team of acupuncture specialists who were trying to cure patients in quarantine centers.
-[Q] adv. 无限地; 庞大地; 广大地 [A] as the discoverer of this immensely important drug
-[Q] 中国当时有没专利这回事。 [A] China had no such thing as patents back then.
-[Q] 作为小组长, 我代表小组领了奖。 [A] As the team leader, I accepted on behalf of the team.
-[Q] n. 批评家, 鉴定家 [A] critic
-[Q] 每个人都有发表意见的权利。 [A] Everyone is entitled to his opinion.
-[Q] 我们都相信集体主义。 [A] We all believed in collectivism
-[Q] 把功劳归给哪些个人。 [A] individual should claim credit.
-[Q] 瑞典 [A] Sweden
+[Q] 崇拜者送来的鲜花 [A] flowers from {admirer}s
+[Q] n. 花束 [A] {bouquet}
+[Q] 流行性疟疾 [A] an {epidemic} of {malaria}.
+[Q] n. 寄生虫, 食客 [A] {parasite} - {malaria} {parasite} 疟原虫
+[Q] 那个混乱的时候有事情做了 [A] have something to do {amid} all the {chaos}.
+[Q] 表明药不会死人 [A] Two colleagues and I took it to show that it wasn’t {lethal}.
+[Q] 针灸专家的团队 [A] a team of {acupuncture} {specialist}s
+[Q] n. 隔离; 隔离区; 检疫; 检疫所 [A] {quarantine} - There was a team of acupuncture specialists who were trying to cure patients in quarantine centers.
+[Q] adv. 无限地; 庞大地; 广大地 [A] as the discoverer of this {immense}ly important drug
+[Q] 中国当时有没专利这回事。 [A] China had no such thing as {patent}s {back then}.
+[Q] 作为小组长, 我代表小组领了奖。 [A] As the team leader, I accepted {on behalf of} the team.
+[Q] n. 批评家, 鉴定家 [A] {critic}
+[Q] 每个人都有发表意见的权利。 [A] Everyone is {entitle}d to his opinion.
+[Q] 我们都相信集体主义。 [A] We all believed in {collectivism}
+[Q] 把功劳归给哪些个人。 [A] individual should {claim} {credit}.
+[Q] 瑞典 [A] {Sweden}
 #
 #
 #
@@ -105,80 +105,80 @@
 # Southeast Asia, Choking on Haze, Struggles for a Solution
 # http://cn. nytimes.com/science/20151009/c09haze/dual/
 #
-[Q] n. 霾, 薄雾; 模糊; 朦胧 [A] haze
-[Q] n. 天桥, 陆桥 立交桥 [A] overpass - taking an overpass that provides a stunning view of the popular hotels and tourist attractions around Marina Bay.
-[Q] adj. 足以使人晕倒的, 极好的 景色壮丽 [A] stunning view - taking an overpass that provides a stunning view of the popular hotels and tourist attractions around Marina Bay.
-[Q] 旅游景点 [A] tourist attractions
-[Q] 笼罩着这个岛国 [A] blanketed this island state
-[Q] 烧林垦荒 [A] clear land for agriculture
-[Q] n. 躲避; 庇护; 避难; 避难所 [A] refuge - refuge from the pollution in their homes
-[Q] 靠手 [家具] 肘靠 [车辆] [A] armrest
-[Q] 新加坡摩天观景轮 [A] Singapore Flayer
-[Q] 摩天轮 [A] Ferris wheel - n. 费理斯十九世纪美国工程师发明一种转轮
-[Q] 雅加达 [A] Jakarta
-[Q] n. 主要部分(组成部分, 本质) [A] part and parcel
-[Q] 几近年度仪式 [A] near-annual ritual
-[Q] 苏门答腊岛 [A] Sumatra
+[Q] n. 霾, 薄雾; 模糊; 朦胧 [A] {haze}
+[Q] n. 天桥, 陆桥 立交桥 [A] {overpass} - taking an overpass that provides a stunning view of the popular hotels and tourist attractions around Marina Bay.
+[Q] adj. 足以使人晕倒的, 极好的 景色壮丽 [A] {stunning} view - taking an overpass that provides a stunning view of the popular hotels and {tourist} {attraction}s around Marina Bay.
+[Q] 旅游景点 [A] {tourist} {attraction}s
+[Q] 笼罩着这个岛国 [A] {blanket}ed this island state
+[Q] 烧林垦荒 [A] clear land for {agriculture}
+[Q] n. 躲避; 庇护; 避难; 避难所 [A] {refuge} - refuge from the {pollution} in their homes
+[Q] 靠手 [家具] 肘靠 [车辆] [A] {armrest}
+[Q] 新加坡摩天观景轮 [A] {Singapore} {Flayer}
+[Q] 摩天轮 [A] {Ferris} {wheel} - n. 费理斯十九世纪美国工程师发明一种转轮
+[Q] 雅加达 [A] {Jakarta}
+[Q] n. 主要部分(组成部分, 本质) [A] {part and parcel}
+[Q] 几近年度仪式 [A] {near-annual} {ritual}
+[Q] 苏门答腊岛 [A] {Sumatra}
 [Q] 再加上厄尔尼诺现象的影响 [A] coupled with the effects of El Nino
 [Q] 数万人 [A] tens of thousands of people
-[Q] adj. 呼吸的, 呼吸疾病 [A] respiratory problems
-[Q] n. 湿疹 [A] eczema
-[Q] n. 疾病; 不宁; 不安 [A] ailments
-[Q] 吉隆坡 [A] Kuala Lumpur
-[Q] 高调的抨击 [A] high-profile sniping
-[Q] n. 诉讼, 控诉 [A] lawsuit
-[Q] 这一幕很眼熟, 实际上是2013年的情景再现 [A] familiar replay from 2013
-[Q] 上一次深受浓烟之苦 [A] suffered its last major bout of haze.
-[Q] 危机再次爆发。 [A] the crisis erupted anew.
-[Q] n. 一致; 舆论; 合意; 共识 [A] consensus
-[Q] adj. 刀耕火种的; [A] slash-and-burn
-[Q] adj. 不衰退的, 不减弱的 [A] unabated
-[Q] n. 总部, 总部人员, 司令部 [A] headquarters
-[Q] n. 泥炭地; [A] peatland
-[Q] v. 缩短; 剥夺（特权, 官衔等）; 削减; [A] curtail
-[Q] 林地变成农业用地 [A] conversions of forests to agricultural uses
-[Q] adj. 有成本效益的, 划算的; 合算的（等于cost-efficient）; [A] cost-effective
-[Q] 很难 [A] daunt enough
-[Q] 控制烟雾 [A] curb the haze
-[Q] 军事人员 [A] military personnel
-[Q] 林火现场 [A] forest-fire clusters
-[Q] n. v. 断然拒绝, 漠不关心, 严厉拒绝 [A] rebuff
-[Q] n. 火焰; 熊熊燃烧; 火灾; 强烈的光, 光辉#记号; 脸上的白斑 [A] blaze
-[Q] v. 告诫; 斥责 [A] admonish
-[Q] 内阁秘书处 [A] cabinet secretariat
-[Q] 求援 [A] aid request
-[Q] 说话并不婉转的副总统 [A] outspoken vice president - adj. 直言无讳的, 坦白无隐的, 坦率的
-[Q] 邻国“应该感谢”印度尼西亚。 [A] neighboring countries “should be grateful” to Indonesia for the clean air they have the other 11 months of the year.
-[Q] 乱发脾气 [A] temper tantrum
+[Q] adj. 呼吸的, 呼吸疾病 [A] {respiratory} problems
+[Q] n. 湿疹 [A] {eczema}
+[Q] n. 疾病; 不宁; 不安 [A] {ailment}s
+[Q] 吉隆坡 [A] {Kuala Lumpur}
+[Q] 高调的抨击 [A] {high-profile} {sniping}
+[Q] n. 诉讼, 控诉 [A] {lawsuit}
+[Q] 这一幕很眼熟, 实际上是2013年的情景再现 [A] {familiar} {replay} from 2013
+[Q] 上一次深受浓烟之苦 [A] {suffer}ed its last major {bout} of {haze}.
+[Q] 危机再次爆发。 [A] the crisis {erupt}ed {anew}.
+[Q] n. 一致; 舆论; 合意; 共识 [A] {consensus}
+[Q] adj. 刀耕火种的; [A] {slash-and-burn}
+[Q] adj. 不衰退的, 不减弱的 [A] {unabated}
+[Q] n. 总部, 总部人员, 司令部 [A] {headquarters}
+[Q] n. 泥炭地; [A] {peatland}
+[Q] v. 缩短; 剥夺（特权, 官衔等）; 削减; [A] {curtail}
+[Q] 林地变成农业用地 [A] {conversion}s of forests to {agricultural} uses
+[Q] adj. 有成本效益的, 划算的; 合算的（等于{cost-efficient}）; [A] {cost-effective}
+[Q] 很难 [A] {daunt} enough
+[Q] 控制烟雾 [A] {curb} the {haze}
+[Q] 军事人员 [A] {military} {personnel}
+[Q] 林火现场 [A] forest-fire {cluster}s
+[Q] n. v. 断然拒绝, 漠不关心, 严厉拒绝 [A] {rebuff}
+[Q] n. 火焰; 熊熊燃烧; 火灾; 强烈的光, 光辉#记号; 脸上的白斑 [A] {blaze}
+[Q] v. 告诫; 斥责 [A] {admonish}
+[Q] 内阁秘书处 [A] {cabinet} {secretariat}
+[Q] 求援 [A] {aid} request
+[Q] 说话并不婉转的副总统 [A] {outspoken} vice president - adj. 直言无讳的, 坦白无隐的, 坦率的
+[Q] 邻国“应该感谢”印度尼西亚。 [A] neighboring countries “should be grateful” to {Indonesia} for the clean air they have the other 11 months of the year.
+[Q] 乱发脾气 [A] {temper tantrum}
 [Q] 新加坡重要的经济支柱 [A] a major contributor to Singapore’s economy.
-[Q] 互相推卸责任 [A] blame game
-[Q] ‘毁林经济’ [A] 'deforestation economy'
-[Q] 依然很普遍的 [A] remains rampant - adj. 猖獗的, 猛烈的, 蔓生的
-[Q] adj. 大量的 丰富的; 充足的 [A] ample
-[Q] 相互指责 [A] finger-pointing
-[Q] 纸浆和纸业 [A] pulp and paper
-[Q] adj. 多国的, 多种国籍的 [A] multinational
-[Q] n. 种植园 农园, 大农场; 人造林; 造林地; 殖民地 [A] plantation
-[Q] 零工 [A] day laborer
+[Q] 互相推卸责任 [A] {blame} game
+[Q] ‘毁林经济’ [A] '{deforestation} {economy}'
+[Q] 依然很普遍的 [A] remains {rampant} - adj. 猖獗的, 猛烈的, 蔓生的
+[Q] adj. 大量的 丰富的; 充足的 [A] {ample}
+[Q] 相互指责 [A] {finger-pointing}
+[Q] 纸浆和纸业 [A] {pulp} and paper
+[Q] adj. 多国的, 多种国籍的 [A] {multinational}
+[Q] n. 种植园 农园, 大农场; 人造林; 造林地; 殖民地 [A] {plantation}
+[Q] 零工 [A] day {laborer}
 [Q] 做出此举 [A] made the move
-[Q] 遵循通知行事 [A] following notification from
-[Q] n. 子公司, 辅助者, 附加物 [A] subsidiary
-[Q] n. 可持续发展的 持续性, 能维持性, 永续性; [A] sustainability
+[Q] 遵循通知行事 [A] following {notification} from
+[Q] n. 子公司, 辅助者, 附加物 [A] {subsidiary}
+[Q] n. 可持续发展的 持续性, 能维持性, 永续性; [A] {sustainability}
 [Q] firmly against [A] 坚决反对
-[Q] 解除关系 [A] disengage
-[Q] 反烟雾活动团体 [A] antihaze activist group
-[Q] n. 疏忽, 粗心; 随便, 不修边幅; 疏忽行为 [A] negligence
-[Q] 倡导美国处理环境疏忽的模式 [A] promoting an American model for dealing with environmental negligence
-[Q] n. 国会, 议会 [A] Parliament
+[Q] 解除关系 [A] {disengage}
+[Q] 反烟雾活动团体 [A] {antihaze} {activist} group
+[Q] n. 疏忽, 粗心; 随便, 不修边幅; 疏忽行为 [A] {negligence}
+[Q] 倡导美国处理环境疏忽的模式 [A] promoting an American model for dealing with environmental {negligence}
+[Q] n. 国会, 议会 [A] {Parliament}
 [Q] 起诉责任人 [A] suing those responsible
-[Q] 《跨境阴霾污染法令》 [A] Transboundary Haze Pollution Act
-[Q] adj. 有希望的, 将来的, 预期的 [A] prospective
-[Q] n. 起诉人; 原告 [A] plaintiff
-[Q] 高档酒店 [A] upscale hotels
-[Q] n. 责任, 倾向, 债务 [A] liability - determine liability 界定责任
-[Q] 经济赔偿 [A] financial compensation
-[Q] 必然的结论 [A] inescapable conclusion
-[Q] 不乐观 [A] not optimistic
+[Q] 《跨境阴霾污染法令》 [A] {Transboundary} {Haze} {Pollution} {Act}
+[Q] adj. 有希望的, 将来的, 预期的 [A] {prospective}
+[Q] n. 起诉人; 原告 [A] {plaintiff}
+[Q] 高档酒店 [A] {upscale} hotels
+[Q] n. 责任, 倾向, 债务 [A] {liability} - {determine} {liability} 界定责任
+[Q] 经济赔偿 [A] {financial} {compensation}
+[Q] 必然的结论 [A] {inescapable} {conclusion}
+[Q] 不乐观 [A] not {optimistic}
 #
 #
 #
@@ -195,7 +195,7 @@
 [Q] 科幻小说或电影很少描述 [A] {portray} - so seldom portrayed in science fiction or movies
 [Q] 乌托邦情调 [A] flirted with {utopia}
 [Q] 一个完美的未来会让故事变得平淡无奇。 [A] A perfect future makes for a {dull} story.
-[Q] vi. 断定是真货 [A] ring true
+[Q] vi. 断定是真货 [A] {ring true}
 [Q] 让科技公司创始人感到真实 [A] ring true for a tech founder
 [Q] v. 使戏剧化; 戏剧性地描述; [A] {dramatize}
 [Q] v. 催促, 力劝; 强烈要求; 建议 [A] {urge}
@@ -209,7 +209,7 @@
 [Q] 流行文化对高科技产业的描绘 [A] pop cultural {depiction}s of the tech industry
 [Q] 基本世界观 [A] essential worldview
 [Q] 强势的乐观主义 [A] an {aggressive} {optimism}
-[Q] 掀翻 [A] roll over
+[Q] 掀翻 [A] {roll over}
 [Q] 最成熟的一部 [A] the most sophisticated take
 [Q] 剧本 [A] {screenplay}
 [Q] 批判乔布斯 [A] {critical} take on Mr. Jobs.
@@ -232,38 +232,38 @@
 [Q] 主导方方面面 [A] {preside} over every aspect of
 [Q] 哪怕有那么一点接近真相 [A] are anywhere near {accurate}
 [Q] 我们所有人都在劫难逃 [A] we are all in for a heap of trouble
-[Q] adj. 倒霉的, 不幸的; 可悲的 [A] hapless
-[Q] 滑稽地 [A] comically
-[Q] 近视的 [A] myopic
-[Q] n. 忧虑, 焦虑, 焦虑的事 [A] anxiety
+[Q] adj. 倒霉的, 不幸的; 可悲的 [A] {hapless}
+[Q] 滑稽地 [A] {comically}
+[Q] 近视的 [A] {myopic}
+[Q] n. 忧虑, 焦虑, 焦虑的事 [A] {anxiety}
 [Q] 缓解社会焦虑 [A] relieve their social anxieties
 [Q] 可怜之举 [A] petty efforts
-[Q] 真实的动机 [A] authentic motivation
-[Q] adv. 勉强地, 不情愿地 [A] grudgingly
-[Q] 不认自己的女儿 [A] denying paternity of his daughter
-[Q] 无足轻重的蝼蚁 [A] expendable cogs
+[Q] 真实的动机 [A] {authentic} motivation
+[Q] adv. 勉强地, 不情愿地 [A] {grudgingly}
+[Q] 不认自己的女儿 [A] denying {paternity} of his daughter
+[Q] 无足轻重的蝼蚁 [A] {expendable} {cog}s
 [Q] 商业游戏 [A] corporate game
-[Q] v. 施以, 科以, 加害 [A] inflict
-[Q] 自负 [A] ego
-[Q] 贪婪 [A] greed
-[Q] n. 凹痕 [A] dent - put a dent in the universe
+[Q] v. 施以, 科以, 加害 [A] {inflict}
+[Q] 自负 [A] {ego}
+[Q] 贪婪 [A] {greed}
+[Q] n. 凹痕 [A] dent - put a {dent} in the universe
 [Q] 让他不断向前 [A] gets him going
-[Q] 强烈愿望 [A] insatiable desire
-[Q] 执着 [A] insistence
-[Q] n. 笑柄; v. 使惹人嘲笑 [A] pillory - is usually pilloried in the news media
+[Q] 强烈愿望 [A] {insatiable} {desire}
+[Q] 执着 [A] {insistence}
+[Q] n. 笑柄; v. 使惹人嘲笑 [A] {pillory} - is usually pilloried in the news media
 [Q] 最终可以被容忍 [A] ultimately tolerated
-[Q] 毋庸置疑 [A] a matter of dispute
+[Q] 毋庸置疑 [A] a matter of {dispute}
 [Q] 它引发的忧虑和激起的希望不相上下 [A] it raises almost as many fears as it does hopes.
-[Q] 开天辟地 [A] groundbreaking
-[Q] n. 秃鹰; 秃鹫 [A] condor
-[Q] 把秃鹰甩在身后 [A] blows the condor away
-[Q] v. n. 长篇大论 [A] harangue
-[Q] 他手里隐隐握着观众这张王牌 [A] he implicitly holds an ace card with the audience
-[Q] 对身边的人不好 [A] been terrible to be around
-[Q] adj. 可憎的, 讨厌的, 不愉快的 [A] obnoxious
-[Q] adj. 妄自尊大的 [A] self-important
-[Q] n. 怪胎 怪人; 怪物 [A] weirdo
-[Q] 科技业可能是有很多心胸狭隘、冷酷无情、妄自尊大的怪胎。[A] The tech industry may be peopled with many petty, ruthless, self-important weirdos.
+[Q] 开天辟地 [A] {groundbreaking}
+[Q] n. 秃鹰; 秃鹫 [A] {condor}
+[Q] 把秃鹰甩在身后 [A] blows the {condor} away
+[Q] v. n. 长篇大论 [A] {harangue}
+[Q] 他手里隐隐握着观众这张王牌 [A] he {implicitly} holds an {ace card} with the audience
+[Q] 对身边的人不好 [A] been {terrible} to be around
+[Q] adj. 可憎的, 讨厌的, 不愉快的 [A] {obnoxious}
+[Q] adj. 妄自尊大的 [A] {self-important}
+[Q] n. 怪胎 怪人; 怪物 [A] {weirdo}
+[Q] 科技业可能是有很多心胸狭隘、冷酷无情、妄自尊大的怪胎。[A] The tech industry may be peopled with many {petty}, {ruthless}, {self-important} {weirdo}s.
 #
 #
 #
@@ -297,14 +297,14 @@
 [Q] 平壤 [A] {Pyongyang}
 [Q] 精心举办的阅兵式 [A] {elaborate} {military} {parade}
 [Q] 中共中央政治局 [A] {Politburo}
-[Q] 常务委员会 [A] Standing Committee
+[Q] 常务委员会 [A] {Standing} {Committee}
 [Q] 上台 [A] rose to power
 [Q] 中国共产党 [A] Chinese Communist Party
-[Q] 称赞金正恩[A] He hailed Kim Jong-un
+[Q] 称赞金正恩[A] He {hail}ed Kim Jong-un
 [Q] n. 同盟国; 一次大战中的协约国; 同盟者; 二次大战中的同盟国 [A] {ally}
 [Q] vt.使...不稳定(使...动摇); 搞乱 [A] {destabilize}
 [Q] 一己之私 [A] {selfish} {gain}
-[Q] 解读为对金正恩核武器计划的批评 [A] interpreted as a {criticism} of - Mr. Kim’s nuclear weapons program.
+[Q] 解读为对金正恩核武器计划的批评 [A] {interpret}ed as a {criticism} of - Mr. Kim’s nuclear weapons program.
 [Q] v. 纪念 [A] {commemorate}
 [Q] n. 核准, 约束力, 处罚 [A] {sanction} - China has signed on to United Nations sanctions meant to punish North Korea for its nuclear weapons program
 [Q] v. 追赶, 追捕, 追踪; 追赶; 继续进行 [A] pursuing - China has not used its full economic leverage to discourage the North from pursuing it
@@ -312,7 +312,7 @@
 [Q] 经济援助 [A] {economic} {largess}
 [Q] 维持着朝鲜最起码的经济 [A] keeps North Korea’s {bare-bones} {economy} {afloat}
 [Q] 在过去的一年里, 一直在争论 [A] a debate has been roiling in the past year among
-[Q] 这个盟友对中国来说更多地是负担, 还是有价值的东西。 [A] whether its ally is more a liability than an asset.
+[Q] 这个盟友对中国来说更多地是负担, 还是有价值的东西。 [A] whether its {ally} is more a {liability} than an asset.
 [Q] 双边关系 [A] {bilateral} {relationship}
 [Q] 例行公事 [A] it's a {routine} action
 [Q] 副教授 [A] {associate} {professor}
@@ -370,7 +370,7 @@
 [Q] 支持同性婚姻 [A] she is {pro-gay} marriage.
 [Q] n. 监禁 [A] {incarceration}
 [Q] 暴力罪犯 [A] {violent} {offender}s
-[Q] 非法移民 [A] undocumented {immigrant}s
+[Q] 非法移民 [A] {undocumented} {immigrant}s
 [Q] n. 乙醇, 酒精 [A] {ethanol}
 [Q] n. 补助金, 津贴 [A] {subsidy}
 [Q] 乙醇补贴 [A] {ethanol} {subsidies}
@@ -1351,11 +1351,11 @@
 [Q] 公开表态 [A] public gestures - not made many public gestures toward {dissident}s 也一直未对异见人士作出多少公开表态
 [Q] 喉舌; 代言人 [A] {mouthpiece} - the government’s English-language mouthpiece, Global Times. 中国官方的英文喉舌《环球时报》的称赞。
 [Q] n. 间谍组织, 间谍活动 [A] {espionage}
-[Q] 网络间谍 [A] {cyberespionage}
+[Q] 网络间谍 [A] {cyber}{espionage}
 [Q] n. 喧嚣, 骚动 [A] {uproar} - Mr. Ai protested and there was a public uproar, Britain {relent}ed and apologized. 艾未未对此提出抗议，引起舆论一片哗然，最后英国做出让步并道了歉。
 [Q] v. 变温和; 做出让步 [A] {relent} - Britain relented and apologized. 最后英国做出让步并道了歉。
 [Q] n. 美学; 审美学; 美术理论 [A] {aesthetics} - which is very bad strategy and also is a very bad aesthetics, 这是非常糟糕的战略，而且也非常不好看
-[Q] vt.源于(基于,出于); 来自于 [A] {stem from} - The weakness of European efforts, he said, stem from “China’s use of its economic leverage 他说，欧盟在这方面的薄弱环节，来自于“中国对其经济影响力的运用
+[Q] vt.源于(基于,出于); 来自于 [A] {stem} from - The weakness of European efforts, he said, {stem from} “China’s use of its economic leverage 他说，欧盟在这方面的薄弱环节，来自于“中国对其经济影响力的运用
 [Q] v. 挤 [A] {crowd} - the crowding out of Chinese human rights issues by pressing {geopolitical} concerns closer to Europe.” 着眼于距离欧洲更近的地缘政治担忧，把中国人权问题挤到了一边”。
 [Q] n. 行人, 步行者 adj. 徒步的, 通俗的, 呆板的 [A] {pedestrian}
 [Q] n. 妥协 [A] {compromise}
@@ -1363,3 +1363,70 @@
 [Q] adj. 公然的; 专门的; 公开承认的; 专业的 [A] professed - professed European values 欧洲价值观
 [Q] v. 公开宣称; 承认; 表示 [A] {profess}
 [Q] n. 犯罪地点, 集合地点, 审判地 [A] {venue} - It is just a venue for us to express concern 这仅仅是一个我们表示关切的场合。
+#
+#
+#
+# 凯特王妃国宴上施展服装外交手段
+# The Duchess of Cambridge and Sartorial Diplomacy
+# http://cn.nytstyle.com/fashion/20151022/t22runway/dual/
+#
+[Q] n. 公爵夫人 [A] {Duchess}
+[Q] adj. 裁缝匠的, 裁缝的, 缝工的 [A] {sartorial} - The {Duchess} of Cambridge and {Sartorial} {Diplomacy} 凯特王妃国宴上施展服装外交手段
+[Q] 裁缝外交 [A] {Sartorial} {Diplomacy} - The {Duchess} of Cambridge and Sartorial Diplomacy 凯特王妃国宴上施展服装外交手段
+[Q] n. 精于此道; 内行, 老手, 擅长者; 专家 [A] {adept} - Michelle Obama is not the only first lady who has become adept at using fashion as a form of subtle {sartorial} {outreach} to foreign leaders. 与外国领导人会面时，米歇尔·奥巴马(Michelle Obama)擅长将时尚作为一种微妙的服装沟通手段，不过她不是唯一精于此道的第一夫人。
+[Q] 推广; n. 扩大服务范围; [A] {outreach} - using fashion as a form of {subtle} {sartorial} {outreach} 擅长将时尚作为一种微妙的服装沟通手段
+[Q] 迎接; 纪念...; 向...致敬; 祝贺... [A] {in honor of} - state dinner in honor of President 迎接中国国家主席习近平时
+[Q] 轮候 [A] {in waiting} - the British first lady in waiting 轮候中的英国第一夫人
+[Q] 长裙; n. 长袍; 礼服; 法衣 [A] {gown}
+[Q] 头饰; n. 古波斯人的头饰; 教皇的职权; 三重冕 [A] {tiara}
+[Q] v. 借 [A] {lent} {lend} - She also wore a {tiara} lent by the palace and known as the Lotus Flower or Papyrus {tiara}. 还戴了自白金汉宫借来的头饰，它被称为“莲花头饰”，或“纸莎草头饰”。
+[Q] 在两国之间架起桥梁 [A] {country-bridging} - It was a quietly clever country-bridging choice and gave shape to the words of her grandmother-in-law 这个聪明的选择有助于在两国之间架起桥梁，不言不语之间便凸显了她的岳祖母、英国女王伊丽莎白二世的话
+[Q] 回想起; 联想到 [A] {call to mind} - If it also called to mind the red Alexander McQueen dress Mrs. Obama had worn to her first China state dinner in 2011 这件衣服也让人联想起奥巴马夫人2011年第一次在中国国宴上穿的那件红色亚历山大·麦昆(Alexander McQueen)长裙
+[Q] 除了...; 与...在一起; 在...以外 [A] {along with}
+[Q] 最常穿着的品牌 [A] {most-worn} brand - she may be Catherine’s most-worn brand. 这可能算是凯特王妃最常穿着的品牌了。
+[Q] 晚宴; 晚会 [A] {gala} dinner
+[Q] 莎夫人蜡像馆 [A] {Madame} {Tussauds}
+[Q] 蜡像 [A] {doppelganger}
+[Q] n. 前身; 前任; 原有事物; 前辈; 祖先 [A] {predecessor} - or its predecessor category, Glamour 其前身Glamour奖
+[Q] v. 谄媚; 使高兴, 使感到满意; 奉承; 比好看; 谄媚; 奉承 [A] {flatter} - and {pretty} {flattering} 颇显身材
+[Q] n. 特色, 特性, 品质 [A] {trait} - a trait that often gets them {dismiss}ed as boring by the style set 所以潮人们常常觉得她乏味
+[Q] 取悦大众 [A] {mass} {appeal} - message and mass appeal without making any waves 既想传达信息，又想取悦大众，同时亦不想节外生枝
+[Q] 公众人物 [A] {public figure}
+#
+#
+#
+# 频繁的性行为让女性的免疫系统做好受孕准备？
+# Does Frequent Sex Prime the Immune System for Pregnancy?
+# http://cn.nytimes.com/health/20151023/c23well-sex/dual/
+#
+[Q] 原文将刊登在 [A] This {column} appears in
+[Q] v. 怀孕 ; 构思; 持有; 以为; 构想, 设想; [A] {conceive} - couples trying to conceive 试图怀孕的伴侣
+[Q] 交配 n. 交往; 交流; 往来 [A] {intercourse} - should have intercourse as often as possible 尽可能频繁地性交
+[Q] 排卵期 n. 排卵; 产卵 [A] {ovulation} - not only during ovulation (obviously) but at other times as well 不仅是在排卵期（显然），其他时间也一样。
+[Q] n. 可能的机会; 优势; 成败的可能性 [A] {odds}
+[Q] 成功几率 [A] {odds} of success
+[Q] 免疫的 [A] {immune} - {immune system} 免疫系统
+[Q] 更年期之前 [A] {premenstrual}
+[Q] adj. 绝经期的, 更年期的 [A] {menopausal}
+[Q] n. 更年期; 活动终止期; 绝经期 [A] {menopause}
+[Q] 异性恋 [A] {heterosexual}
+[Q] adj. 子宫内的 [A] {intrauterine}
+[Q] adj. 节制的; 禁欲的 [A] {abstinent}
+[Q] n. 口水, 唾液 [A] {saliva}
+[Q] adj. 月经的; 每月的; 一月一次的 [A] {menstrual} - menstrual cycle 月经周期
+[Q] 生殖的 [A] {reproductive} - reproductive system 生殖系统
+[Q] 怀孕 [A] {conception} - when conception was possible 也就是有可能怀孕时
+[Q] adj. 危险的; 碰运气的; 冒险的 [A] {hazardous} - {nonhazardous} foreign cells 无害的外来细胞
+[Q] n. 胎儿 [A] {fetus}
+[Q] adj. 免疫学的 [A] {immunological}
+[Q] n. 粘液 [A] {mucus}
+[Q] 粘膜 [A] {mucus} {lining}
+[Q] 生殖道 [A] reproductive tract
+[Q] n. 细菌 [A] {germ}
+[Q] n. 珠宝, 珍贵之物, 宝石 [A] {gem}
+[Q] v. 使忙碌; 预定; 雇佣; 答应; 交战; 从事 [A] {engage}
+[Q] n. 荷尔蒙; [A] {hormone} - extra changes in hormones 荷尔蒙的额外变化
+[Q] 微生物 [A] {microbiome}
+[Q] 生物群落 [A] {biome} - microbiome 菌群
+[Q] n. 敬畏; 畏怯 [A] {awe} - awe for the elegance of our flexible, powerful, socially aware immune system. 对我们那灵活、强大和具备外界感知力的免疫系统的精妙，产生了敬畏之心。
+[Q] 最大收获 [A] primary lesson - the primary lesson Lorenz takes away from these studies 从这两项研究中得到的最大收获
