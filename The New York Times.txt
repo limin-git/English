@@ -968,7 +968,7 @@
 # http://cn. nytimes.com/china/20151020/c20china/dual/
 #
 [Q] 蚕食 [A] {chip} {away}
-[Q] 沿海湿地 [A] {coastal} {wetlands}
+[Q] 沿海湿地 [A] {coastal} {wetland}s
 [Q] n. 捕鱼权; 渔业权; 渔业 [A] {fishery}
 [Q] n. 尖叫, 强烈抗议, 倒彩 [A] {outcry}
 [Q] 舆论哗然; 公众强烈抗议之声 [A] public {outcry}
@@ -979,7 +979,7 @@
 [Q] adj. 完全的, 充分的; 全体出席的; 绝对的 [A] {plenary}
 [Q] 全会 [A] {plenary} session
 [Q] 国务院 [A] State Council
-[Q] n. 英亩 [A] {acres}
+[Q] n. 英亩 [A] {acre}s
 [Q] v. 危及 [A] {endanger}
 [Q] 绕开 [A] {bypass} - It added that “huge economic returns from reclamation have prompted local governments to ‘bypass’ regulations issued by the central government.”“填海造地的丰厚经济回报让地方政府‘绕开’中央政府发布的规定。”
 [Q] 法律依据 [A] {legal} {basis}
@@ -1056,7 +1056,7 @@
 [Q] n. 慰藉; 安慰 [A] {solace} - He told fellow ex-cons about the solace he found in Lo’s dogs.
 [Q] n. 牛尾 [A] {oxtail}
 [Q] 牛尾汤 [A] {oxtail} soup
-[Q] 漫画 [A] {comics}
+[Q] 漫画 [A] {comic}s
 [Q] n. 黎明 [A] {dawn}
 [Q] n. 浩劫 ; 大破坏, 蹂躏 [A] {havoc}
 [Q] 为了让事态最小化 [A] to minimize the {havoc}
@@ -1109,7 +1109,7 @@
 [Q] v. 翻书页; 匆匆翻阅 [A] {leaf}
 [Q] n. 小报; 药片; 文摘, 摘要 [A] {tabloid}
 [Q] n. 名声; 名人 [A] {celebrity} - leafed through a {tabloid} about local celebrity gossip. 翻着充满当地名人八卦的小报
-[Q] 当地名人八卦的小报 [A] local {celebrity} {gossip} - said the owner, Mak Kuen-tat, as he leafed through a tabloid about local celebrity gossip. ”店主麦权达(Mak Kuen-tat)一边翻着充满当地名人八卦的小报，一边说。
+[Q] 当地名人八卦的小报 [A] local {celebrity} {gossip} - said the owner, Mak Kuen-tat, as he leafed through a {tabloid} about local {celebrity} {gossip}. ”店主麦权达(Mak Kuen-tat)一边翻着充满当地名人八卦的小报，一边说。
 [Q] 有不同的算计 [A] a different {calculus} is at play
 [Q] n. 传记 [A] {biography} - four biographies of Lee Kuan Yew
 [Q] (把书)摆(在架子上) [A] {tuck} - tucked out of sight on shelves far from heavily trafficked areas 摆在远离客流的架子上。
@@ -1430,3 +1430,150 @@
 [Q] 生物群落 [A] {biome} - microbiome 菌群
 [Q] n. 敬畏; 畏怯 [A] {awe} - awe for the elegance of our flexible, powerful, socially aware immune system. 对我们那灵活、强大和具备外界感知力的免疫系统的精妙，产生了敬畏之心。
 [Q] 最大收获 [A] primary lesson - the primary lesson Lorenz takes away from these studies 从这两项研究中得到的最大收获
+#
+#
+#
+# 澳大利亚大规模捕杀野猫引发争议
+# Australia Defends Plan to Kill Millions of Feral Cats
+# http://cn.nytimes.com/asia-pacific/20151015/c15australia/dual/
+#
+[Q] v. 辩护; 防护; 防卫; [A] {defend} - Australia Defends Plan to Kill Millions of {Feral} Cats
+[Q] adj. 野生的, 凶猛的 [A] {feral} - feral cats 野猫
+[Q] adj. 残酷的, 悲惨的 [A] {cruel} - killing millions of {feral} cats is unnecessarily cruel. 不必要的残忍之举
+[Q] 元凶 [A] {major contributor} - they were a “major contributor” to the {extinction} of at least 27 mammal species 它是导致澳大利亚起码27种哺乳动物灭绝的“元凶”。
+[Q] adj. 令人愉快的; 可喜的 [A] {delightful} - delightful creatures 可爱的生物
+[Q] 在...中极为重要 [A] rich in importance in
+[Q] adj. 土产的; 本地的; 土著的; 生而俱有的, 内在的, 固有的 [A] {indigenous} - Australian Indigenous culture 澳大利亚土著文化
+[Q] n. 生态学 [A] {ecology} - playing important roles in the ecology of our country 以前在我国的生态环境里也扮演了重要的角色
+[Q] n. 哺乳动物 [A] {mammal} - {feral} cats are the biggest threat to the country’s {mammals} 野猫是该国哺乳动物物种的最大威胁
+[Q] n. 栖息地, 自生地, 居留地 [A] {habitat}
+[Q] 栖息地的丧失 [A] {habitat} loss
+[Q] 扑杀 [A] {cull} - he wanted to see two million {feral} cats culled by 2020. 希望到了2020年的时候捕杀的野猫数量可达两百万
+[Q] adj. 侵入的, 攻击性的, 侵略性的 [A] {invasive} - which are an invasive {species} brought by European settlers 是以前欧洲移民引入的入侵物种
+[Q] 入侵物种 [A] {invasive} {species}
+[Q] v. 根除, 灭绝; 消灭 [A] {exterminate} - Calls to exterminate the cats have been floated before, 根除野猫的倡议以前就一直有
+[Q] n. 战役, 活动, 运动 [A] {campaign} - the French actress well known for her work in animal rights campaigns 以热心投入动物权益保护活动而闻名
+[Q] n. 丑闻 [A] {scandal} - a scandal, a shame 丑闻和耻辱
+[Q] n. 种族灭绝; 集体屠杀 [A] {genocide} - This animal genocide is {inhuman} and {ridiculous} 这样的动物大屠杀是非人道和荒谬的
+[Q] adj. 非人道的; 残忍的, 非人类的, 无人性的 [A] {inhuman}
+[Q] n. 使绝育; 中性名词, 阉割动物, 无性动物 [A] {neuter} - Australia should neuter feral cats rather than kill them. 澳大利亚政府应该替野猫绝育，而不是捕杀
+[Q] adj.引起争论的 [A] {controversial} - a reference to the controversial killing of a lion in Zimbabwe in July by an American dentist. 7月份时，津巴布韦的明星狮子西塞尔被一名美国牙医猎杀，引起争议。莫里西说
+[Q] 稀树草原 [A] {savanna}
+#
+#
+#
+# 印度优步司机绑架强奸女乘客被判有罪
+# Uber Driver in India Is Found Guilty of Rape
+# http://cn.nytimes.com/world/20151021/c21india/dual/
+#
+[Q] v. 宣告有罪, 使知罪 [A] {convict} - was convicted by a Delhi court on Tuesday of raping a female passenger last year 拼车服务公司优步(Uber)的一名前司机因去年强奸女性乘客被德里一所法院宣判有罪。
+[Q] v. 攻击; 抨击, 谴责; 袭击; 对...施暴; 动武 [A] {assault} - an assault on a 26-year-old passenger
+[Q] v. 使隔离, 隔开, 使孤立 [A] {seclude} - woken up in a {secluded} location 醒来后发现身处偏远地区
+[Q] 量刑听证会 [A] sentencing hearing - A sentencing hearing is expected on Friday
+[Q] n.原告(起诉人); n. 实行者, 告发者, 追诉者 [A] {prosecutor} - the public prosecutor in the case 该案的公诉人
+[Q] v. 引发; 得出; 抽出; 引出 [A] {elicit} - elicited widespread concern over the dangers of {ride-hailing} services 它引发了人们对于当地叫车服务危险性的广泛忧虑。
+[Q] 叫车 [A] {ride-hailing}
+[Q] 监管不明 [A] {regulatory} {ambiguity}
+[Q] n. 可作两种解释; 模棱两可的话; 意义不明确; 含糊话 [A] {ambiguity}
+[Q] 申诉 [A] {appeal} - the Delhi high court granted Mr. Yadav’s appeal calling for 13 witnesses 德里高等法院同意了亚达夫的申诉，决定重新审核13名目击证人
+[Q] n. 保释 [A] {bail} - was free on bail in connection with 正处于保释期。他和其他...案件有关
+[Q] 刑事过失 [A] {criminally} {negligent}
+[Q] v. 创立; 制定; 开始 [A] {institute} - Uber announced that it would institute background checks in India 优步宣布将在印度建立背景调查机制
+[Q] n. 裁决, 判断, 判决 ; 判决书 [A] {verdict} - Amit Jain, hailed the verdict against Mr. Yadav 对亚达夫一案的判决结果表示欢迎。
+[Q] 性侵犯 [A] {Sexual} {assault}
+[Q] v. 拖延; 憔悴, 苦思, 凋萎 [A] {languish} - which can languish in criminal and legal proceedings for years 强奸案有可能会在刑事和司法程序上拖延多年
+[Q] n. 诉讼程序 [A] {proceeding} - which can languish in criminal and legal proceedings for years 强奸案有可能会在刑事和司法程序上拖延多年
+[Q] 定罪率 [A] {conviction} rate - 而强奸案的定罪率不超过1/3
+#
+#
+#
+# 为保学生睡眠，美国中学推迟上课
+# To Keep Teenagers Alert, Schools Let Them Sleep In
+# http://cn.nytstyle.com/health/20151019/t19delete/dual/
+#
+[Q] 迟起床 [A] {sleep in}
+[Q] adj. 连续的, 相继的; [A] {successive} - She set three successive alarms on her phone 她在手机上连着设了三个闹钟
+[Q] adv. 急速地; 慌忙地; 轻率地 [A] {hastily} - Hastily applied {makeup} while her {fuming} father drove 在父亲气冲冲驾车的途中匆匆化妆
+[Q] 化妆品 [A] {makeup} - Hastily applied makeup while her fuming father drove
+[Q] v. 熏; 冒烟; 发怒; 冒出; 怒气冲冲地说话 [A] {fume} - Hastily applied makeup while her fuming father drove
+[Q] adj. 狂乱的; 疯狂的 [A] {frantic} - the frantic {scrum} 蜂拥的学生群
+[Q] 争球 [A] {scrum} - the {frantic} scrum 蜂拥的学生群
+[Q] 教育委员会; 学校董事会 [A] {school board}
+[Q] 辍学; 脱离; 退学; 退出 [A] {drop out} - I will drop out of school! 我会辍学的！
+[Q] adj. 贫困的; 被剥夺的 [A] {deprived} - That was when the sleep-deprived teenager turned into a sleep {activist}. 就是从这时候起，这名总是睡眠不足的少女变身为睡眠捍卫者。
+[Q] v. 剥夺; 使丧失 [A] {deprive} - sleep-deprived 睡眠不足
+[Q] adj. 瘦长的 [A] {lanky} - she knew in the core of her tired, lanky body 认识到她那疲惫、瘦高的身体
+[Q] 重新调整 [A] {realign} - Could the board realign the first bell with that biological reality? 学校董事会能不能根据这个生物学上的事实重新调整预备铃的时间？
+[Q] n. 喷溅; v. 唾沫飞溅 [A] {sputter} - The sputtering, nearly 20-year movement to start high schools later 近20年来，试图推迟高中上课时间的运动一直进展得不温不火
+[Q] 势头 动力; 要素 [A] {momentum} - has recently gained momentum in communities like this one 该活动的发展势头也随之改善。
+[Q] v. 鞠躬, 欠身; 顺从, 屈服; 弓; 弓状物; 虹; 弧形物 [A] {bow} - bowed to the accumulating research on the {adolescent} body clock
+[Q] n. 青少年; adj. 青春期的 [A] {adolescent} - adolescent body clock 青少年生物钟
+[Q] 采用者 [A] {adopter} - joining early adopters in Connecticut 继康涅狄格州、这些先行者之后
+[Q] n. 西雅图 [A] {Seattle}
+[Q] n. 监督人, 监管者; 警长; 主管, 负责人; 警官 [A] {superintendent} - The superintendent of Montgomery County 马里兰州蒙哥马利县的学监
+[Q] n. 顾问 [A] {consultant}
+[Q] adj. 慢的, 迟到的, 迟钝的 [A] {tardy}
+[Q] adj. 运动的 [A] {athletic} - sustain athletic injuries 经常发生运动伤害
+[Q] v. 节制 [A] {moderate} - Sleeping well can also help moderate their {tendency} toward {impulsive} or risky {decision-making}. 好的睡眠也可以帮助减少他们冒失冲动或做出冒险决定。
+[Q] n. 趋向, 倾向 [A] {tendency}
+[Q] n. 青春期; 开花期; 妙龄 [A] {puberty} - During puberty 青春期期间
+[Q] 褪黑激素 [A] {melatonin} - “sleep” {hormone} melatonin “睡眠”激素——褪黑激素
+[Q] adj. 昏昏欲睡的; 沉寂的; 催眠的 [A] {drowsy} - which means they tend not to feel drowsy until around 11 p.m 这意味着青少年们往往直到晚上11点左右才会觉得昏昏欲睡
+[Q] n. 倾向, 倾斜度, 意愿 [A] {inclination}
+[Q] n. 攻击, 肇端, 进攻 发病; 初动; 起始; 起病; 开始 [A] {onset} - the onset of sleep 睡意就愈发姗姗来迟
+[Q] v. 危害, 使陷危地, 使受危困 [A] {jeopardize} - jeopardizes student jobs 影响学生打工
+[Q] adj. 课外的; 业余的 [A] {extracurricular}
+[Q] 从本质上来说 [A] {at heart}
+[Q] n. 第一, 卓越, 首位; 重要意义 [A] {primacy} - the primacy of sleep 睡眠的重要意义
+[Q] 劳模(荣誉)奖章 [A] {badge} of honor - It’s still a badge of honor to get five hours of sleep 人们仍然觉得应该给每晚睡五个小时的人颁发劳模奖章
+[Q] n. 大字形躺卧姿势; 散乱; 蔓生; 杂乱的扩展 ; 绵延 [A] {sprawl} - which sprawls across 300 square miles of flatland 而该校区绵延300多公里
+[Q] 平原 [A] {flatland}
+[Q] v. 点燃 [A] {ignite} - ignited their passion 寻找一个足以点燃他们激情的课题
+[Q] adj. 逻辑的; 后勤方面的; 运筹的 [A] {logistical} - to solve logistical problems in scheduling bus routes. 以解决调度公交线路的后勤问题
+[Q] n. 二年级学生; 具有二年经验者 [A] {sophomore}
+[Q] v. 喜爱, 爱好; 欣赏, 品味; 吃得津津有味; [A] {relish} - did not particularly relish {conflict} 也不喜欢跟人争论
+[Q] adj. 直接的; 坦白的; 直率的 [A] {forthright}
+[Q] n. 聚集的人群, 产量, 出席者 [A] {turnout} - a voter turnout drive for Missouri Democrats, 在拉高密苏里民主党投票率的活动中实习
+[Q] 投票率 [A] {voter} {turnout}
+[Q] n. 沉浸, 陷入, 专心 [A] {immersion} - French-immersion 沉浸式法语教育课程
+[Q] 学前班 [A] {prekindergarten}
+[Q] 蜷缩 [A] {curl up} - {curl}ed up in an {armchair} at home 她蜷缩在家中的扶手椅上
+[Q] 熬夜; 通宵 [A] {all-nighter} - she pulled an all-nighter 她熬了个通宵
+[Q] n. 军火; 弹药 [A] {ammunition} - provided her with scientific ammunition 并从该组织获得了所需的科学依据
+[Q] v. 征募, 谋取, 参与; 从军, 赞助, 应募 [A] {enlist} - she tried to enlist the help of every high school teacher in the district. 尽力争取该学区内每一位高中老师的帮助。
+[Q] n. 请愿 [A] {petition} - online petition 她还在网上发起了请愿活动
+[Q] 广告传单 [A] {flier} - hundreds of posters and fliers, 上百张的海报和宣传单
+[Q] adj. 塞得满满的, 拥挤的 [A] {packed} - The {testy} school board meeting that Monday was packed 学校董事会会议座无虚席
+[Q] adj. 易怒的, 暴躁的 [A] {testy} - The testy school board meeting that Monday was {packed} 学校董事会会议座无虚席
+[Q] adj. 装成端庄的, 认真的, 装得严肃的 [A] {demure}
+[Q] adj. 有褶饰边的 [A] {ruffled}
+[Q] n. 短上衣, 短衫 [A] {blouse}
+[Q] n. 猫头鹰 [A] {owl} - blinking owl-like 她像猫头鹰似的不停地眨眼睛
+[Q] n. 高贵的人, 高僧, 高官 [A] {dignitary} - The dignitaries’ faces “大人物”的脸
+[Q] v. 擦, 摩擦 [A] {rub} - because while nervously rubbing her eyes, she had removed her {contact lenses} 她的隐形眼镜在她因紧张而揉眼睛时被她揉掉了。
+[Q] 隐形眼镜 [A] {contact lenses}
+[Q] n. 透镜; 镜头; 镜片; 晶体 [A] {lens}
+[Q] 闹市区 [A] inner city - from inner-city kids and {affluent} kids
+[Q] adj. 富裕的 [A] {affluent} - from inner-city kids and affluent kids 无论是来自贫民区的孩子还是富庶家庭的孩子
+[Q] adj. 学院的, 大学的; 学术的; 纯理论的 [A] {academic} - During that academic year 在该学年中
+[Q] 学年 [A] {academic} year
+[Q] 令人欣慰 [A] {reassuring} - It is really reassuring to know that students can have a say in the matter, 获知学生在这个问题上拥有发言权，实在令人欣慰
+[Q] v. 使放心, 使消除疑虑; [A] {reassure} - It is really {reassuring} to know that students can have a say in the matter, 获知学生在这个问题上拥有发言权，实在令人欣慰
+[Q] 抵触 [A] {pushback} - I know it’s not the most {conventional} thing and it’s going to get some pushback, 我知道，不怎么符合传统，而且必将会受到一定程度的抵触
+[Q] n. 运动员; 运动选手 [A] {athlete} - including athletes who often miss the last period to make their {away game}s 比如运动员要参加客场比赛往往就没法上最后一节课。
+[Q] 客场比赛 [A] {away game}
+[Q] n. 大学运动代表队, 大学 [A] {varsity} - a senior varsity football player. 橄榄球队的毕业班球员
+[Q] n. 发薪; 收益; 发薪时间; [A] {payoff} - Some parents and first-period teachers are seeing a payoff in students who are more rested and alert. 一部分家长和头一堂课的老师已经看到了回报：学生休息得更好，精神也更足。
+[Q] n. 走廊 [A] {hallway} - one-story building with skylights and wide hallways 石桥高中有着天窗和宽阔走廊的长条形单层建筑中阳光普照，寂静无声。
+[Q] n. 天窗 [A] {skylight} - one-story building with skylights and wide hallways 石桥高中有着天窗和宽阔走廊的长条形单层建筑中阳光普照，寂静无声。
+[Q] 阳光普照 [A] {sun-drenched}
+[Q] adj. 湿透的; 充满的 [A] {drenched} - sun-drenched 阳光普照
+[Q] v. 使湿透, 使充满 [A] {drench} - sun-drenched 阳光普照
+[Q] n. 管弦乐队, 乐队演奏处 [A] {orchestra} - like an orchestra {tuning up} 就像管弦乐队开始调音一样
+[Q] 调音 [A] {tuning up} - like an {orchestra} tuning up 就像管弦乐队开始调音一样
+[Q] n. 合唱团; 唱诗班; 唱诗班的席位 [A] {choir}
+[Q] v. 发劈啪声; 使发爆裂声; [A] {crackle} - Laughter crackled across the lobby 笑声响彻大厅
+[Q] 停车场 [A] {parking lot}
+[Q] 长长的头发乱蓬蓬的 [A] long hair {uncombed} and {flyaway}
+[Q] n. 背包 [A] {backpack}
+[Q] n. 走廊, 回廊 [A] {corridor}
