@@ -1610,3 +1610,106 @@
 [Q] 出现 [A] {show up}
 [Q] n. 分裂; 瓦解; 崩溃 [A] {disruption}
 [Q] 着陆区; 接岸区 [A] {landing area} - lists their landing areas at the top of its list of “critical infrastructure.” 将其接岸区列为头号“关键基础设施”
+#
+#
+#
+# 古老的幽灵又回到了挪威
+# Norway Has a New Passion: Ghost Hunting
+# http://cn.nytimes.com/world/20151026/c26ghost/dual/
+#
+[Q] adj. 不能说明的, 费解的, 不能解释的 [A] inexplicable
+[Q] v. 泄露; 暴露 [A] {divulge}
+[Q] v. 揭露; 透露 [A] {disclose}
+[Q] n. 机密性 [A] {confidentiality}
+[Q] adj. 秘密的; 机密的 [A] {confidential}
+[Q] n. 义务, 债务, 职责 [A] {obligation}
+[Q] adv. 在下; 依此 [A] {hereunder}
+[Q] adj. 不能强制履行的 [A] {unenforceable}
+[Q] adj. 不合理的, 不切实际的, 过度的 [A] {unreasonable}
+[Q] adj. 含糊的, 茫然的, 不清楚的 [A] {vague}
+[Q] n. 赔偿, 保障, 补偿 [A] {indemnification}
+[Q] n. 幽闭恐怖症 [A] {claustrophobia}
+[Q] n. 不幸之事, 恶运, 灾祸 [A] {mishap}
+[Q] n. 房宅连及地基; 生产场所, 经营场址 [A] {premises}
+[Q] n. 前提, 房屋连地基 [A] {premise}
+[Q] n. 同意, 许可 [A] {consent}
+[Q] n. 登记, 挂号 [A] {registration}
+[Q] adj. 各自的, 分别的 [A] {respective}
+[Q] 超自然的 [A] life beyond the {here and now} - she slowly began to put aside her deep {skepticism} about life beyond the here and now. 她开始慢慢地放下自己对超自然的深刻怀疑。
+[Q] n. 水管工人 [A] {plumber}
+[Q] n. 千里眼; 有洞察力的人; 通灵者 [A] {clairvoyant} - she finally got help from a clairvoyant who claimed powers to communicate with the dead 她最终是从一个自称能和死者交流的通灵者那里获得了帮助
+[Q] n. 出席, 存在, 到场 [A] {presence}
+[Q] 幽灵般的存在 [A] {ghostlike} {presence}
+[Q] 疯子; adj. 疯癫的, 丧心病狂的, 愚蠢的 [A] {lunatic} - I know I am not a total lunatic. 我知道自己不是疯狂迷信的人。
+[Q] adj. 世俗的, 不朽的, 现世的; adj 世俗的（非精神的；非宗教的） [A] {secular} - they have now found a particularly strong following in highly secular modern countries like Norway 在挪威等高度世俗化的现代国家，人们特别相信幽灵的存在
+[Q] n. 前锋, 领导者, 先锋; 排头兵 [A] {vanguard}
+[Q] adj. 无情的, 不屈不挠的, 冷酷的 [A] {inexorable}
+[Q] 科学主导 [A] {science-led}
+[Q] n. 迷信 [A] {superstition}
+[Q] 迷信和宗教 [A] {superstition} and {religion}
+[Q] 民意调查 [A] {opinion poll}
+[Q] 稳步减少 [A] in {steady} {decline}
+[Q] n. 魔力; 魅力; 入迷; 迷恋 [A] {fascination} with
+[Q] 主动接触 [A] reach out to - with a princess coaching people on how to reach out to spirits 一位公主就曾指导人们如何主动接触灵体。
+[Q] n. 传道者, 牧师, 讲道者 [A] {preacher}
+[Q] n. 神学; 宗教理论, 宗教体系 [A] {theology}
+[Q] v. 预言; 预报 [A] {predict}
+[Q] v. 引导; 形成河道; 在某条路线上前进; 使在某条路线上前进 [A] {channel} - modernity has only channeled religious feelings in unexpected ways, 现代性只不过是以一种意想不到的方式来抒发宗教感情
+[Q] n. 复活; 再起; 复苏; 再现 [A] {resurgence} - describing this as part of a general resurgence of “{premodern} religion.” 他认为这是“前现代宗教”卷土重来的一个表现。
+[Q] 前现代; 现代化之前 [A] {premodern} - premodern {religion} 前现代宗教
+[Q] n. 无神论者 [A] {atheist} - {committed} atheist 坚定的无神论者
+[Q] adj. 忠诚的, 坚定的 [A] {committed} - committed {atheist} 坚定的无神论者
+[Q] 奄奄一息的; 苟延残喘 [A] {last legs} - religion is still on its last legs 宗教仍旧处在奄奄一息的状态
+[Q] v. 握 [A] {grip} - the grip of ghosts on {rational}, modern minds 一些理性的现代派人士之所以相信幽灵
+[Q] n. 吹牛者; 庸医; 骗子; 假内行 [A] {charlatan} - reflected the success of charlatans at playing on people's fears. 只不过是因为一些骗子成功利用了人们的恐惧心理。
+[Q] n. 口号, 标语 [A] {slogan} - which ran a national campaign under the slogan, “Don't Let Yourself Be Cheated,” 人文主义协会在全国开展活动，口号是“不要让自己受人欺骗”
+[Q] n. 北欧传说中住在洞穴里的巨人; [A] {troll}
+[Q] 圣诞老人 [A] {Santa Claus}
+[Q] n. 经常去做礼拜的人 [A] {churchgoer}
+[Q] 主持人; 该剧的出品人 [A] {presenter} - the show's presenter
+[Q] 超自然现象; adj. 超过正常的, 超过正常范围的 [A] {paranormal} - though initially very {skeptical} about {paranormal} {phenomena} 尽管最初非常怀疑超常现象
+[Q] n.现象(不平常的事物,珍品) [A] {phenomena} - though initially very {skeptical} about {paranormal} phenomena 尽管最初非常怀疑超常现象
+[Q] 恢复知觉; 回来 [A] {come around} - he has come around to the view that 但他现在认为
+[Q] v. 详述, 重新计算, 叙述 [A] {recount}
+[Q] v. 藐视, 使落空, 挑衅; 有悖于 [A] {defy} - defy all physical laws 有悖于一切自然法则
+[Q] n. 牧师, 僧侣, 神父 [A] {priest} - a Lutheran priest and recently retired theology lecturer 路德教派牧师、已于最近退休的神学讲师
+[Q] n. 演讲者; 讲师 [A] {lecturer} - a Lutheran priest and recently retired theology lecturer 路德教派牧师、已于最近退休的神学讲师
+[Q] n. 礼拜仪式 [A] {liturgy} - has adopted a so-called “ghost liturgy” for use by preachers who get asked by parishioners to help cleanse {haunted house}s. 教会都采用了一种所谓的“幽灵礼拜仪式”，供牧师在教区居民请其帮助为凶宅驱邪时使用。
+[Q] n. 教区居民 [A] {parishioner}
+[Q] n. 不可知论者 [A] agnostic - {atheist}s and {agnostic}s 无神论者和不可知论者
+[Q] n. 似非而是的论点, 自相矛盾的话; 逆说, 悖论 [A] {paradox} - the paradox of modernity 现代性的悖论
+[Q] n. 苏醒; 再生; 复活; 复兴, 再流行 [A] {revival} - a revival of old beliefs 古老信仰的重新兴起
+[Q] v. 消解; 使满足; [A] {slake} - to slake an {innate} human {thirst} for a spiritual life 为了满足人固有的对精神生活的渴望。
+[Q] adj. 先天的; 天生的; 固有的 [A] {innate} - to {slake} an innate human {thirst} for a spiritual life 为了满足人固有的对精神生活的渴望。
+[Q] 鬼屋 [A] {haunted house}
+[Q] n. 小册子 [A] {brochure} - German-language brochures always ended up being the most {prominently} displayed 德语版的小册子最后总是摆放在最显眼的位置
+[Q] adv. 显著地; 重要地 [A] {prominently} - German-language {brochure}s always ended up being the most prominently displayed 德语版的小册子最后总是摆放在最显眼的位置
+[Q] n. 前提, 房屋连地基 [A] {premise}s - was still on the premises and kept messing with the brochures. 仍在这栋楼里，胡乱摆放小册子
+#
+#
+#
+# 南海局势升级，美国驱逐舰驶近南海争议岛屿
+# Challenging Chinese Claims, U.S. Sends Warship Near Artificial Island Chain
+# http://cn.nytimes.com/usa/20151027/c27military/dual/
+#
+[Q] 海军驱逐舰 [A] {naval} {destroyer}
+[Q] 导弹 [A] {guided} {missile}
+[Q] 期待已久的 [A] {long-anticipated}
+[Q] v. 预期, 期望; 预先考虑到; 预料; 预先做 [A] {anticipate} - long-anticipated 期待已久的
+[Q] 军事演习 [A] maneuver - {provocative} {maneuver} 挑衅性的行动 {naval} {maneuver} 海军行动
+[Q] 削弱 [A] {undercut} - saying that to do so would have undercut their message 称这么做会削弱他们要传达的信息。
+[Q] 新闻发布会 [A] news conference
+[Q] v. 发挥, 施以影响, 运用 [A] {exert} - exert influence 发挥影响力
+[Q] 可疑的领土主张 [A] questionable sovereignty claim
+[Q] n. 合法; 合理; 正统 [A] {legitimacy} - dispute the legitimacy of the islands built by China. 质疑中国所建岛屿的合法性
+[Q] 把问题推给了国防部 [A] referring questions to the Defense Department
+[Q] 白宫新闻发言人 [A] press secretary
+[Q] n. 报刊; 记者们; 新闻界; 通讯社#强迫征兵 [A] press - the press secretary 白宫新闻发言人
+[Q] n. 誓约 [A] {vow} - a vow widely viewed as a signal to the Chinese 这个誓言被广泛认为是向中国发出的信号
+[Q] 联大; 联合国大会 [A] {United Nations General Assembly}
+[Q] v. 支撑, 鼓励, 赞成; 维护; 崇尚 [A] {uphold} - interest in upholding the basic principles of freedom of navigation 维护航行自由和贸易自由流动的基本原则
+[Q] v. 先占; 抢占; [A] {preempt} - as a gesture to preempt the American naval maneuver 一些亚洲分析人士将此举解读为抢在美国海军行动前行动。
+[Q] adj. 海的, 海事的, 海上的 [A] {maritime} - citing international maritime laws 国际海洋法规定
+[Q] n. 过道, 出入口 [A] {passageway} - if there was no other passageway for a ship to reach its destination 船只如果没有其他通道可以抵达目的地
+[Q] adv. 慎重地; 故意地, 蓄意地; [A] {deliberately} - but the military deliberately chose to enter the waters that China claims as its territory. 但军方故意选择进入中国声称是其领土的水域。
+[Q] 侦察机 [A] {surveillance} plane
