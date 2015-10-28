@@ -1713,3 +1713,80 @@
 [Q] n. 过道, 出入口 [A] {passageway} - if there was no other passageway for a ship to reach its destination 船只如果没有其他通道可以抵达目的地
 [Q] adv. 慎重地; 故意地, 蓄意地; [A] {deliberately} - but the military deliberately chose to enter the waters that China claims as its territory. 但军方故意选择进入中国声称是其领土的水域。
 [Q] 侦察机 [A] {surveillance} plane
+#
+#
+#
+# 中国称美国军舰南沙巡航是蓄意挑衅
+# Beijing Calls U.S. Warship’s Route in South China Sea a ‘Provocation’
+# http://cn.nytimes.com/china/20151028/c28islands/dual/
+#
+[Q] 使（部队）投入战斗 [A] {commit} - China on Tuesday accused the United States of committing a “deliberate provocation” by sending a Navy destroyer into waters 中国周二指责美国派海军驱逐舰驶入中国称之为领海的水域是“蓄意挑衅”
+[Q] 例行记者会 [A] regularly scheduled news conference
+[Q] 执行(任务); 从事, 着手; 进行 [A] {undertake} - The United States had signaled for weeks that it would undertake the mission 美国在几周前就表示将派舰艇在该海域执行任务
+[Q] 属于; 相当于 [A] {amount to} - China’s statements on Tuesday amounted to a relatively mild response 中国周二的声明属于相对温和的反应
+[Q] 外交照会; n.政治手段(外交新方针); 行动方针; 行动新方针 [A] {demarche} - whether China had issued any kind of démarche. 中国是否已发出某种外交照会
+[Q] n. 侵略; 进入; 入侵; 流入 [A] {incursion} - Mr. Lu called the move an illegal incursion 陆慷称美舰艇非法进入中国水域
+[Q] n. 船, 脉管, 容器 [A] {vessel} - whether the Lassen had been followed by a Chinese warship or some other kind of vessel, such as a Coast Guard ship 陆慷在记者会上拒绝回答中国军舰或海岸警卫队船只是否跟踪了拉森号的问题。
+[Q] 事端; 事件; 事变 [A] {incident} - the Lassen, accompanied by surveillance aircraft, had completed its mission without incident. 拉森号在一架侦察机的配合下已经完成了任务，没有发生任何事端。
+[Q] 要求不透露姓名 [A] {anonymity} - on the condition of anonymity
+[Q] 职权, 权限; 属性 [A] {attribution} - he was not authorized to speak for attribution 他没有被授权发表评论
+[Q] v. 徘徊; 闲逛, 游荡; 消磨时光 [A] {loiter} - the plan had been to stay on a defined path, not to loiter and not to be provocative 计划一直是保持在一条确定的航线上，不徘徊，不挑衅
+[Q] n. 群岛; 多岛海 [A] {archipelago} - the Spratly archipelago 斯普拉特利群岛
+[Q] v. 疏浚; 捞取; 挖掘; 采沙 [A] {dredge} - using massive dredging 用大量的泥沙
+[Q] n. 保证, 抵押, 誓言 公约; 承诺; 抵押(品), 保人; 立誓加入某秘密团体的人;预备会员 [A] {pledge} - but he did not expand on that pledge during his private talks with President Obama 在与奥巴马总统进行私人会谈时，习近平没有进一步解释这一承诺
+[Q] 低潮; 低潮位 [A] low {tide} - {low-tide} {elevation} 低潮高地
+[Q] 低潮高地 [A] low-{tide} {elevation} 低潮高地
+[Q] n. 高地, 高程, 高度, 海拔 [A] {elevation} - low-{tide} elevation 低潮高地
+[Q] n. 潮, 潮汐; 浪潮; 潮水; 潮流 [A] {tide} - a low-tide {elevation} — meaning it is naturally submerged at high tide — is not entitled to a 12-nautical-mile territorial limit 低潮高地指的是涨潮时自然淹没的地方，不享有12海里的领海权限
+[Q] 随意, 任意 [A] {at will} - ships and aircraft are free to operate at will without consultation or permission, 外国船舶和飞机可以在低潮高地500米以外的安全水域自由行使，无需事先协商或得到许可。
+[Q] 无可争辩的 [A] {indisputable} - China has indisputable sovereignty of the Nansha Islands and adjacent waters 中国对南沙群岛及其附近海域拥有无可争辩的主权。
+[Q] 有关方面 [A] the relevant party - If the relevant party keeps stirring things up, 如果有关方面一再在本地区制造紧张，无事生非”的话
+[Q] adj. 活泼的, 忙碌的, 活跃的 [A] {stirring} - If the relevant party keeps {stir}ring things up, 如果有关方面一再在本地区制造紧张，无事生非”的话
+[Q] v. 搅拌, 搅动 [A] {stir} - If the relevant party keeps stirring things up, 如果有关方面一再在本地区制造紧张，无事生非”的话
+[Q] 激起; 煽动 [A] {stir up} - If the relevant party keeps stirring things up, 如果有关方面一再在本地区制造紧张，无事生非”的话
+[Q] 举行会谈 [A] hold talks - in Beijing with senior Chinese military officials 在北京与中国军方高级官员举行会谈
+[Q] n. 侵掠, 攻击, 侵略; 突袭 行动 （军事上的）突袭，偷袭；劫掠 [A] {foray} - warned that the United States will conduct such forays whenever it sees fit. 他警告说，只要美国认为合适，就会进行这样的行动。
+[Q] 民事法律; 民事执法 [A] civilian law - will tend to move the issues from the civilian law enforcement to the military realm 从而把这个问题从民事执法上升到军事层面
+#
+#
+#
+# 废除21世纪的奴隶制
+# Meet a 21st-Century Slave
+# http://cn.nytimes.com/opinion/20151026/c26kristof/dual/
+#
+[Q] 翻白眼 [A] {roll} their eyes - they may roll their eyes and assume that’s an {exaggeration} 读者可能会翻白眼，认为那是夸大其词。
+[Q] n. 夸大其词 [A] {exaggeration} - they may roll their eyes and assume that’s an exaggeration 读者可能会翻白眼，认为那是夸大其词。
+[Q] n. 妓院 [A] {brothel} - she is putting her life back together after being sold to a brothel 之前被卖到妓院，如今正努力恢复生活。
+[Q] n. 大赦; 特赦 [A] {amnesty} - as Amnesty International suggested recently, 像国际特赦组织(Amnesty International)最近表示的那样
+[Q] 国际特赦组织 [A] {Amnesty} International
+[Q] v. 使免除刑法制裁, 使...合法化 [A] {decriminalize} - the solution is to decriminalize the commercial sex trade around the world, then pay special heed 认为这种问题的解决方案是让商业性交易在全世界合法化，那你可要特别注意了。
+[Q] n. 注意, 留心 [A] {heed} - then pay special heed 那你可要特别注意了
+[Q] 安置; 存放; 堆积; 沉淀 [A] {deposit} - When Poonam was eventually deposited in a {brothel} in Mumbai, she was puzzled. 当最终被安置到位于印度孟买的一家妓院时，她很困惑
+[Q] [口](把...)打扮得漂漂亮亮, 浓妆艳抹 [A] {doll up} - dolled her up in a {skimpy} dress 把她打扮得花枝招展——身着暴露的裙子
+[Q] n. 假乳房 [A] {falsies} - equipped her with falsies 胸部塞上乳垫
+[Q] adv. 严厉地; 坚决地; 苛刻地 [A] {sternly} - The {brothel} owner sternly told Poonam to {buck up} 老鸨严厉地告诉卜纳姆要打起精神
+[Q] vt.精神振奋(奋发,欢欣鼓舞) [A] {buck up} - The brothel owner {sternly} told Poonam to buck up 老鸨严厉地告诉卜纳姆要打起精神
+[Q] adj.受...管辖的(蒙受,易受...的 [A] {subject to} - subjected to forced labor 成为全球强制劳工中的一员
+[Q] 强制劳工 [A] {forced labor} - {subjected to} forced labor 成为全球强制劳工中的一员
+[Q] 交易, 买卖(常指非法买卖)(in; with) [A] {traffic} - are trafficked into the sex trade 被卖入性交易行业
+[Q] adj 遗忘的；疏忽的 [A] {oblivious} - were sometimes oblivious to the {brutality} 有时候他们对虐待行为视而不见
+[Q] n. 残忍, 野蛮; 暴虐行为 [A] {brutality} - were sometimes oblivious to the brutality 有时候他们对虐待行为视而不见
+[Q] 自以为; 自欺欺人 [A] {flatter oneself} - flattering themselves that the girls liked their work 自欺欺人地说这些女孩喜欢自己的工作
+[Q] n 掩蔽处；庇护所；v 躲避 [A] {shelter} - the police could see that she was a child and took her to a shelter 但警察可以看出来她是个孩子，把她带到了一个庇护所。
+[Q] 反人口贩卖 [A] {anti-trafficking} - Indian authorities returned Poonam to the care of Maiti Nepal, a leading anti-trafficking organization 印度当局将卜纳姆送回了尼泊尔，交给极具影响力的反人口贩卖组织“尼泊尔母亲之家”(Maiti Nepal)照顾。
+[Q] 创伤后精神失调; 创伤后应激障碍 [A] {post-traumatic} {stress disorder} - A new study suggests that post-traumatic stress disorder is frequent among those who have been trafficked. 一项新研究显示，那些曾经被贩卖过的人有很多都患上了创伤后精神失调。
+[Q] n.免受惩罚(不受损害) [A] {impunity} - ending the {impunity} for {pimp}s and {trafficker}s 让皮条客和人贩子不能逃脱惩罚
+[Q] n. 妓院老板; 拉皮条的人 [A] {pimp} - ending the {impunity} for {pimp}s and {trafficker}s 让皮条客和人贩子不能逃脱惩罚
+[Q] v. 对...起诉; 依法进行; [A] {prosecute} - Maiti Nepal has helped prosecute 800 people for involvement in trafficking. 尼泊尔母亲之家已经帮助起诉了800个人贩子。
+[Q] 善意的, 好心的 [A] {well-meaning} - Plenty of well-meaning people {back} Amnesty International’s proposal for full {decriminalization} of the sex trade, including of {pimp}s and {brothel}s, 很多人出于好意对国际特赦组织的建议予以支持，该组织建议性交易全面合法化，包括皮条客和妓院
+[Q] 结果 [A] {end up} - ended up simply {empower}ing {pimp}s 结果只是让皮条客更嚣张
+[Q] v. 袭击; 侵吞; 对...突然查抄; 劫掠; 发动突然袭击 [A] {raid} - the police would no longer have a reason to raid {brothel}s to search for girls like Poonam 警方将没有理由对妓院进行突然袭击，以便搜寻和卜纳姆有一样遭遇的女孩。
+[Q] v. 奴役, 沉溺, 束缚 [A] {enslave} - if it were in place, Poonam might still be enslaved. 如果当时已实施，卜纳姆可能现在还在被奴役。
+[Q] n. 犯罪者; 作恶者 [A] {perpetrator} - All the benefits go to the perpetrators and {exploiter}s. 所有的好处都让作恶者和剥削者占了
+[Q] n. 剥削者 [A] {exploiter} - All the benefits go to the {perpetrator}s and exploiters. 所有的好处都让作恶者和剥削者占了
+[Q] vt 使钝 adj 钝的，（头脑、感觉）迟钝的; 直言不讳的 [A] {blunt} - The blunt truth is that no strategy works all that well against trafficking. 对付人口贩卖没什么好策略
+[Q] n 人造斜坡; 舷梯; 斜面(滑道,停机坪; 跳板 n. 斜面; 坡道; 斜坡; 活动舷梯 [A] {ramp} - providing social services and exit ramps for women in the sex trade 同时给从事性工作的女性提供社会服务和摆脱这个行业的跳板。
+[Q] 被忽视的 [A] {neglected} - report on neglected social issues 报道被忽视的社会议题
+[Q] n. 开发; 利用; 开采; 剥削 [A] {exploitation} - That’s what human trafficking is, an ugly form of exploitation that at its worst amounts to modern slavery. 这就是人口拐卖，一种丑恶的剥削方式，在最糟糕的情况下，它无异于现代奴隶制。
+[Q] 无异于 [A] {amount to} - - That’s what human trafficking is, an ugly form of exploitation that at its worst amounts to modern slavery. 这就是人口拐卖，一种丑恶的剥削方式，在最糟糕的情况下，它无异于现代奴隶制。
+[Q] v. 废止; 废除 [A] {abolish} - In the 21st century, isn’t it finally time to abolish slavery forever? 在21世纪的今天，我们难道不应该彻底废除这种东西吗？
