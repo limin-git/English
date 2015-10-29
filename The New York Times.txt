@@ -65,7 +65,7 @@
 [Q] 尽管中国总是夸耀它在世界各地的铁路项目, 但在拉丁美洲却频繁受阻, 由此折射出, 即便是中国的勃勃雄心也会面临限制。[A] While China {boast}s of its rail initiatives around the world, it has often been {stymie}d here in Latin America, reflecting how even China’s {formidable} ambitions have limits.
 [Q] 眼下, 在拉丁美洲的不少地区头疼于自身对中国的依赖之际, 对中国经济增长状况的新担忧令其口中的“铁路外交”攻势遭受了更多的质疑。 [A] Now, new worries over China’s economic growth are raising more doubts about the {blitz} of what China calls its “{railroad} {diplomacy}, ” as parts of Latin America {reel} from their dependence on China.
 [Q] 尤其是规模庞大的穿越巴西和秘鲁的两大洋铁路计划, “将成为一次关键的考验, 衡量的是中国作为一个全球大国的本事, 以及中国对南美资源的筹谋会得到我们更大接受度的可能性, ”巴西学者表示。 [A] The {enormous} twin-ocean railroad across Brazil and Peru, in particular, “will be a crucial test of China’s {mettle} as a global power and the potential for greater {acquiescence} in South America to the designs that China has on our resources, ” said a Brazilian scholar.
-[Q] “鉴于扑朔迷离的中国经济目前处于不稳定状态, 我们正在经历对它过度依赖的负面影响, ”他还说。“假如这条铁路得以推进, 会对环境带来毁灭, 给中国送上插手我们事务的更大筹码。想象一下, 那会是怎样一番情形？” [A] “We’re {experiencing} the {downside} of our {overreliance} on China now that the {opaque} Chinese economy is in {flux}, ” he added. “Imagine what will happen if this railway somehow advances, bringing with it environmental devastation and even more {leverage} for China in our {affair}s.”
+[Q] “鉴于扑朔迷离的中国经济目前处于不稳定状态, 我们正在经历对它过度依赖的负面影响, ”他还说。“假如这条铁路得以推进, 会对环境带来毁灭, 给中国送上插手我们事务的更大筹码。想象一下, 那会是怎样一番情形？” [A] “We’re {experiencing} the {downside} of our {overreliance} on China now that the {opaque} Chinese economy is in {flux}, ” he added. “Imagine what will happen if this railway somehow advances, bringing with it environmental {devastation} and even more {leverage} for China in our {affair}s.”
 #
 #
 #
@@ -554,7 +554,7 @@
 [Q] n. 怀疑论; 怀疑的态度 [A] {skepticism}
 [Q] n. 立足处, 根据地, 据点 [A] {foothold}
 [Q] adv. 顿时; 突然地; [A] {abruptly}
-[Q] n. 低语, 低声的怨言; 异议; [A] {murmurs}
+[Q] n. 低语, 低声的怨言; 异议; [A] {murmur}s
 [Q] 掌控了局面 [A] commanding performance
 [Q] 前景; 希望 [A] {prospect}
 [Q] v. 支吾, 蹒跚地走 [A] {falter}
@@ -1746,7 +1746,7 @@
 [Q] 激起; 煽动 [A] {stir up} - If the relevant party keeps stirring things up, 如果有关方面一再在本地区制造紧张，无事生非”的话
 [Q] 举行会谈 [A] hold talks - in Beijing with senior Chinese military officials 在北京与中国军方高级官员举行会谈
 [Q] n. 侵掠, 攻击, 侵略; 突袭 行动 （军事上的）突袭，偷袭；劫掠 [A] {foray} - warned that the United States will conduct such forays whenever it sees fit. 他警告说，只要美国认为合适，就会进行这样的行动。
-[Q] 民事法律; 民事执法 [A] civilian law - will tend to move the issues from the civilian law enforcement to the military realm 从而把这个问题从民事执法上升到军事层面
+[Q] 民事法律; 民事执法 [A] civilian law - will tend to move the issues from the {civilian} law {enforcement} to the military realm 从而把这个问题从民事执法上升到军事层面
 #
 #
 #
@@ -1757,8 +1757,8 @@
 [Q] 翻白眼 [A] {roll} their eyes - they may roll their eyes and assume that’s an {exaggeration} 读者可能会翻白眼，认为那是夸大其词。
 [Q] n. 夸大其词 [A] {exaggeration} - they may roll their eyes and assume that’s an exaggeration 读者可能会翻白眼，认为那是夸大其词。
 [Q] n. 妓院 [A] {brothel} - she is putting her life back together after being sold to a brothel 之前被卖到妓院，如今正努力恢复生活。
-[Q] n. 大赦; 特赦 [A] {amnesty} - as Amnesty International suggested recently, 像国际特赦组织(Amnesty International)最近表示的那样
-[Q] 国际特赦组织 [A] {Amnesty} International
+[Q] n. 大赦; 特赦 [A] {amnesty} - as Amnesty International suggested recently, 像国际特赦组织(Amnesty} {International)最近表示的那样
+[Q] 国际特赦组织 [A] {Amnesty} {International}
 [Q] v. 使免除刑法制裁, 使...合法化 [A] {decriminalize} - the solution is to decriminalize the commercial sex trade around the world, then pay special heed 认为这种问题的解决方案是让商业性交易在全世界合法化，那你可要特别注意了。
 [Q] n. 注意, 留心 [A] {heed} - then pay special heed 那你可要特别注意了
 [Q] 安置; 存放; 堆积; 沉淀 [A] {deposit} - When Poonam was eventually deposited in a {brothel} in Mumbai, she was puzzled. 当最终被安置到位于印度孟买的一家妓院时，她很困惑
