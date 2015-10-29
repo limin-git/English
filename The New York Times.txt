@@ -53,7 +53,7 @@
 [Q] adj. 在进行中的; 起步的; [航]在航行中的; [A] {underway} - Not for a while. We're underway. 这段时间不行 我们在航行
 [Q] v. （当无法付款时）取消抵押品的赎回权（剥夺分期付款者收回抵押财产的权利）; 排除, 排斥＝bar; [A] {foreclose} - It sounds like they're gonna foreclose, 听起来他们要取消抵押品赎回权了
 [Q] 我不会动那些存货的 你得提高要价 [A] I'm not gonna break into my {stock}. You need to {charge} more.
-[Q] n. 涨价; 涨价幅度 [A] {markup} - Your markup is pathetic. 你的利润少得可怜
+[Q] n. 涨价; 涨价幅度 [A] {markup} - Your markup is {pathetic}. 你的利润少得可怜
 [Q] v. 净赚; [A] {net} - Most of these poor guys, they net 250 a week. 这些可怜鬼每周的净收入只有250块
 [Q] v. 放弃; 弃绝; 撤出; 交出, 让与 [A] {relinquish} - A thread obtains ownership of a mutex object by calling one of the lock functions and relinquishes ownership by calling the corresponding unlock function.
 [Q] 万丈雄心令人目眩。 [A] The {ambition}s are {dizzying}.
@@ -311,7 +311,7 @@
 [Q] 波及到本国境内 [A] {spill} into its {territory}
 [Q] 经济援助 [A] {economic} {largess}
 [Q] 维持着朝鲜最起码的经济 [A] keeps North Korea’s {bare-bones} {economy} {afloat}
-[Q] 在过去的一年里, 一直在争论 [A] a debate has been roiling in the past year among
+[Q] 在过去的一年里, 一直在争论 [A] a debate has been {roil}ing in the past year among
 [Q] 这个盟友对中国来说更多地是负担, 还是有价值的东西。 [A] whether its {ally} is more a {liability} than an asset.
 [Q] 双边关系 [A] {bilateral} {relationship}
 [Q] 例行公事 [A] it's a {routine} action
@@ -1551,7 +1551,7 @@
 [Q] n. 猫头鹰 [A] {owl} - blinking owl-like 她像猫头鹰似的不停地眨眼睛
 [Q] n. 高贵的人, 高僧, 高官 [A] {dignitary} - The dignitaries’ faces “大人物”的脸
 [Q] v. 擦, 摩擦 [A] {rub} - because while nervously rubbing her eyes, she had removed her {contact lenses} 她的隐形眼镜在她因紧张而揉眼睛时被她揉掉了。
-[Q] 隐形眼镜 [A] {contact lenses}
+[Q] 隐形眼镜 [A] {contact} {lens}es
 [Q] n. 透镜; 镜头; 镜片; 晶体 [A] {lens}
 [Q] 闹市区 [A] inner city - from inner-city kids and {affluent} kids
 [Q] adj. 富裕的 [A] {affluent} - from inner-city kids and affluent kids 无论是来自贫民区的孩子还是富庶家庭的孩子
@@ -1764,17 +1764,17 @@
 [Q] 安置; 存放; 堆积; 沉淀 [A] {deposit} - When Poonam was eventually deposited in a {brothel} in Mumbai, she was puzzled. 当最终被安置到位于印度孟买的一家妓院时，她很困惑
 [Q] [口](把...)打扮得漂漂亮亮, 浓妆艳抹 [A] {doll up} - dolled her up in a {skimpy} dress 把她打扮得花枝招展——身着暴露的裙子
 [Q] n. 假乳房 [A] {falsies} - equipped her with falsies 胸部塞上乳垫
-[Q] adv. 严厉地; 坚决地; 苛刻地 [A] {sternly} - The {brothel} owner sternly told Poonam to {buck up} 老鸨严厉地告诉卜纳姆要打起精神
+[Q] adv. 严厉地; 坚决地; 苛刻地 [A] {sternly} - The {brothel} owner {stern}ly told Poonam to {buck up} 老鸨严厉地告诉卜纳姆要打起精神
 [Q] vt.精神振奋(奋发,欢欣鼓舞) [A] {buck up} - The brothel owner {sternly} told Poonam to buck up 老鸨严厉地告诉卜纳姆要打起精神
 [Q] adj.受...管辖的(蒙受,易受...的 [A] {subject to} - subjected to forced labor 成为全球强制劳工中的一员
 [Q] 强制劳工 [A] {forced labor} - {subjected to} forced labor 成为全球强制劳工中的一员
 [Q] 交易, 买卖(常指非法买卖)(in; with) [A] {traffic} - are trafficked into the sex trade 被卖入性交易行业
 [Q] adj 遗忘的；疏忽的 [A] {oblivious} - were sometimes oblivious to the {brutality} 有时候他们对虐待行为视而不见
 [Q] n. 残忍, 野蛮; 暴虐行为 [A] {brutality} - were sometimes oblivious to the brutality 有时候他们对虐待行为视而不见
-[Q] 自以为; 自欺欺人 [A] {flatter oneself} - flattering themselves that the girls liked their work 自欺欺人地说这些女孩喜欢自己的工作
+[Q] 自以为; 自欺欺人 [A] {flatter oneself} - {flatter}ing themselves that the girls liked their work 自欺欺人地说这些女孩喜欢自己的工作
 [Q] n 掩蔽处；庇护所；v 躲避 [A] {shelter} - the police could see that she was a child and took her to a shelter 但警察可以看出来她是个孩子，把她带到了一个庇护所。
 [Q] 反人口贩卖 [A] {anti-trafficking} - Indian authorities returned Poonam to the care of Maiti Nepal, a leading anti-trafficking organization 印度当局将卜纳姆送回了尼泊尔，交给极具影响力的反人口贩卖组织“尼泊尔母亲之家”(Maiti Nepal)照顾。
-[Q] 创伤后精神失调; 创伤后应激障碍 [A] {post-traumatic} {stress disorder} - A new study suggests that post-traumatic stress disorder is frequent among those who have been trafficked. 一项新研究显示，那些曾经被贩卖过的人有很多都患上了创伤后精神失调。
+[Q] 创伤后精神失调; 创伤后应激障碍 [A] {post-traumatic} {stress disorder} - A new study suggests that post-{traumatic} stress disorder is frequent among those who have been trafficked. 一项新研究显示，那些曾经被贩卖过的人有很多都患上了创伤后精神失调。
 [Q] n.免受惩罚(不受损害) [A] {impunity} - ending the {impunity} for {pimp}s and {trafficker}s 让皮条客和人贩子不能逃脱惩罚
 [Q] n. 妓院老板; 拉皮条的人 [A] {pimp} - ending the {impunity} for {pimp}s and {trafficker}s 让皮条客和人贩子不能逃脱惩罚
 [Q] v. 对...起诉; 依法进行; [A] {prosecute} - Maiti Nepal has helped prosecute 800 people for involvement in trafficking. 尼泊尔母亲之家已经帮助起诉了800个人贩子。
@@ -1786,7 +1786,7 @@
 [Q] n. 剥削者 [A] {exploiter} - All the benefits go to the {perpetrator}s and exploiters. 所有的好处都让作恶者和剥削者占了
 [Q] vt 使钝 adj 钝的，（头脑、感觉）迟钝的; 直言不讳的 [A] {blunt} - The blunt truth is that no strategy works all that well against trafficking. 对付人口贩卖没什么好策略
 [Q] n 人造斜坡; 舷梯; 斜面(滑道,停机坪; 跳板 n. 斜面; 坡道; 斜坡; 活动舷梯 [A] {ramp} - providing social services and exit ramps for women in the sex trade 同时给从事性工作的女性提供社会服务和摆脱这个行业的跳板。
-[Q] 被忽视的 [A] {neglected} - report on neglected social issues 报道被忽视的社会议题
+[Q] 被忽视的 [A] {neglect}ed - report on neglected social issues 报道被忽视的社会议题
 [Q] n. 开发; 利用; 开采; 剥削 [A] {exploitation} - That’s what human trafficking is, an ugly form of exploitation that at its worst amounts to modern slavery. 这就是人口拐卖，一种丑恶的剥削方式，在最糟糕的情况下，它无异于现代奴隶制。
 [Q] 无异于 [A] {amount to} - - That’s what human trafficking is, an ugly form of exploitation that at its worst amounts to modern slavery. 这就是人口拐卖，一种丑恶的剥削方式，在最糟糕的情况下，它无异于现代奴隶制。
 [Q] v. 废止; 废除 [A] {abolish} - In the 21st century, isn’t it finally time to abolish slavery forever? 在21世纪的今天，我们难道不应该彻底废除这种东西吗？
