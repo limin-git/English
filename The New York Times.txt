@@ -192,8 +192,8 @@
 # http://cn. nytimes.com/technology/20151010/c10state/dual/
 #
 [Q] n. 有幻觉的人; 好幻想的人; 空想家; 有远见卓识者 [A] {visionary}
-[Q] 科幻小说或电影很少描述 [A] {portray} - so seldom portrayed in science fiction or movies
-[Q] 乌托邦情调 [A] flirted with {utopia}
+[Q] 科幻小说或电影很少描述 [A] {portray} - so seldom portrayed in science {fiction} or movies
+[Q] 乌托邦情调 [A] {flirt}ed with {utopia}
 [Q] 一个完美的未来会让故事变得平淡无奇。 [A] A perfect future makes for a {dull} story.
 [Q] vi. 断定是真货 [A] {ring true}
 [Q] 让科技公司创始人感到真实 [A] ring true for a tech founder
@@ -577,7 +577,7 @@
 [Q] n. 对手; 竞争者 [A] {rival}
 [Q] adj. 非附属的 [A] {unaffiliate}d
 [Q] 砰然关闭 [A] {slamming} {shut}
-[Q] 进退两难; 困境 [A] dilemma
+[Q] 进退两难; 困境 [A] {dilemma}
 [Q] v. 划线于...下, 强调; 突显出 [A] {underscore}
 [Q] 老将; 资深的 [A] {veteran}
 [Q] 说到对克林顿的批评, 没有人能和 Donald Trump 相提并论。[A] No less a {critic} of Clinton than Donald Trump
@@ -811,7 +811,7 @@
 [Q] n. 创刊号; 首次露面; 初次登台 [A] {debut}
 [Q] n. 发行量 [A] {circulations}
 [Q] 联盟 [A] {alliance}
-[Q] v. 减少 [A] diminish
+[Q] v. 减少 [A] {diminish}
 [Q] 大大缩减 [A] in {severely} {diminish}ed form
 [Q] 《阁楼》 [A] {Penthouse}
 [Q] v. 修补 [A] {revamp}
@@ -1790,3 +1790,60 @@
 [Q] n. 开发; 利用; 开采; 剥削 [A] {exploitation} - That’s what human trafficking is, an ugly form of exploitation that at its worst amounts to modern slavery. 这就是人口拐卖，一种丑恶的剥削方式，在最糟糕的情况下，它无异于现代奴隶制。
 [Q] 无异于 [A] {amount to} - - That’s what human trafficking is, an ugly form of exploitation that at its worst amounts to modern slavery. 这就是人口拐卖，一种丑恶的剥削方式，在最糟糕的情况下，它无异于现代奴隶制。
 [Q] v. 废止; 废除 [A] {abolish} - In the 21st century, isn’t it finally time to abolish slavery forever? 在21世纪的今天，我们难道不应该彻底废除这种东西吗？
+#
+#
+#
+# 消融的格陵兰
+# Greenland Is Melting Away
+# http://cn.nytimes.com/science/20151028/c28greenland/dual/
+# http://www.nytimes.com/interactive/2015/10/27/world/greenland-is-melting-away.html
+#
+[Q] vi.融掉(消失,熔化) [A] {melt away} - Greenland Is Melting Away
+[Q] 冰盖 [A] {ice sheet} - ON THE GREENLAND ICE SHEET 格陵兰冰盖
+[Q] 辉煌无垠 [A] {brilliant} {expanse} of - The midnight sun still {gleame}d at 1 a.m. across the brilliant expanse of the Greenland ice sheet. 凌晨1点，子夜太阳仍在照射着广阔的格陵兰冰盖。
+[Q] n 微光（光泽稳定而柔和的光）v 闪光＝flash [A] {gleam} - The midnight sun still gleamed at 1 a.m. across the brilliant expanse of the Greenland ice sheet. 凌晨1点，子夜太阳仍在照射着广阔的格陵兰冰盖。
+[Q] adj.博士的(权威的) [A] {doctoral} - doctoral {candidate} in {hydrology} at the University of Wyoming 水文学博士研究生
+[Q] 博士研究生 [A] - {doctoral} {candidate} in {hydrology} at the University of Wyoming 水文学博士研究生
+[Q] n. 水文学; 水文地理学 [A] {hydrology} - {doctoral} {candidate} in hydrology at the University of Wyoming 水文学博士研究生
+[Q] 行路谨慎 [A] {pick one's way} - picked his way across the frozen landscape, 在这片冰面上小心翼翼徐徐前进
+[Q] n. 夹子; v. 剪; 修剪;疾驰而过; 剪辑报刊; 夹紧, 钳牢 [A] {clip} - clipped his climbing harness to an anchor in the ice 将他的安全带系到冰层中的一个锚上
+[Q] 登山安全带 [A] {climbing harness} - clipped his climbing harness to an anchor in the ice 将他的安全带系到冰层中的一个锚上
+[Q] v. 爬, 潜行, 蔓延 [A] {creep} - crept toward the edge of a river 朝着一条向下流入巨大深坑的河流的边缘徐徐前进。
+[Q] 天坑; n. 排水口; 污水坑; 深坑 [A] {sinkhole} - river that rushed downstream toward an enormous sinkhole. 一条向下流入巨大深坑的河流
+[Q] 抬高 (海平面) [A] {drive up} - will drive up sea levels in the coming decades 会在未来几十年抬高海平面。
+[Q] 孟加拉国 [A] {Bangladesh}
+[Q] 南极洲 [A] {Antarctic}
+[Q] 折断; 暂停工作 [A] {break off} - have {satellite} images to track the icebergs that break off, 通过卫星图像追踪破裂冰山的情况
+[Q] prep.遭到炮火射击(受到攻击); 遭到抨击 [A] {under fire} - But the research is under increasing fire by some Republican leaders in Congress 但这项研究遭到国会中一些共和党领袖日益强烈的抨击
+[Q] 科学界的共识 [A] {scientific} {consensus} - who deny or question the scientific consensus that human activities contribute to climate change. 他们否认或质疑一个科学共识，即人类活动在一定程度上导致气候变化。
+[Q] 实地考察; 野战工事, 野外工作 [A] {fieldwork} - which serves as a base for researchers to prepare for fieldwork on the ice sheet. 充当研究人员冰盖实地考察工作的准备基地。
+[Q] 分水岭; 分水线 [A] {watershed} - stand watch by a {supraglacial} watershed 在一个冰面分水线边值班
+[Q] 速度 [A] {velocity} - taking measurements — velocity, {volume} 测量这条湍急河流的流速、流量、温度及深度。
+[Q] n. 体积, 册, 大小; 流量 [A] {volume} - taking measurements — {velocity}, volume 测量这条湍急河流的流速、流量、温度及深度。
+[Q] n. 麝香鹿, 能发出麝香的各种各样的植物 [A] {musk} - musk ox burgers 麝牛汉堡
+[Q] n. 羊肉 [A] {mutton}
+[Q] 冰川壶穴 [水文] [A] {moulin} - working just {upriver} from the {moulin} 该团队将在冰川锅穴上游工作
+[Q] adv. 在上游, 从上游, 向上游 [A] {upriver} - working just upriver from the moulin 该团队将在冰川锅穴上游工作
+[Q] (风等)刮起; 席卷; (浪等)冲走, 带走 [A] {sweep} - the sinkhole that would sweep anyone who fell into it deep into the ice sheet. 人掉入这个沉洞后就会被卷入水中，坠入冰盖底层。
+[Q] n. 滑轮 [A] {pulley} - rope-and-pulley system 绳索滑轮系统
+[Q] v. 用筏子运送, 筏流; n. 筏; 橡皮船; 救生艇 [A] {raft}
+[Q] prep.仿效(仿制) [A] {model on} - modeled on swift-water boat rescue systems 他仿照激流皮划艇救援系统设计了绳索滑轮系统
+[Q] v 捡落穗（捡收割者落在田里的谷物）；（点点滴滴地）收集 [A] {glean} - that would be crucial to gleaning data from the treacherous waters 这对从危险水域中收集数据的工作至关重要。
+[Q] adj. 不实在的, 不可靠的; 虚有其表的; 背叛的, 奸诈的, 背信弃义的 [A] {treacherous} - that would be crucial to gleaning data from the treacherous waters 这对从危险水域中收集数据的工作至关重要。
+[Q] v. 卷, 盘绕; [A] {coil} - with the rest of the line coiled in a heavy bag. 剩下的绳子盘绕在一个沉重的袋子中。
+[Q] v. 用力投掷; 丢下; 愤慨地说出; 猛投; 猛掷 [A] {hurl} - The men took turns hurling the bag across the river, 他们轮流将袋子扔到河对岸
+[Q] n. 弹弓 [A] {slingshot} - Ryan, who wore a {hot-pink} {knit} {cap} and purple sunglasses that set off his red {beard}, 瑞安戴着亮粉针织帽和紫色太阳镜，跟他的红胡子很搭配。
+[Q] 亮粉色 [A] hot-pink - Ryan, who wore a hot-pink knit cap and purple sunglasses that set off his red beard, 瑞安戴着亮粉针织帽和紫色太阳镜，跟他的红胡子很搭配。
+[Q] n. 无边帽, 帽子, 盖子 [A] {cap} - Ryan, who wore a hot-pink knit cap and purple sunglasses that set off his red beard, 瑞安戴着亮粉针织帽和紫色太阳镜，跟他的红胡子很搭配。
+[Q] n. 编织衣物; [A] {knit} - Ryan, who wore a hot-pink knit cap and purple sunglasses that set off his red beard, 瑞安戴着亮粉针织帽和紫色太阳镜，跟他的红胡子很搭配。
+[Q] n. 胆固醇 [A] {cholesterol}
+[Q] 反式脂肪酸 [A] {trans fatty acid}
+[Q] n. 咬碎; 扎扎地踏; 咬碎声 [A] {crunch}
+[Q] 冲浪板 [A] {boogie} board
+[Q] v. 使大伤元气; 使干枯; 逐渐消耗; [A] {sap} - the device's battery, sapped by the cold, began to die 在严寒的侵蚀下，装置的电池开始耗尽
+[Q] adj. 壮观的; 引人注目的; 壮丽的; 惊人的 [A] {spectacular} - By now the sun had dropped lower, filling the sky with a spectacular orange {glow}. 现在太阳已经慢慢落下，壮观的橙色光亮照亮整个天空。
+[Q] v. 发红光, 发热, 红光焕发 [A] {glow} - By now the sun had dropped lower, filling the sky with a {spectacular} orange glow. 现在太阳已经慢慢落下，壮观的橙色光亮照亮整个天空。
+[Q] 热反射薄膜 [A] heat-reflecting silver {sheeting} - He found a {roll} of heat-reflecting silver sheeting 他在营地里找到了一卷银色的热反射薄膜
+[Q] n. 被单布, 床单布 [A] {sheeting}
+[Q] v. 变小, 衰落, 亏缺 [A] {wane} - But the battery continued to wane 但电量在继续减少
+[Q] 奢华享受 [A] {lavish} {treat} - Overstreet broke open a {celebratory} bag of dried {mango}es — a lavish treat for the ice campers. 奥弗斯特里特打开了一包芒果干，以示庆祝——这对于冰上露营者来说是一种奢侈。
