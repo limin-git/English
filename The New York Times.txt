@@ -171,7 +171,7 @@
 [Q] 倡导美国处理环境疏忽的模式 [A] promoting an American model for dealing with environmental {negligence}
 [Q] n. 国会, 议会 [A] {Parliament}
 [Q] 起诉责任人 [A] suing those responsible
-[Q] 《跨境阴霾污染法令》 [A] {Transboundary} {Haze} {Pollution} {Act}
+[Q] 《跨境阴霾污染法令》 [A] {Transboundary Haze Pollution Act}
 [Q] adj. 有希望的, 将来的, 预期的 [A] {prospective}
 [Q] n. 起诉人; 原告 [A] {plaintiff}
 [Q] 高档酒店 [A] {upscale} hotels
@@ -236,7 +236,7 @@
 [Q] 滑稽地 [A] {comically}
 [Q] 近视的 [A] {myopic}
 [Q] n. 忧虑, 焦虑, 焦虑的事 [A] {anxiety}
-[Q] 缓解社会焦虑 [A] relieve their social anxieties
+[Q] 缓解社会焦虑 [A] relieve their social {anxieties}
 [Q] 可怜之举 [A] petty efforts
 [Q] 真实的动机 [A] {authentic} motivation
 [Q] adv. 勉强地, 不情愿地 [A] {grudgingly}
@@ -279,7 +279,7 @@
 [Q] 审查系统 [A] {censorship} system
 [Q] 试图安抚中国政府 [A] to {appease} the government
 [Q] n. 企业家; 主办人 [A] {entrepreneur}
-[Q] 书面采访 [A] written interview
+[Q] 书面采访 [A] {written interview}
 [Q] v. 使惊惶; 破坏; 使仓皇失措 [A] {disconcert}
 [Q] 非常不爽 [A] very {disconcert}ing
 [Q] 设备上的审查 [A] On device {censorship}
@@ -299,7 +299,7 @@
 [Q] 中共中央政治局 [A] {Politburo}
 [Q] 常务委员会 [A] {Standing} {Committee}
 [Q] 上台 [A] rose to power
-[Q] 中国共产党 [A] Chinese Communist Party
+[Q] 中国共产党 [A] {Chinese Communist Party}
 [Q] 称赞金正恩[A] He {hail}ed Kim Jong-un
 [Q] n. 同盟国; 一次大战中的协约国; 同盟者; 二次大战中的同盟国 [A] {ally}
 [Q] vt.使...不稳定(使...动摇); 搞乱 [A] {destabilize}
@@ -414,7 +414,7 @@
 [Q] v. 敢于, 冒...的危险; 冒险; n. 冒险, 风险, 投机 [A] {venture}
 [Q] v. 忍住; 戒除; 抑制 [A] {refrain}
 [Q] 至少从2012年起, 美国一直避免这么近距离地接近中国在南海中占据的岛屿。 [A] The United States has {refrain}ed from venturing that close to Chinese-occupied islands in the South China Sea since at least 2012.
-[Q] 航空母舰 [A] aircraft {carrier}
+[Q] 航空母舰 [A] {aircraft carrier}
 [Q] n. 通讯记者; 通信者 [A] {correspondent}
 [Q] CNN记者 [A] CNN {correspondent}
 [Q] n. 建议者, 支持者 [A] {proponent}
@@ -422,10 +422,10 @@
 [Q] 高级顾问 [A] The senior adviser on
 [Q] 国家安全委员会中国问题高级顾问 [A] The senior adviser on China at the National Security Council
 [Q] n. 分析者; 分解者; 善于分析者; 精神分析医师 [A] {analyst}
-[Q] 闭门会议 [A] closed-door briefing
+[Q] 闭门会议 [A] {closed-door} {brief}ing
 [Q] 这名知情者不愿具名 [A] {participant} who requested {anonymity}
 [Q] 五角大楼 [A] {Pentagon}
-[Q] 意见一致 [A] on the same page
+[Q] 意见一致 [A] {on the same page}
 [Q] 长时间的(详细地)讨论 [A] debated at length
 [Q] 抵御北京 [A] push back against Beijing
 [Q] 进一步扩军 [A] further {military} {buildup}
@@ -440,7 +440,7 @@
 [Q] n. 开垦; 收回; 改造 [A] {reclamation}
 [Q] 填海造陆 [A] land {reclamation}
 [Q] v. 调节, 使适应, 和解; 供应; 适应 [A] {accommodate}
-[Q] 该跑道能供战斗机起降。 [A] a runway capable of accommodating fighter jets
+[Q] 该跑道能供战斗机起降。 [A] a {runway} capable of {accommodating} fighter jets
 [Q] n. 前任; 原有事物; 前辈; 祖先 [A] {predecessor}
 [Q] adj. 似鹰的; 鹰派的, 强硬派的 [A] {hawkish}
 [Q] 倾向于支持 [A] be {incline}d to support
@@ -539,7 +539,7 @@
 [Q] v. 廉价出售; 削弱 [A] {undercut}
 [Q] n. 敌手; 对手 [A] {adversary}
 [Q] 上述信息被窃事件及其造成的后果 [A] That {breach}, and its {aftermath}
-[Q] 被讨论; 对...表示怀疑 [A] called into question
+[Q] 被讨论; 对...表示怀疑 [A] {called into question}
 [Q] vb. 使承担责任; 使付出代价 [A] {held to account}
 [Q] 动摇我们在...方面做出的承诺 [A] {weaken} our {commitment} to
 #
@@ -570,7 +570,7 @@
 [Q] n. 领事, 领事馆, 领事任期 [A] {consulate}
 [Q] 唯一的理由 [A] only {rationale}
 [Q] 自惹麻烦 [A] risk a {backlash}
-[Q] adj. 明白的, 不会弄错的 [A] unmistakable
+[Q] adj. 明白的, 不会弄错的 [A] {unmistakable}
 [Q] 干净利落地回答 [A] {crisp} answers
 [Q] n. 油炸马铃薯片; 钞票; 松脆之物 [A] {crisp}
 [Q] 其锋芒毕露的姿态令对手们难以招架。 [A] an {aggressiveness} her {rivals} did not seem ready for
@@ -761,7 +761,7 @@
 [Q] 什叶派 [A] {Shiite}
 [Q] adj. 迫切的; 即将来临的; 逼近的; [A] {imminent}
 [Q] 武装暴力的中心 [A] a center for {militia} violence
-[Q] 衣着; 服装 [A] {outfits}
+[Q] 衣着; 服装 [A] {outfit}s
 [Q] adj. 不足的, 吝啬的; 衣着暴露 [A] {skimpy}
 [Q] 遮得严严实实 [A] fully {veil}ed
 [Q] adj. 知名; 显赫的; 有名的; 杰出的; [A] {eminent}
@@ -830,7 +830,7 @@
 [Q] n. 酒; 烈酒 [A] {liquor}
 [Q] 千禧 [A] {millennial}
 [Q] 年轻人喜欢(被吸引到)艺术 [A] younger people are {drawn} to art
-[Q] 香水 [A] {fragrances}
+[Q] 香水 [A] {fragrance}s
 [Q] n. 商品; 货物 [A] {merchandise}
 [Q] 市场营销的开支 [A] marketing expense
 [Q] n. 店面 [A] {storefront}
@@ -952,7 +952,7 @@
 [Q] n. 感情, 心情 - 观点 [A] {sentiment} - But the party has de-emphasized such sentiments during this campaign. 但民进党在此次选举中弱化了这种观点。
 [Q] 弱化 [A] de-emphasized
 [Q] 现状 [A] {status quo}
-[Q] 放样 [A] {stake} {out} - Tsai has staked out the center ground 蔡英文已经划出了一个核心范围
+[Q] 放样 [A] {stake out} - Tsai has staked out the center ground 蔡英文已经划出了一个核心范围
 [Q] adv. 踏实地; 不变地 [A] {steadfastly}
 [Q] 明确地坚持 [A] {stick}ing {steadfast}ly to
 [Q] 维持现状 [A] maintaining the {status} {quo}
@@ -1045,8 +1045,8 @@
 [Q] 律师 [A] {attorney}
 [Q] 法庭文件 [A] {court} filing
 [Q] n. 敲诈勒索 [A] racketeering
-[Q] v. 劝告, 忠告; 提议; 商议, 劝告 [A] {counsel} - He counseled at-risk high-school students about addiction to crime. 他为有危险倾向的高中生解答有关犯罪嗜好的问题。
-[Q] 有危险倾向的 [A] at-risk
+[Q] v. 劝告, 忠告; 提议; 商议, 劝告 [A] {counsel} - He counseled {at-risk} high-school students about addiction to crime. 他为有危险倾向的高中生解答有关犯罪嗜好的问题。
+[Q] 有危险倾向的 [A] {at-risk}
 [Q] 犯罪嗜好 [A] addiction to crime
 [Q] 代笔人 [A] {ghostwriter}
 [Q] n. 传记, 追思录, 回忆录 [A] {memoir}
@@ -1138,7 +1138,7 @@
 [Q] n. 任期 [A] {tenure} - During Xi's tenure 习近平上任以来
 [Q] n. 首相; 总理 [A] {premier} - a former Chinese premier 中国前总理
 [Q] adj. 有关存在的 [A] {existential} - It's an existential threat 这是一个生存威胁
-[Q] 收支平衡 (不赔钱) [A] At best we can break {even} 最好的情况是，我们不赔钱。
+[Q] 收支平衡 (不赔钱) [A] At best we can {break even} 最好的情况是，我们不赔钱。
 [Q] n. 花彩; v. 以花彩装饰 [A] {festoon} - is festooned with pro-Beijing political posters 挂满了亲北京的政治宣传海报。
 [Q] n. 保温罩 [A] {cozy}
 [Q] 取悦; 拉拢 [A] {cozy} up to - but {self-censorship} by Hong Kong's news media {elite} as they {cozy up to} Beijing. 而是香港新闻媒体精英的自我审查，因为他们想取悦北京。
@@ -1153,7 +1153,7 @@
 #
 [Q] n. 白血病 [A] {leukemia}
 [Q] 患白血病 [A] develop {leukemia} - A man who developed leukemia after working on a cleanup crew at the ruined Fukushima Daiichi nuclear power plant
-[Q] 相当于; 总计为 [A] {amount} to - in what amounts to the first official acknowledgment that exposure to radiation at the disaster site may have caused cancer. 这相当于首次正式承认暴露在那里的辐射环境中可能诱发癌症。
+[Q] 相当于; 总计为 [A] {amount to} - in what {amount}s to the first official acknowledgment that exposure to radiation at the disaster site may have caused cancer. 这相当于首次正式承认暴露在那里的辐射环境中可能诱发癌症。
 [Q] 费时费力的清理工作 [A] {vast} and {laborious} cleanup effort - More than 40,000 workers have participated in the vast and laborious cleanup effort at Fukushima Daiichi
 [Q] n. 海啸, 地震海啸 [A] {tsunami}
 [Q] n. 碎片; 残骸 [A] {debris}
@@ -1168,7 +1168,7 @@
 [Q] 向疏散区回迁 [A] roll back the evacuation zone
 [Q] adv. 逐步地, 渐渐地 [A] gradually
 [Q] v. 使混淆, 挫败, 使狼狈 [A] {confound} - a confounding signal for people making consequential decisions about their lives. 那些需要做出重大人生决定的人们，看到的却是莫衷一是的信息。
-[Q] 广为报道的 [A] well-publicized - One well-publicized recent study found
+[Q] 广为报道的 [A] {well-publicized} - One well-publicized recent study found
 [Q] n. 发生率; 发病率 [A] {incidence} - an elevated incidence of thyroid cancer in children living near the plant 居住在电站附近儿童的甲状腺癌发病率上升
 [Q] v. 否定; 提出论据反对; [A] {contradict} - but its results have been contradicted by other research. 但其他研究得出了不同的结果。
 [Q] n. 等级 级别 [A] {magnitude} - Plant workers face a different magnitude of risk. 电站工人面临着不同级别的风险。
@@ -1254,7 +1254,7 @@
 [Q] v. 靠近; 动手处理; 接近; 联系 [A] {approach} - When edX approached Tsinghua about offering a class 当edX联系清华大学，想让他们开设一门课程时
 [Q] n. 宣言, 发表, 宣告 [A] {pronouncement}
 [Q] 赤裸裸; 不友好的; 易生气的 [A] {brittle} - many students {loathe} for its {brittle} {pronouncement}s on party thought 很多学生都讨厌这种赤裸裸的中共思想灌注
-[Q] 指导思想 [A] guiding {ideology} - a form of Marxism that the party honors as a {guiding} {ideology} 它是马克思主义的一种形式，被中共奉为指导思想
+[Q] 指导思想 [A] {guiding ideology} - a form of Marxism that the party honors as a {guiding} {ideology} 它是马克思主义的一种形式，被中共奉为指导思想
 [Q] 都觉得它意义不大 [A] all but ignore as {irrelevant}
 [Q] v. 设计; 图谋; 发明 [A] {devise} - Professor Feng devised a {condensed} version of that course 冯务中设计了一个浓缩版的“毛概”
 [Q] adj. 浓缩的; 压缩的; 扼要的 [A] {condensed} - Professor Feng devised a {condens}ed version of that course 冯务中设计了一个浓缩版的“毛概”
@@ -1332,7 +1332,7 @@
 [Q] n. 腐败, 贪污, 堕落 [A] {corruption}
 [Q] adj /v 奢侈浪费的；丰富的＝unstinting [A] {lavish} - {crackdown} on {corruption} and {lavish} {gift-giving}. 打击腐败和送豪华礼物
 [Q] 送礼 [A] {gift-giving}
-[Q] 在某种意义上 [A] in a sense - In a real sense 从现实意义来看
+[Q] 在某种意义上 [A] {in a sense} - {In a real sense} 从现实意义来看
 [Q] n. 矮子; 侏儒 v. 使矮小; 阻碍...的生长; 使显得矮小; [A] {dwarf} - dwarfs Britain’s 10 percent and France’s 9 percent 远高于英国的10％和法国的9％。
 [Q] 贸易顺差 [A] positive trade balance
 [Q] n. 赤字; 不足额 [A] {deficit}
@@ -1554,7 +1554,7 @@
 [Q] 隐形眼镜 [A] {contact} {lens}es
 [Q] n. 透镜; 镜头; 镜片; 晶体 [A] {lens}
 [Q] 闹市区 [A] inner city - from inner-city kids and {affluent} kids
-[Q] adj. 富裕的 [A] {affluent} - from inner-city kids and affluent kids 无论是来自贫民区的孩子还是富庶家庭的孩子
+[Q] adj. 富裕的 [A] {affluent} - from {inner-city} kids and affluent kids 无论是来自贫民区的孩子还是富庶家庭的孩子
 [Q] adj. 学院的, 大学的; 学术的; 纯理论的 [A] {academic} - During that academic year 在该学年中
 [Q] 学年 [A] {academic} year
 [Q] 令人欣慰 [A] {reassuring} - It is really reassuring to know that students can have a say in the matter, 获知学生在这个问题上拥有发言权，实在令人欣慰
@@ -1698,7 +1698,7 @@
 [Q] v. 预期, 期望; 预先考虑到; 预料; 预先做 [A] {anticipate} - long-anticipated 期待已久的
 [Q] 军事演习 [A] maneuver - {provocative} {maneuver} 挑衅性的行动 {naval} {maneuver} 海军行动
 [Q] 削弱 [A] {undercut} - saying that to do so would have undercut their message 称这么做会削弱他们要传达的信息。
-[Q] 新闻发布会 [A] news conference
+[Q] 新闻发布会 [A] {news conference}
 [Q] v. 发挥, 施以影响, 运用 [A] {exert} - exert influence 发挥影响力
 [Q] 可疑的领土主张 [A] questionable sovereignty claim
 [Q] n. 合法; 合理; 正统 [A] {legitimacy} - dispute the legitimacy of the islands built by China. 质疑中国所建岛屿的合法性
@@ -1708,7 +1708,7 @@
 [Q] n. 誓约 [A] {vow} - a vow widely viewed as a signal to the Chinese 这个誓言被广泛认为是向中国发出的信号
 [Q] 联大; 联合国大会 [A] United Nations {General} {Assembly}
 [Q] v. 支撑, 鼓励, 赞成; 维护; 崇尚 [A] {uphold} - interest in upholding the basic principles of freedom of navigation 维护航行自由和贸易自由流动的基本原则
-[Q] v. 先占; 抢占; [A] {preempt} - as a gesture to preempt the American naval maneuver 一些亚洲分析人士将此举解读为抢在美国海军行动前行动。
+[Q] v. 先占; 抢占; [A] {preempt} - as a gesture to preempt the American {naval} {maneuver} 一些亚洲分析人士将此举解读为抢在美国海军行动前行动。
 [Q] adj. 海的, 海事的, 海上的 [A] {maritime} - citing international maritime laws 国际海洋法规定
 [Q] n. 过道, 出入口 [A] {passageway} - if there was no other passageway for a ship to reach its destination 船只如果没有其他通道可以抵达目的地
 [Q] adv. 慎重地; 故意地, 蓄意地; [A] {deliberately} - but the military deliberately chose to enter the waters that China claims as its territory. 但军方故意选择进入中国声称是其领土的水域。
@@ -1823,11 +1823,11 @@
 [Q] n. 麝香鹿, 能发出麝香的各种各样的植物 [A] {musk} - musk ox burgers 麝牛汉堡
 [Q] n. 羊肉 [A] {mutton}
 [Q] 冰川壶穴 [水文] [A] {moulin} - working just {upriver} from the {moulin} 该团队将在冰川锅穴上游工作
-[Q] adv. 在上游, 从上游, 向上游 [A] {upriver} - working just upriver from the moulin 该团队将在冰川锅穴上游工作
+[Q] adv. 在上游, 从上游, 向上游 [A] {upriver} - working just upriver from the {moulin} 该团队将在冰川锅穴上游工作
 [Q] (风等)刮起; 席卷; (浪等)冲走, 带走 [A] {sweep} - the {sinkhole} that would sweep anyone who fell into it deep into the {ice sheet}. 人掉入这个沉洞后就会被卷入水中，坠入冰盖底层。
 [Q] n. 滑轮 [A] {pulley} - rope-and-pulley system 绳索滑轮系统
 [Q] v. 用筏子运送, 筏流; n. 筏; 橡皮船; 救生艇 [A] {raft}
-[Q] prep.仿效(仿制) [A] {model on} - modeled on swift-water boat rescue systems 他仿照激流皮划艇救援系统设计了绳索滑轮系统
+[Q] prep.仿效(仿制) [A] {model on} - modeled on {swift-water} boat rescue systems 他仿照激流皮划艇救援系统设计了绳索滑轮系统
 [Q] v 捡落穗（捡收割者落在田里的谷物）；（点点滴滴地）收集 [A] {glean} - that would be crucial to gleaning data from the treacherous waters 这对从危险水域中收集数据的工作至关重要。
 [Q] adj. 不实在的, 不可靠的; 虚有其表的; 背叛的, 奸诈的, 背信弃义的 [A] {treacherous} - that would be crucial to gleaning data from the treacherous waters 这对从危险水域中收集数据的工作至关重要。
 [Q] v. 卷, 盘绕; [A] {coil} - with the rest of the line coiled in a heavy bag. 剩下的绳子盘绕在一个沉重的袋子中。
@@ -1835,7 +1835,7 @@
 [Q] n. 弹弓 [A] {slingshot} - Ryan, who wore a {hot-pink} {knit} {cap} and purple sunglasses that set off his red {beard}, 瑞安戴着亮粉针织帽和紫色太阳镜，跟他的红胡子很搭配。
 [Q] 亮粉色 [A] {hot-pink} - Ryan, who wore a hot-pink {knit} {cap} and purple sunglasses that set off his red {beard}, 瑞安戴着亮粉针织帽和紫色太阳镜，跟他的红胡子很搭配。
 [Q] n. 无边帽, 帽子, 盖子 [A] {cap} - Ryan, who wore a hot-pink knit cap and purple sunglasses that set off his red beard, 瑞安戴着亮粉针织帽和紫色太阳镜，跟他的红胡子很搭配。
-[Q] n. 编织衣物; [A] {knit} - Ryan, who wore a hot-pink knit cap and purple sunglasses that set off his red beard, 瑞安戴着亮粉针织帽和紫色太阳镜，跟他的红胡子很搭配。
+[Q] n. 编织衣物; [A] {knit} - Ryan, who wore a {hot-pink} knit cap and purple sunglasses that set off his red beard, 瑞安戴着亮粉针织帽和紫色太阳镜，跟他的红胡子很搭配。
 [Q] n. 胆固醇 [A] {cholesterol}
 [Q] 反式脂肪酸 [A] {trans fatty acid}
 [Q] n. 咬碎; 扎扎地踏; 咬碎声 [A] {crunch}
@@ -1843,7 +1843,46 @@
 [Q] v. 使大伤元气; 使干枯; 逐渐消耗; [A] {sap} - the device's battery, sapped by the cold, began to die 在严寒的侵蚀下，装置的电池开始耗尽
 [Q] adj. 壮观的; 引人注目的; 壮丽的; 惊人的 [A] {spectacular} - By now the sun had dropped lower, filling the sky with a spectacular orange {glow}. 现在太阳已经慢慢落下，壮观的橙色光亮照亮整个天空。
 [Q] v. 发红光, 发热, 红光焕发 [A] {glow} - By now the sun had dropped lower, filling the sky with a {spectacular} orange glow. 现在太阳已经慢慢落下，壮观的橙色光亮照亮整个天空。
-[Q] 热反射薄膜 [A] heat-reflecting silver {sheeting} - He found a {roll} of heat-reflecting silver sheeting 他在营地里找到了一卷银色的热反射薄膜
+[Q] 热反射薄膜 [A] {heat-reflecting} silver {sheeting} - He found a {roll} of heat-reflecting silver sheeting 他在营地里找到了一卷银色的热反射薄膜
 [Q] n. 被单布, 床单布 [A] {sheeting}
 [Q] v. 变小, 衰落, 亏缺 [A] {wane} - But the battery continued to wane 但电量在继续减少
 [Q] 奢华享受 [A] {lavish} {treat} - Overstreet broke open a {celebratory} bag of dried {mango}es — a lavish treat for the ice campers. 奥弗斯特里特打开了一包芒果干，以示庆祝——这对于冰上露营者来说是一种奢侈。
+#
+#
+#
+# 你们为什么抢着当美国总统？
+# Are You Sure You Want the Job?
+# http://cn.nytimes.com/opinion/20151023/c23friedman/dual/
+#
+[Q] 预备会议; n. 干部会议; 政党地方委员会; 核心小组 [A] {Caucus} - Republican Freedom Caucus 共和党自由党团
+[Q] 共和党自由党团 [A] {Republican Freedom Caucus}
+[Q] 紊乱的; 失灵的; 垮掉 [A] {unstuck} - all coming unstuck at once 同时都开始垮掉。
+[Q] 司法部 [A] {Justice Department} - the Justice Department has charged a hacker in Malaysia with stealing the personal data of U.S. service members 司法部指控一名马来西亚黑客窃取美国军人的个人数据
+[Q] 圣战者 [A] {jihadist} - An Albanian hacker in Malaysia collaborating with an ISIS jihadist on Twitter to intimidate U.S. soldiers online 一名身在马来西亚的阿尔巴尼亚黑客，在Twitter上与ISIS圣战者合作，在网上恐吓美军士兵
+[Q] v. 威吓; 胁迫 ; 恐吓 [A] {intimidate} - An Albanian hacker in Malaysia collaborating with an ISIS jihadist on Twitter to intimidate U.S. soldiers online 一名身在马来西亚的阿尔巴尼亚黑客，在Twitter上与ISIS圣战者合作，在网上恐吓美军士兵
+[Q] n. 战争, 冲突, 作战 [A] {warfare} - Welcome to the future of warfare 欢迎到未来战争
+[Q] 超级大国 [A] {superpowers} - superpowers versus superempowered angry men 超级大国对阵超能怒汉
+[Q] n. 屈曲, 音调变化, 变调; 拐点 [A] {inflection} - They’re all a byproduct of a profound technology-driven inflection point 这是一个技术驱动拐点的副产品
+[Q] adv. 可笑地; 有趣地 [A] {laughably} - will make the current debates look laughably {obsolete} in four years 在未来四年，它会让如今的辩论看起来像是可笑的老黄历。
+[Q] adj. 荒废的, 陈旧的, 成废物的; 老黄历 [A] {obsolete} - will make the current debates look {laughably} obsolete in four years 在未来四年，它会让如今的辩论看起来像是可笑的老黄历。
+[Q] n. 教条; 学说; 原则,主义 [A] {doctrine} - the doctrine of “mutually assured destruction” kept both in check “共同毁灭原则”让双方都无法轻举妄动。
+[Q] adv.相互 [A] {mutually} - the {doctrine} of “{mutually assured destruction}” kept both in check “共同毁灭原则”让双方都无法轻举妄动。
+[Q] vt.阻止(制止,约束) [A] {keep in check} - the doctrine of “mutually assured destruction” kept both in check “共同毁灭原则”让双方都无法轻举妄动。
+[Q] n. 命令者, 独裁政权执政者, 独裁者 [A] {dictator} - But we now know that the dictators that both America and Russia propped up in the Middle East and Africa suppressed volcanic sectarian conflicts. 但我们现在知道了，美国和俄罗斯在中东和非洲扶植的独裁者压制了宗派冲突的火山。
+[Q] v. 支撑; 维持 [A] {prop} - {prop up} - the dictators that both America and Russia propped up in the Middle East and Africa suppressed volcanic sectarian conflicts. 美国和俄罗斯在中东和非洲扶植的独裁者压制了宗派冲突的火山。
+[Q] adj. 火山的, 猛烈的, 象火山的 [A] {volcanic} - {volcano} n. 火山 - suppressed volcanic sectarian conflicts 压制了宗派冲突的火山。
+[Q] 民选政府 [A] {democratically elected governments} 民选政府
+[Q] adv. 民主地 [A] {democratically} - democratically elected governments 民选政府
+[Q] 次贷 [A] {subprime} - subprime {mortgage}s 次级抵押贷款
+[Q] n. 抵押, 精神负担, 义务 [A] {mortgage} - {subprime} mortgages 次级抵押贷款
+[Q] 信贷宽松 [A] {easy credit}
+[Q] 景况较佳; 更有余裕; 过得好 [A] {better off} - over 95 percent of the next generation were better off than the previous generation 年轻一代95%以上的人都比上一代过得好
+[Q] n. 威慑力量; 制止物 [A] {deterrent} - is not a deterrent but an invitation to heaven 不是一种威慑，而是打开了通向天堂的大门
+[Q] 放射科; n. X光线科, 放射线学 [A] {radiology} - IBM’s Watson computer can beat you at “Jeopardy!” and your doctor at radiology IBM的电脑沃森(Watson)在《危险边缘》(Jeopardy)知识竞赛栏目中获胜，还打败了你的放射科医生
+[Q] adj. 有分寸的, 大方的, 得体的; 像样的 [A] {decent} - every decent job requires more technical and social skills 每一份体面的工作都需要更多的技术及社会技能
+[Q] 离岸外包 [A] {offshoring} - free trade, offshoring, immigration 自由贸易、离岸外包、移民
+[Q] v. 察觉; 意识到; 感知; 理解 [A] {perceive} - Because in one way or another they can be perceived as not working for you. 因为它们总会通过某种方式让你觉得，它们对你是不利的”。
+[Q] v. 共鸣; 共振; 起回声 [A] {resonate} - And that is why Donald Trump is resonating in America 这就是唐纳德·特朗普(Donald Trump)在美国引发共鸣的原因
+[Q] 繁荣 [A] {prosperity} - They all promise to bring back the certainties and prosperity of the Cold War 他们都承诺...这样就能恢复冷战或后冷战时期的确定性及繁荣
+[Q] v. 推翻; 装...入袋; 解雇; 开除; 胜过; 劫掠; 洗劫 [A] {sack} - by sacking the traditional elites who got us here 把让我们沦落到今天这步田地的传统精英推翻
+[Q] n. 预言者, 提倡者, 先知 [A] {prophet} - They are all false prophets, 他们都是假先知
