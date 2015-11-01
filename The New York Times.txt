@@ -120,7 +120,7 @@
 [Q] 几近年度仪式 [A] {near-annual} {ritual}
 [Q] 苏门答腊岛 [A] {Sumatra}
 [Q] 再加上厄尔尼诺现象的影响 [A] coupled with the effects of El Nino
-[Q] 数万人 [A] tens of thousands of people
+[Q] 数万人 [A] {tens of thousands of} people
 [Q] adj. 呼吸的, 呼吸疾病 [A] {respiratory} problems
 [Q] n. 湿疹 [A] {eczema}
 [Q] n. 疾病; 不宁; 不安 [A] {ailment}s
@@ -196,7 +196,7 @@
 [Q] 乌托邦情调 [A] {flirt}ed with {utopia}
 [Q] 一个完美的未来会让故事变得平淡无奇。 [A] A perfect future makes for a {dull} story.
 [Q] vi. 断定是真货 [A] {ring true}
-[Q] 让科技公司创始人感到真实 [A] ring true for a tech founder
+[Q] 让科技公司创始人感到真实 [A] {ring true} for a tech founder
 [Q] v. 使戏剧化; 戏剧性地描述; [A] {dramatize}
 [Q] v. 催促, 力劝; 强烈要求; 建议 [A] {urge}
 [Q] 传记片 [A] {biopic}
@@ -241,6 +241,7 @@
 [Q] 真实的动机 [A] {authentic} motivation
 [Q] adv. 勉强地, 不情愿地 [A] {grudgingly}
 [Q] 不认自己的女儿 [A] denying {paternity} of his daughter
+[Q] n. 父道, 父子关系, 父权 [A] {paternity} - denying paternity of his daughter 不认自己的女儿
 [Q] 无足轻重的蝼蚁 [A] {expendable} {cog}s
 [Q] 商业游戏 [A] corporate game
 [Q] v. 施以, 科以, 加害 [A] {inflict}
@@ -274,7 +275,7 @@
 [Q] 对媒体和网上言论的严格规定 [A] strict rules governing media and online expression
 [Q] 收入来源 [A] source of {revenue}
 [Q] 第三季度 [A] in the third {quarter}
-[Q] 大中华区 [A] Greater China
+[Q] 大中华区 [A] {Greater China}
 [Q] 审查敏感内容 [A] {censoring} {sensitive} content
 [Q] 审查系统 [A] {censorship} system
 [Q] 试图安抚中国政府 [A] to {appease} the government
@@ -352,9 +353,9 @@
 [Q] 她是在完成一次让体操运动员都得惊叹、鼓掌的后手翻 [A] she was performing a {flip-flop} of the sort that leaves {gymnast}s gaping and applauding.
 [Q] 贸易协定中的黄金标准 [A] the gold standard in trade agreements
 [Q] 她曾在45个不同的场合称赞过TPP [A] she’s {praise}d the deal 45 separate times
-[Q] 一度称之为 [A] at one point calling it...
+[Q] 一度称之为 [A] {at one point} calling it...
 [Q] adj. 表示实在的, 独立的, 有实质的 [A] {substantive}
-[Q] 这不仅仅是一次实实在在的后手翻。 [A] This was not only a {substantive} flip-flop.
+[Q] 这不仅仅是一次实实在在的后手翻。 [A] This was not only a {substantive} {flip-flop}.
 [Q] 她翻得如此不加遮掩, 简直是用一场无畏而响亮的宣言表达自己对后手翻这一动作的信念。[A] It was so naked it amounted to a {bold} and {clarion} statement of faith {on behalf} of flip-flopping itself.
 [Q] n. 尖音号角, 清晰嘹亮的嗓音; [A] {clarion}
 [Q] 平底人字拖鞋 [A] {flip-flop}
@@ -434,7 +435,7 @@
 [Q] n. 违反; 侵害 [A] {infringement}
 [Q] n. 借口, 托辞 [A] {pretext}
 [Q] 以...为名(借口) [A] under the {pretext} of
-[Q] 严重关切 [A] severely concerned
+[Q] 严重关切 [A] {severely concerned}
 [Q] 高级助手 [A] senior aides
 [Q] 《联合国海洋法公约》 [A] The U.n. {Convention} on the Law of the Sea
 [Q] n. 开垦; 收回; 改造 [A] {reclamation}
@@ -506,7 +507,8 @@
 [Q] n. 人质; 抵押品; [A] {pawn}
 [Q] 对于此举 [A] referring to that {approach}
 [Q] n. 立法者 [A] {lawmaker}
-[Q] 就此案向...表达关切 [A] bring up the case with
+[Q] 就此案向...表达关切 [A] {bring up} the case with
+[Q] 教育, 提出, 培养 [A] {bring up} - bring up the case with 就此案向...表达关切
 [Q] 护照被注销 [A] His passport was {revoke}d
 #
 #
@@ -673,7 +675,7 @@
 [Q] 像棺材一样的 [A] {coffinlike}
 [Q] 有轮睡箱 [A] sleeping boxes on wheels
 [Q] v. 即席写作; 即兴创作; [A] {improvised}
-[Q] 工业区 [A] industrial pocket
+[Q] 工业区 [A] {industrial pocket}
 [Q] n. 绝缘; 孤立; 隔离; (保温设施) [A] {insulation}
 [Q] 电源插座 [A] {electrical} {outlet}s
 [Q] 独立的; 自包含的 [A] self-contained
@@ -733,7 +735,8 @@
 [Q] 抗议涂鸦 [A] {subversive} {graffiti}
 [Q] v. n. 护送 [A] {escort}
 [Q] 难民营 [A] {refugee} {camp}
-[Q] 热播剧 [A] hit series
+[Q] 热播剧 [A] {hit series}
+[Q] n. 连续, 丛书, 系列 [A] {series} - hit series 热播剧
 [Q] 真主党 [A] {Hezbollah}
 [Q] adj. 细心的; 注意的, 留意的 [A] {attentive}
 [Q] adv. 古怪; 歪斜地 [A] {awry}
@@ -1025,7 +1028,7 @@
 [Q] v. 发酵 [A] {ferment}
 [Q] n. 成分; 因素 [A] {ingredient}
 [Q] n. 市郊, 边缘, 郊区 [A] {suburb}
-[Q] 不合时宜 [A] out of place - He was so out of place in society 在社会上，他显得特别不合时宜
+[Q] 不合时宜 [A] {out of place} - He was so out of place in society 在社会上，他显得特别不合时宜
 [Q] adj. 防弹的 [A] bulletproof
 [Q] 奔驰 [A] {Mercedes}
 [Q] n. 碎片, 残余物 [A] {scrap} - vegetable scraps 蔬菜等剩饭
@@ -1044,7 +1047,7 @@
 [Q] 穿着一身白 [A] worn all white - In hindsight, Shrimp Boy also probably should not have worn all white to the funeral of a murdered rival Chinese gang leader in 2006.
 [Q] 律师 [A] {attorney}
 [Q] 法庭文件 [A] {court} filing
-[Q] n. 敲诈勒索 [A] racketeering
+[Q] n. 敲诈勒索 [A] {racketeering}
 [Q] v. 劝告, 忠告; 提议; 商议, 劝告 [A] {counsel} - He counseled {at-risk} high-school students about addiction to crime. 他为有危险倾向的高中生解答有关犯罪嗜好的问题。
 [Q] 有危险倾向的 [A] {at-risk}
 [Q] 犯罪嗜好 [A] addiction to crime
@@ -1073,7 +1076,7 @@
 [Q] n. 起源; 起因; 由来; 出身 [A] {origin}
 [Q] n. 纯种的动物 [A] {purebred}
 [Q] n. 清道夫, 食腐动物 [A] {scavenger}
-[Q] 自由放养(流浪的) [A] free-ranging
+[Q] 自由放养(流浪的) [A] {free-ranging}
 [Q] adj. 不同的; 变化多的 [A] {diverse}
 [Q] n. 品种; 种类, 类型 [A] {breed}
 [Q] adj. 地理学的; 地理的 [A] {geographic}
@@ -1216,7 +1219,7 @@
 # http://cn.nytimes.com/china/20151022/c22mao/dual/
 #
 [Q] 偶然看到 [A] {come across} - was excited when she came across “Introduction to Mao Zedong Thought,” 偶然看到“毛泽东思想概论”这门介绍中国革命领袖的在线课程，当时她很兴奋。
-[Q] vt. 照亮(阐明,把...弄清楚; 揭示; 解释 [A] {shed} light on - she hoped the class would shed light on the {brutal} political battles that took place under Mao’s rule. 希望能通过这门课了解毛泽东领导下发生的残酷政治斗争。
+[Q] vt. 照亮(阐明,把...弄清楚; 揭示; 解释 [A] {shed light on} - she hoped the class would {shed} light on the {brutal} political battles that took place under Mao’s rule. 希望能通过这门课了解毛泽东领导下发生的残酷政治斗争。
 [Q] 麻省理工学院 [A] {Massachusetts} Institute of Technology
 [Q] n. 剪辑; 综合画; 蒙太奇; 拼集的照片; [A] {montage} - Each class opened with a {patriotic} video {montage}. 每个讲座都以一段爱国主义视频的剪辑开始。
 [Q] adj. 爱国的 [A] {patriotic} - Each class opened with a patriotic video montage.
@@ -1255,7 +1258,7 @@
 [Q] n. 宣言, 发表, 宣告 [A] {pronouncement}
 [Q] 赤裸裸; 不友好的; 易生气的 [A] {brittle} - many students {loathe} for its {brittle} {pronouncement}s on party thought 很多学生都讨厌这种赤裸裸的中共思想灌注
 [Q] 指导思想 [A] {guiding ideology} - a form of Marxism that the party honors as a {guiding} {ideology} 它是马克思主义的一种形式，被中共奉为指导思想
-[Q] 都觉得它意义不大 [A] all but ignore as {irrelevant}
+[Q] 都觉得它意义不大 [A] {all but} ignore as {irrelevant}
 [Q] v. 设计; 图谋; 发明 [A] {devise} - Professor Feng devised a {condensed} version of that course 冯务中设计了一个浓缩版的“毛概”
 [Q] adj. 浓缩的; 压缩的; 扼要的 [A] {condensed} - Professor Feng devised a {condens}ed version of that course 冯务中设计了一个浓缩版的“毛概”
 [Q] 定期进行测试 [A] Tests are administered regularly
@@ -1348,7 +1351,7 @@
 [Q] 贬低; 淡化; 降低; 减少; [A] {play down} - has also been accused of playing down human rights for economic interests 出于经济利益，淡化人权问题
 [Q] 支柱 [A] {pillar} - two pillars of growth in Asia and Europe 亚洲和欧洲经济增长的两大支柱
 [Q] 异见人士 [A] {dissident}
-[Q] 公开表态 [A] public gestures - not made many public gestures toward {dissident}s 也一直未对异见人士作出多少公开表态
+[Q] 公开表态 [A] {public gesture}s - not made many public gestures toward {dissident}s 也一直未对异见人士作出多少公开表态
 [Q] 喉舌; 代言人 [A] {mouthpiece} - the government’s English-language mouthpiece, Global Times. 中国官方的英文喉舌《环球时报》的称赞。
 [Q] n. 间谍组织, 间谍活动 [A] {espionage}
 [Q] 网络间谍 [A] {cyber}{espionage}
@@ -1553,7 +1556,7 @@
 [Q] v. 擦, 摩擦 [A] {rub} - because while nervously rubbing her eyes, she had removed her {contact lenses} 她的隐形眼镜在她因紧张而揉眼睛时被她揉掉了。
 [Q] 隐形眼镜 [A] {contact} {lens}es
 [Q] n. 透镜; 镜头; 镜片; 晶体 [A] {lens}
-[Q] 闹市区 [A] inner city - from inner-city kids and {affluent} kids
+[Q] 闹市区 [A] {inner city} - from inner-city kids and {affluent} kids
 [Q] adj. 富裕的 [A] {affluent} - from {inner-city} kids and affluent kids 无论是来自贫民区的孩子还是富庶家庭的孩子
 [Q] adj. 学院的, 大学的; 学术的; 纯理论的 [A] {academic} - During that academic year 在该学年中
 [Q] 学年 [A] {academic} year
@@ -1565,7 +1568,7 @@
 [Q] n. 大学运动代表队, 大学 [A] {varsity} - a senior varsity football player. 橄榄球队的毕业班球员
 [Q] n. 发薪; 收益; 发薪时间; [A] {payoff} - Some parents and first-period teachers are seeing a payoff in students who are more rested and alert. 一部分家长和头一堂课的老师已经看到了回报：学生休息得更好，精神也更足。
 [Q] n. 走廊 [A] {hallway} - one-story building with skylights and wide hallways 石桥高中有着天窗和宽阔走廊的长条形单层建筑中阳光普照，寂静无声。
-[Q] n. 天窗 [A] {skylight} - one-story building with skylights and wide hallways 石桥高中有着天窗和宽阔走廊的长条形单层建筑中阳光普照，寂静无声。
+[Q] n. 天窗 [A] {skylight} - one-story building with skylights and wide {hallway}s 石桥高中有着天窗和宽阔走廊的长条形单层建筑中阳光普照，寂静无声。
 [Q] 阳光普照 [A] {sun-drenched}
 [Q] adj. 湿透的; 充满的 [A] {drenched} - {sun-drenched} 阳光普照
 [Q] v. 使湿透, 使充满 [A] {drench} - sun-drenched 阳光普照
@@ -1867,7 +1870,7 @@
 [Q] adj. 荒废的, 陈旧的, 成废物的; 老黄历 [A] {obsolete} - will make the current debates look {laughably} obsolete in four years 在未来四年，它会让如今的辩论看起来像是可笑的老黄历。
 [Q] n. 教条; 学说; 原则,主义 [A] {doctrine} - the doctrine of “mutually assured destruction” kept both in check “共同毁灭原则”让双方都无法轻举妄动。
 [Q] adv.相互 [A] {mutually} - the {doctrine} of “{mutually assured destruction}” kept both in check “共同毁灭原则”让双方都无法轻举妄动。
-[Q] vt.阻止(制止,约束) [A] {keep in check} - the doctrine of “mutually assured destruction” kept both in check “共同毁灭原则”让双方都无法轻举妄动。
+[Q] vt.阻止(制止,约束) [A] {keep in check} - the {doctrine} of “{mutually assured destruction}” kept both in check “共同毁灭原则”让双方都无法轻举妄动。
 [Q] n. 命令者, 独裁政权执政者, 独裁者 [A] {dictator} - But we now know that the dictators that both America and Russia propped up in the Middle East and Africa suppressed volcanic sectarian conflicts. 但我们现在知道了，美国和俄罗斯在中东和非洲扶植的独裁者压制了宗派冲突的火山。
 [Q] v. 支撑; 维持 [A] {prop} - {prop up} - the dictators that both America and Russia propped up in the Middle East and Africa suppressed volcanic sectarian conflicts. 美国和俄罗斯在中东和非洲扶植的独裁者压制了宗派冲突的火山。
 [Q] adj. 火山的, 猛烈的, 象火山的 [A] {volcanic} - {volcano} n. 火山 - suppressed volcanic sectarian conflicts 压制了宗派冲突的火山。
@@ -1884,5 +1887,5 @@
 [Q] v. 察觉; 意识到; 感知; 理解 [A] {perceive} - Because in one way or another they can be perceived as not working for you. 因为它们总会通过某种方式让你觉得，它们对你是不利的”。
 [Q] v. 共鸣; 共振; 起回声 [A] {resonate} - And that is why Donald Trump is resonating in America 这就是唐纳德·特朗普(Donald Trump)在美国引发共鸣的原因
 [Q] 繁荣 [A] {prosperity} - They all promise to bring back the certainties and prosperity of the Cold War 他们都承诺...这样就能恢复冷战或后冷战时期的确定性及繁荣
-[Q] v. 推翻; 装...入袋; 解雇; 开除; 胜过; 劫掠; 洗劫 [A] {sack} - by sacking the traditional elites who got us here 把让我们沦落到今天这步田地的传统精英推翻
+[Q] v. 推翻; 装...入袋; 解雇; 开除; 胜过; 劫掠; 洗劫 [A] {sack} - by sacking the traditional {elite}s who got us here 把让我们沦落到今天这步田地的传统精英推翻
 [Q] n. 预言者, 提倡者, 先知 [A] {prophet} - They are all false prophets, 他们都是假先知
