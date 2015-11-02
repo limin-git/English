@@ -2,4 +2,5 @@
 *.wav
 test*
 speech/
+backup/
 *.doc
