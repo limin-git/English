@@ -607,7 +607,7 @@
 [Q] 阿富汗 [A] {Afghanistan}
 [Q] v. 隐约地出现; [A] {loom} [E] loom over [E] Lessons of Iraq Loom Over Obama’s Decision to Keep Troops in Afghanistan
 [Q] 伊拉克的教训 [A] Lessons of {Iraq}
-[Q] vbl.坚持; 遵照 [A] stick to [E] he stuck to his plan to ... 他遵照自己的计划
+[Q] vbl.坚持; 遵照 [A] {stick to} [E] he stuck to his plan to ... 他遵照自己的计划
 [Q] adj. 宗派的; 偏执的; 派别的 [A] {sectarian}
 [Q] n. 冲突 [A] {strife}
 [Q] 宗派冲突 [A] {sectarian} {strife}
@@ -718,7 +718,7 @@
 [Q] 从...偷学了一点 [A] {rip}ping a page from ...'s books.
 [Q] n. 卫生; 公共卫生; 环境卫生; [A] {sanitation}
 [Q] 环卫工作者 [A] {sanitation} workers
-[Q] 他替小窝的居住者问 [A] he asked of the {dweller}s
+[Q] 他替小窝的居住者问 [A] he {asked of} the {dweller}s
 [Q] 但除此之外并无其他麻烦 [A] but were otherwise left alone.
 [Q] adj. 郊区; 郊外的, 偏远的 [A] {suburban}
 [Q] 错视画 [A] {trompe} l'oeil paint job
@@ -875,7 +875,7 @@
 [Q] 皇家马车 [A] {royal} {horse}-{drawn} {carriage}
 [Q] v. 预报; 传达; 宣布 [A] {herald}
 [Q] 官方媒体 [A] state-run news media
-[Q] 于...结束 [A] run through
+[Q] 于...结束 [A] {run through}
 [Q] v. 铺设, 为...铺路, 安排 [A] {pave}
 [Q] 为...铺平道路 [A] {pave} the way for
 [Q] adj. 被堵塞的; 有条纹的; 闩住的 [A] {barred} [E] Huawei Technologies, the Chinese telecom company, which is barred from operations in the United States on security grounds
@@ -953,7 +953,7 @@
 [Q] 国会议员 [A] {lawmaker}
 [Q] n. 说法; 断言; 辩解; 申述; 主张 [A] {allegation}
 [Q] n. 感情, 心情 [E] 观点 [A] {sentiment} [E] But the party has de-emphasized such sentiments during this campaign. 但民进党在此次选举中弱化了这种观点。
-[Q] 弱化 [A] de-emphasized
+[Q] 弱化 [A] {de-emphasized}
 [Q] 现状 [A] {status quo}
 [Q] 放样 [A] {stake out} [E] Tsai has staked out the center ground 蔡英文已经划出了一个核心范围
 [Q] adv. 踏实地; 不变地 [A] {steadfastly}
@@ -1141,7 +1141,7 @@
 [Q] n. 任期 [A] {tenure} [E] During Xi's tenure 习近平上任以来
 [Q] n. 首相; 总理 [A] {premier} [E] a former Chinese premier 中国前总理
 [Q] adj. 有关存在的 [A] {existential} [E] It's an existential threat 这是一个生存威胁
-[Q] 收支平衡 (不赔钱) [A] At best we can {break even} 最好的情况是，我们不赔钱。
+[Q] 收支平衡 (不赔钱) [A] At best we can {break even} [E] 最好的情况是，我们不赔钱。
 [Q] n. 花彩; v. 以花彩装饰 [A] {festoon} [E] is festooned with pro-Beijing political posters 挂满了亲北京的政治宣传海报。
 [Q] n. 保温罩 [A] {cozy}
 [Q] 取悦; 拉拢 [A] {cozy} up to [E] but {self-censorship} by Hong Kong's news media {elite} as they {cozy up to} Beijing. 而是香港新闻媒体精英的自我审查，因为他们想取悦北京。
@@ -1205,7 +1205,7 @@
 [Q] n. 大厅; 游说议员者; 休息室; v. 游说议员; 经常出入休息室; 游说 [A] {lobby}
 [Q] 申根签证 [A] {Schengen} visa
 [Q] 高档 [A] {upmarket} [E] the upmarket department store 高档百货公司
-[Q] 百货商店 [A] department store
+[Q] 百货商店 [A] {department store}
 [Q] 品牌 [A] {brand-name} [E] travel abroad to buy brand-name luxury goods 为了购买名牌奢侈品出国旅游
 [Q] n. 激战 [A] {hassle} [E] was tied to the hassle of getting into Britain 与难以进入英国有关
 [Q] 麻烦 [A] the {hassle}
@@ -1699,7 +1699,7 @@
 [Q] 导弹 [A] {guided} {missile}
 [Q] 期待已久的 [A] {long-anticipated}
 [Q] v. 预期, 期望; 预先考虑到; 预料; 预先做 [A] {anticipate} [E] long-anticipated 期待已久的
-[Q] 军事演习 [A] maneuver [E] {provocative} {maneuver} 挑衅性的行动 {naval} {maneuver} 海军行动
+[Q] 军事演习 [A] {maneuver} [E] {provocative} {maneuver} 挑衅性的行动 {naval} {maneuver} 海军行动
 [Q] 削弱 [A] {undercut} [E] saying that to do so would have undercut their message 称这么做会削弱他们要传达的信息。
 [Q] 新闻发布会 [A] {news conference}
 [Q] v. 发挥, 施以影响, 运用 [A] {exert} [E] exert influence 发挥影响力
@@ -1791,7 +1791,7 @@
 [Q] n 人造斜坡; 舷梯; 斜面(滑道,停机坪; 跳板 n. 斜面; 坡道; 斜坡; 活动舷梯 [A] {ramp} [E] providing social services and exit ramps for women in the sex trade 同时给从事性工作的女性提供社会服务和摆脱这个行业的跳板。
 [Q] 被忽视的 [A] {neglect}ed [E] report on neglected social issues 报道被忽视的社会议题
 [Q] n. 开发; 利用; 开采; 剥削 [A] {exploitation} [E] That’s what human trafficking is, an ugly form of exploitation that at its worst amounts to modern slavery. 这就是人口拐卖，一种丑恶的剥削方式，在最糟糕的情况下，它无异于现代奴隶制。
-[Q] 无异于 [A] {amount to} [E] - That’s what human trafficking is, an ugly form of exploitation that at its worst amounts to modern slavery. 这就是人口拐卖，一种丑恶的剥削方式，在最糟糕的情况下，它无异于现代奴隶制。
+[Q] 无异于 [A] {amount to} [E] That’s what human trafficking is, an ugly form of exploitation that at its worst amounts to modern slavery. 这就是人口拐卖，一种丑恶的剥削方式，在最糟糕的情况下，它无异于现代奴隶制。
 [Q] v. 废止; 废除 [A] {abolish} [E] In the 21st century, isn’t it finally time to abolish slavery forever? 在21世纪的今天，我们难道不应该彻底废除这种东西吗？
 #
 #
@@ -1903,7 +1903,7 @@
 [Q] adv. 包括地；包括一切地 [A] {Comprehensively} [E] Comprehensively implement a policy that couples can have two children 全面实施一对夫妇可生育两个孩子政策
 [Q] adj. 公平的; 公正的 [A] {equitable} [E] The government will focus on achieving cleaner and more equitable growth 会议公报表示，政府的工作重点是实现更绿色、更公平的经济增长
 [Q] vt. 根除，根绝；消灭 [A] {eradicate} [E] eradicating poverty and improving access to education 消除贫困，改善民众获得教育和其他公共服务的机会。
-[Q] n.  贫穷, 缺乏, 贫困 [A] {poverty} [E] eradicating poverty and improving access to education 消除贫困，改善民众获得教育和其他公共服务的机会。
+[Q] n. 贫穷, 缺乏, 贫困 [A] {poverty} [E] eradicating poverty and improving access to education 消除贫困，改善民众获得教育和其他公共服务的机会。
 [Q] adj. 革新的，创新的 [A] {innovative} [E] We must firmly establish and implement a concept of development that is innovative, coordinated, green, open and shared 必须牢固树立并切实贯彻创新、协调、绿色、开放、共享的发展理念
 [Q] 深刻变革 [A] {profound transformation} [E] This is a profound transformation that concerns the whole of our national development 这是关系我国发展全局的一场深刻变革。
 [Q] v. 使悠闲; 减轻; 使安心; 减轻; 放松; 缓和 [A] {ease} [E] The Chinese government has already eased some restrictions in the one-child policy 中国政府已经放宽了独生子女政策的一些限制
@@ -1940,51 +1940,110 @@
 # One-Child Rule Is Gone in China, but Scars Will Linger
 # http://cn.nytimes.com/china/20151031/c31chinatears/dual/
 #
-[Q] v.  逗留, 徘徊, 消磨; 消磨, 缓慢度过    [A]  linger  [E] One-Child Rule Is Gone in China, but Scars Will Linger 
-[Q]  adj.  生下来已死的, 死产的   [A] stillborn  [E]  Ms. Feng had a stillborn child in 2012 after local officials in Shaanxi Province induced labor seven months into her pregnancy 2012年，冯建梅怀孕七个月后，陕西省地方官员强迫她引产，最终生下了一名死婴。
-[Q] n.  劳动; 分娩, 阵痛;    [A]  labor   [E]  Ms. Feng had a stillborn child in 2012 after local officials in Shaanxi Province induced labor seven months into her pregnancy 2012年，冯建梅怀孕七个月后，陕西省地方官员强迫她引产，最终生下了一名死婴。
-[Q] v.  劝诱; 导致; 促使    [A]  induce   [E]  Ms. Feng had a stillborn child in 2012 after local officials in Shaanxi Province induced labor seven months into her pregnancy 2012年，冯建梅怀孕七个月后，陕西省地方官员强迫她引产，最终生下了一名死婴。
-[Q]  引产   [A]  induce  labor  [E]  Ms. Feng had a stillborn child in 2012 after local officials in Shaanxi Province induced labor seven months into her pregnancy 2012年，冯建梅怀孕七个月后，陕西省地方官员强迫她引产，最终生下了一名死婴。
-[Q]  n.  暴行, 愤怒, 侮辱   [A]  outrage  [E] igniting nationwide outrage and leading to the firing of some officials 在全国范围内引发愤怒，一些官员被开除。
-[Q]  v.  指责, 谴责; 弹劾; 告发, 指控; 通告废除   [A]  denounce  [E] led farmers in a march to denounce the family as “traitors.” 还带领农民游行，指责这家人是“卖国贼”。
-[Q]  n.  严酷的考验, 折磨, 痛苦的经验   [A]  ordeal  [E] Ms. Feng’s husband reflected on their ordeal. 冯建梅的丈夫回顾了他们的遭遇。
-[Q] vt.考虑(回想,回顾)    [A]  reflect on   [E] Ms. Feng’s husband reflected on their ordeal. 冯建梅的丈夫回顾了他们的遭遇。
-[Q]  adj.  官僚政治的   [A]  bureaucratic [E] The decision to end the one-child policy came in dull, bureaucratic language. 终止独生子女政策的决定是以枯燥官僚的口吻公布的。
-[Q]  n.  马刺, 鼓舞, 刺激物; v.  用靴刺踢;    [A]  spur  [E] Those flat words, and their allusion to spurring economic growth 这种平淡的表述及其所暗示的刺激经济增长的目的
-[Q] n.  暗示; 提及; 间接提到    [A]  allusion   [E] Those flat words, and their allusion to spurring economic growth 这种平淡的表述及其所暗示的刺激经济增长的目的
-[Q]  n.  摇篮; 支船架; 发源地   [A]  cradle  [E] a policy that has left cradles empty and hearts hollow across China, scarring generations of families. 这一政策导致整个中国的新生儿急剧减少，很多人感到内心空虚，好几代家庭受到伤害。
-[Q]  v.  在...留下疤痕; 损伤; 伤害; 留下伤痕;   [A]  scar [E] a policy that has left cradles empty and hearts hollow across China, scarring generations of families. 这一政策导致整个中国的新生儿急剧减少，很多人感到内心空虚，好几代家庭受到伤害。
-[Q]  n. 绝育; 强制节育   [A]  sterilization  [E] The human rights abuses have included forced sterilizations and abortions, the killing of infants and the sale of children 其中涉及的人权问题包括强制节育和堕胎，杀害婴儿和贩卖儿童
-[Q]  n.  婴儿, 儿童   [A]  infant   [E] The human rights abuses have included forced sterilizations and abortions, the killing of infants and the sale of children 其中涉及的人权问题包括强制节育和堕胎，杀害婴儿和贩卖儿童
-[Q]   adj 令人生厌的，令人反感的，引起厌恶的  [A]  abhorrent  [E] So abhorrent are the practices  计划生育的实施过程非常可怕
-[Q]   难民身份  [A]  refugee status [E] the United States government grants refugee status to Chinese citizens who say they face persecution because of coercive family planning 美国政府给声称因强制计划生育而遭到迫害的中国公民提供难民身份
-[Q]  adj.  强制的, 强迫的, 强压的   [A] coercive    [E] coercive family planning 强制计划生育
-[Q]  n.  避难; 庇护所, 避难所; 政治避难权   [A]  asylum  [E] making it easier for those people to get asylum. 让他们更容易得到庇护。
-[Q]  v.  通电, 刺激, 镀锌   [A]  galvanize  [E] it seized the attention of many Chinese and galvanized calls 它引起了很多中国人的注意，激发很多官员和政策制定者呼吁废除独生子女政策。
-[Q]  典型的做法   [A]  typical of the practice [E] But what she suffered was in many ways typical of the practices that spread like a poison throughout the Chinese governance system, 从很多方面讲，冯建梅的遭遇在中国很普遍。自1979年开始实行独生子女政策以来，这种残暴的做法像毒药一样在中国的管理体制中散播开来
-[Q] v.  拥护; 主张; 提倡; 鼓吹    [A]   advocate     [E]  The central government, though it didn’t actively advocate for the forceful measures, tacitly approved them because it didn’t say anything,” 中央政府虽然没有积极倡导采取强制措施，但它实际上是默许的，因为它没说什么
-[Q] adj.  无言的; 肃静的, 缄默的    [A]  tacit    [E]  tacitly approved them because it didn’t say anything 但它实际上是默许的，因为它没说什么
-[Q]  n.  偏爱, 优先选择   [A] preference       [E]  Some Chinese parents, with their traditional preference for male heirs, have used abortion and infanticide to ensure they have a son 中国的一些父母遵循传统思想，偏爱男性子嗣，所以用堕胎和杀婴的方法来确保能有个儿子
-[Q] n.  杀婴罪; 杀婴犯; 杀婴    [A]  infanticide   [E]  Some Chinese parents, with their traditional preference for male heirs, have used abortion and infanticide to ensure they have a son 中国的一些父母遵循传统思想，偏爱男性子嗣，所以用堕胎和杀婴的方法来确保能有个儿子
-[Q]  n.  单身男子, 单身汉; 学士   [A]  bachelor      [E] By 2020, China will have an estimated 30 million bachelors — a situation so dire that one economist has proposed that a wife should have multiple husbands.  到2020年，预计中国将有3000万单身汉。这种情况非常可怕，一位经济学家甚至提出了一妻多夫制。
-[Q]  n.性别   [A] gender      [E]  The gender ratio is a result of the policy, 男女比例失衡是这一政策的结果
-[Q]  n. 暴徒；恶棍；刺客   [A] thug     [E]   scores of thugs prevented family members from entering. 外面有几十名暴徒阻止她的家人进去。
-[Q]  几十名暴徒   [A]  scores of thugs    [E]  scores of thugs prevented family members from entering. 外面有几十名暴徒阻止她的家人进去。
-[Q]  n.  腹, 腹腔, 腹部; 胃; 肚子; 食欲   [A] belly      [E]  My baby was so grown. He was a life. He used to kick in my belly all the time. 我那孩子都那么大了。他也是条生命啊。他在我肚子里的时候踢的有劲着呢。
-[Q]  n.  顿挫, 退步, 挫折   [A]  setback      [E]  all believed the huge population was the major setback in achieving a better economy 都认为，庞大的人口总量是实现经济发展的重大障碍
-[Q]  v.  制定; 上演; 颁布; 扮演   [A]  enact    [E]  After they enacted the policy, he said, “it spread throughout the country quickly. 这一政策颁布后，“几乎没有什么阻碍就一级一级传达、就推行了”。
-[Q]  试点项目   [A]   pilot project     [E]  Mr. Liang proposed a pilot project in Shanxi, which was approved 梁中堂提议在山西进行一个试点项目，获得批准
-[Q]  adj.  引导的; 试验性的, 试点的; 导向的; v.  领航, 引导, 驾驶;  n.  飞行员  [A]   pilot 
-[Q]  adj.  乡下的, 乡村风味的, 田园的   [A]   rural     [E]  That project, in rural Yicheng County, was carried out in secret for decades 那个项目在偏远的翼城县秘密实施数十年
-[Q]  n.  无知; 不知   [A]  ignorance      [E]  But it never spread because of ignorance and opposition from central family planning officials 由于中央计划生育官员的无知和反对，这个项目未能扩展开来。
-[Q]  开始生效   [A]  take hold     [E]  Across China, the mainstream policy took hold 在国家范围内，主流的政策开始生效。
-[Q]   n.  主流  [A]   mainstream     [E]   Across China, the mainstream policy took hold 在国家范围内，主流的政策开始生效。
-[Q]  v.  使免除, 豁免; adj.  免除的  [A] exempt      [E]  Families not exempt from the one-child rule had to pay huge fines if they were found in violation. 未能免受独生子女政策影响的家庭，一经发现违规，不得不支付巨额罚款。
-[Q]  v.  驱逐, 开除, 逐出   [A]  expel      [E]  Employees of the state were fired, and party members were expelled. 国家公务员遭到解聘，党员遭到开除。
-[Q] v.  使竖立, 树立, 使直立    [A]  erect    [E]  In cities, officials erected billboards that showed beaming couples with a single angelic child.  在城市，官员竖起宣传板，画面上是一对愉快的夫妇与他们唯一的如同天使般的孩子。
-[Q] n.  布告板; 广告牌;     [A] billboard       [E]   In cities, officials erected billboards that showed beaming couples with a single angelic child.  在城市，官员竖起宣传板，画面上是一对愉快的夫妇与他们唯一的如同天使般的孩子。
-[Q]  adj.  天使的; 似天使的; 天国的   [A]  angelic      [E]   In cities, officials erected billboards that showed beaming couples with a single angelic child.  在城市，官员竖起宣传板，画面上是一对愉快的夫妇与他们唯一的如同天使般的孩子。
-[Q]   v.  毁坏, 破坏; 推翻, 打败; 拆除; 驳倒  [A]  demolish      [E]   tended to be harsher. One example: “Refuse to have an abortion and you will have your house demolished and lose your cattle.” 这里的标语则更加刻薄。比如“如果拒绝堕胎令，房子倒塌牛充公。”
-[Q] adj.  劣等的; 假冒的    [A]  shoddy      [E]  shoddy school construction 数千名学生因学校建筑质量不合格而丧生
-[Q] adj.  被哀悼的; 令人遗憾的    [A] lamented       [E]  parents lamented having followed the one-child rule 他们的父母为自己遵循了独生子女政策而悲痛。
-[Q]  v.  哀悼; 悔恨; 悲叹   [A]   lament     [E]   parents lamented having followed the one-child rule 他们的父母为自己遵循了独生子女政策而悲痛。
+[Q] v. 逗留, 徘徊, 消磨; 消磨, 缓慢度过 [A] {linger} [E] One-Child Rule Is Gone in China, but Scars Will Linger
+[Q] adj. 生下来已死的, 死产的 [A] {stillborn} [E] Ms. Feng had a stillborn child in 2012 after local officials in Shaanxi Province induced labor seven months into her pregnancy 2012年，冯建梅怀孕七个月后，陕西省地方官员强迫她引产，最终生下了一名死婴。
+[Q] n. 劳动; 分娩, 阵痛; [A] {labor} [E] Ms. Feng had a stillborn child in 2012 after local officials in Shaanxi Province induced labor seven months into her pregnancy 2012年，冯建梅怀孕七个月后，陕西省地方官员强迫她引产，最终生下了一名死婴。
+[Q] v. 劝诱; 导致; 促使 [A] {induce} [E] Ms. Feng had a stillborn child in 2012 after local officials in Shaanxi Province induced labor seven months into her pregnancy 2012年，冯建梅怀孕七个月后，陕西省地方官员强迫她引产，最终生下了一名死婴。
+[Q] 引产 [A] {induce labor} [E] Ms. Feng had a stillborn child in 2012 after local officials in Shaanxi Province induced labor seven months into her pregnancy 2012年，冯建梅怀孕七个月后，陕西省地方官员强迫她引产，最终生下了一名死婴。
+[Q] n. 暴行, 愤怒, 侮辱 [A] {outrage} [E] igniting nationwide outrage and leading to the firing of some officials 在全国范围内引发愤怒，一些官员被开除。
+[Q] v. 指责, 谴责; 弹劾; 告发, 指控; 通告废除 [A] {denounce} [E] led farmers in a march to denounce the family as “traitors.” 还带领农民游行，指责这家人是“卖国贼”。
+[Q] n. 严酷的考验, 折磨, 痛苦的经验 [A] {ordeal} [E] Ms. Feng’s husband reflected on their ordeal. 冯建梅的丈夫回顾了他们的遭遇。
+[Q] vt.考虑(回想,回顾) [A] {reflect on} [E] Ms. Feng’s husband reflected on their ordeal. 冯建梅的丈夫回顾了他们的遭遇。
+[Q] adj. 官僚政治的 [A] {bureaucratic} [E] The decision to end the one-child policy came in dull, bureaucratic language. 终止独生子女政策的决定是以枯燥官僚的口吻公布的。
+[Q] n. 马刺, 鼓舞, 刺激物; v. 用靴刺踢; [A] {spur} [E] Those flat words, and their allusion to spurring economic growth 这种平淡的表述及其所暗示的刺激经济增长的目的
+[Q] n. 暗示; 提及; 间接提到 [A] {allusion} [E] Those flat words, and their allusion to spurring economic growth 这种平淡的表述及其所暗示的刺激经济增长的目的
+[Q] n. 摇篮; 支船架; 发源地 [A] {cradle} [E] a policy that has left cradles empty and hearts hollow across China, scarring generations of families. 这一政策导致整个中国的新生儿急剧减少，很多人感到内心空虚，好几代家庭受到伤害。
+[Q] v. 在...留下疤痕; 损伤; 伤害; 留下伤痕; [A] {scar} [E] a policy that has left cradles empty and hearts hollow across China, scarring generations of families. 这一政策导致整个中国的新生儿急剧减少，很多人感到内心空虚，好几代家庭受到伤害。
+[Q] n. 绝育; 强制节育 [A] {sterilization} [E] The human rights abuses have included forced sterilizations and abortions, the killing of infants and the sale of children 其中涉及的人权问题包括强制节育和堕胎，杀害婴儿和贩卖儿童
+[Q] n. 婴儿, 儿童 [A] {infant} [E] The human rights abuses have included forced sterilizations and abortions, the killing of infants and the sale of children 其中涉及的人权问题包括强制节育和堕胎，杀害婴儿和贩卖儿童
+[Q] adj 令人生厌的，令人反感的，引起厌恶的 [A] {abhorrent} [E] So abhorrent are the practices 计划生育的实施过程非常可怕
+[Q] 难民身份 [A] {refugee status} [E] the United States government grants refugee status to Chinese citizens who say they face persecution because of coercive family planning 美国政府给声称因强制计划生育而遭到迫害的中国公民提供难民身份
+[Q] adj. 强制的, 强迫的, 强压的 [A] {coercive} [E] coercive family planning 强制计划生育
+[Q] n. 避难; 庇护所, 避难所; 政治避难权 [A] {asylum} [E] making it easier for those people to get asylum. 让他们更容易得到庇护。
+[Q] v. 通电, 刺激, 镀锌 [A] {galvanize} [E] it seized the attention of many Chinese and galvanized calls 它引起了很多中国人的注意，激发很多官员和政策制定者呼吁废除独生子女政策。
+[Q] 典型的做法 [A] {typical of the practice} [E] But what she suffered was in many ways typical of the practices that spread like a poison throughout the Chinese governance system, 从很多方面讲，冯建梅的遭遇在中国很普遍。自1979年开始实行独生子女政策以来，这种残暴的做法像毒药一样在中国的管理体制中散播开来
+[Q] v. 拥护; 主张; 提倡; 鼓吹 [A] {advocate} [E] The central government, though it didn’t actively advocate for the forceful measures, tacitly approved them because it didn’t say anything,” 中央政府虽然没有积极倡导采取强制措施，但它实际上是默许的，因为它没说什么
+[Q] adj. 无言的; 肃静的, 缄默的 [A] {tacit} [E] tacitly approved them because it didn’t say anything 但它实际上是默许的，因为它没说什么
+[Q] n. 偏爱, 优先选择 [A] {preference} [E] Some Chinese parents, with their traditional preference for male heirs, have used abortion and infanticide to ensure they have a son 中国的一些父母遵循传统思想，偏爱男性子嗣，所以用堕胎和杀婴的方法来确保能有个儿子
+[Q] n. 杀婴罪; 杀婴犯; 杀婴 [A] {infanticide} [E] Some Chinese parents, with their traditional preference for male heirs, have used abortion and infanticide to ensure they have a son 中国的一些父母遵循传统思想，偏爱男性子嗣，所以用堕胎和杀婴的方法来确保能有个儿子
+[Q] n. 单身男子, 单身汉; 学士 [A] {bachelor} [E] By 2020, China will have an estimated 30 million bachelors — a situation so dire that one economist has proposed that a wife should have multiple husbands. 到2020年，预计中国将有3000万单身汉。这种情况非常可怕，一位经济学家甚至提出了一妻多夫制。
+[Q] n.性别 [A] {gender} [E] The gender ratio is a result of the policy, 男女比例失衡是这一政策的结果
+[Q] n. 暴徒；恶棍；刺客 [A] {thug} [E] scores of thugs prevented family members from entering. 外面有几十名暴徒阻止她的家人进去。
+[Q] 几十名暴徒 [A] {scores of thugs} [E] scores of thugs prevented family members from entering. 外面有几十名暴徒阻止她的家人进去。
+[Q] n. 腹, 腹腔, 腹部; 胃; 肚子; 食欲 [A] {belly} [E] My baby was so grown. He was a life. He used to kick in my belly all the time. 我那孩子都那么大了。他也是条生命啊。他在我肚子里的时候踢的有劲着呢。
+[Q] n. 顿挫, 退步, 挫折 [A] {setback} [E] all believed the huge population was the major setback in achieving a better economy 都认为，庞大的人口总量是实现经济发展的重大障碍
+[Q] v. 制定; 上演; 颁布; 扮演 [A] {enact} [E] After they enacted the policy, he said, “it spread throughout the country quickly. 这一政策颁布后，“几乎没有什么阻碍就一级一级传达、就推行了”。
+[Q] 试点项目 [A] {pilot project} [E] Mr. Liang proposed a pilot project in Shanxi, which was approved 梁中堂提议在山西进行一个试点项目，获得批准
+[Q] adj. 引导的; 试验性的, 试点的; 导向的; v. 领航, 引导, 驾驶; n. 飞行员 [A] {pilot}
+[Q] adj. 乡下的, 乡村风味的, 田园的 [A] rural [E] That project, in rural Yicheng County, was carried out in secret for decades 那个项目在偏远的翼城县秘密实施数十年
+[Q] n. 无知; 不知 [A] {ignorance} [E] But it never spread because of ignorance and opposition from central family planning officials 由于中央计划生育官员的无知和反对，这个项目未能扩展开来。
+[Q] 开始生效 [A] {take hold} [E] Across China, the mainstream policy took hold 在国家范围内，主流的政策开始生效。
+[Q] n. 主流 [A] {mainstream} [E] Across China, the mainstream policy took hold 在国家范围内，主流的政策开始生效。
+[Q] v. 使免除, 豁免; adj. 免除的 [A] {exempt} [E] Families not exempt from the one-child rule had to pay huge fines if they were found in violation. 未能免受独生子女政策影响的家庭，一经发现违规，不得不支付巨额罚款。
+[Q] v. 驱逐, 开除, 逐出 [A] {expel} [E] Employees of the state were fired, and party members were expelled. 国家公务员遭到解聘，党员遭到开除。
+[Q] v. 使竖立, 树立, 使直立 [A] {erect} [E] In cities, officials erected billboards that showed beaming couples with a single angelic child. 在城市，官员竖起宣传板，画面上是一对愉快的夫妇与他们唯一的如同天使般的孩子。
+[Q] n. 布告板; 广告牌; [A] {billboard} [E] In cities, officials erected billboards that showed beaming couples with a single angelic child. 在城市，官员竖起宣传板，画面上是一对愉快的夫妇与他们唯一的如同天使般的孩子。
+[Q] adj. 天使的; 似天使的; 天国的 [A] {angelic} [E] In cities, officials erected billboards that showed beaming couples with a single angelic child. 在城市，官员竖起宣传板，画面上是一对愉快的夫妇与他们唯一的如同天使般的孩子。
+[Q] v. 毁坏, 破坏; 推翻, 打败; 拆除; 驳倒 [A] {demolish} [E] tended to be harsher. One example: “Refuse to have an abortion and you will have your house demolished and lose your cattle.” 这里的标语则更加刻薄。比如“如果拒绝堕胎令，房子倒塌牛充公。”
+[Q] adj. 劣等的; 假冒的 [A] {shoddy} [E] shoddy school construction 数千名学生因学校建筑质量不合格而丧生
+[Q] adj. 被哀悼的; 令人遗憾的 [A] {lamented} [E] parents lamented having followed the one-child rule 他们的父母为自己遵循了独生子女政策而悲痛。
+[Q] v. 哀悼; 悔恨; 悲叹 [A] {lament} [E] parents lamented having followed the one-child rule 他们的父母为自己遵循了独生子女政策而悲痛。
+[Q] v. 循环, 环行; 传阅; 传播, 流传; [A] {circulate} [E] as photographs of them in hospitals circulated online 她们在医院的照片在网上传开。
+[Q] v. 忍耐, 忍受; 容忍; [A] {endure} [E] called what Ms. Feng had endured “barbaric” in a microblog post 也在微博中称冯建梅遭受了“野蛮”对待
+[Q] adj. 野蛮的, 粗野的 [A] {barbaric} [E] called what Ms. Feng had endured “barbaric” in a microblog post 也在微博中称冯建梅遭受了“野蛮”对待
+[Q] adj. 不合理的, 荒谬的; 可笑的, 愚蠢的 [A] {absurd} [E] I think it’s absurd that the state controls how many babies people have 国家怎么能管大家生多少孩子这种事呢。
+#
+#
+#
+# 王健林首谈权贵股东
+# Chinese Tycoon Wang Jianlin Defends Xi’s Relatives, and Himself, on Business Deal
+# http://cn.nytimes.com/china/20151102/c02wanda/en-us/
+#
+[Q] 房地产 [A] {estate} [E] A Chinese real estate tycoon 中国一位房地产巨头
+[Q] 公开发行 [A] {public offering} [E] said that relatives of China’s president sold their shares in his company two months before its initial public offering, 在其公司首次公开发行股票前两个月，中国国家主席的亲属出售了他们所持的公司股份
+[Q] 资本收益 [A] {capital gains} [E] missing out on a “fortune” in capital gains 错过了一笔资本收益“财富”
+[Q] n. 辩驳, 举反证; 反驳 [A] {rebuttal} [E] made the comments as a rebuttal to a New York Times investigation 他用对报道的反驳作了回答
+[Q] 把...归功于; 为...而应感谢 [A] {owe sth. to} [E] We owe our rapid growth to our core competence of innovative business model 万达的快速增长靠的是企业核心竞争能力
+[Q] 使股票上市; 挂牌 [A] {go public} [E] the couple had acquired large stakes in Mr. Wang’s flagship company, Dalian Wanda Commercial Properties, before it went public. 这对夫妻曾在王健林名下的主要公司、大连万达商业地产上市之前，持有公司的大量股份。
+[Q] 首次公开募股 [A] IPO {Initial Public Offerings}
+[Q] v. 忍耐, 忍受 [A] {endure} [E] The investment endured for six years, and in the blink of an eye he could make a huge fortune, but he did not 投资熬了6年，眼看可以赚大钱而不赚。
+[Q] n. 抄本, 誊本; 文字记录; 副本; 学生成绩报告单 [A] {transcript} [E] Wanda Group subsequently sent reporters an English-language transcript of the remarks, confirming them. 万达集团后来向记者发了讲话内容的英文抄录，确认了上述说法。
+[Q] adv. 不注意地; 无意中 [A] {inadvertently} [E] Mr. Wang may have inadvertently drawn attention to a common practice among wealthy and powerful Chinese people 王健林也许无意中引起人们注意到有钱有势的中国人的一种常见做法
+[Q] adj. 远的; 疏远的; 关系远的 [A] {distant} [E] the transfer of shares, sometimes to distant relatives or business associates, to mask business interests 就是为了掩盖商业利益，有时把股份转给远房亲戚或商业伙伴。
+[Q] adj. 想象的, 传说的, 推定的 [A] {putative} [E] When property is transferred on paper to hide its ownership, the new putative owner is known in China as a “white glove.” 当为了掩盖所有权，把财产在书面上转移时，推定的新所有人在中国被称为“白手套”。
+[Q] v. 虐待; 使痛苦; 使苦恼 [A] {bedevil} [E] So-called white gloves have bedeviled the work of China’s own corruption investigators 据党中央纪律检查委员会，这些所谓的白手套也长期困扰着中国自己的腐败调查工作
+[Q] v 嫁接; n 贪污；受贿 [A] {graft} [E] they seek to document the wealth of Communist Party members suspected of graft 因为调查人员需要找到涉嫌贪污的共产党员的证据。
+[Q] 党中央纪律检查委员会 [A] {the party’s Central Commission for Discipline Inspection} [E]
+[Q] 远远超过 [A] {far in excess of} [E] In many instances, they appear to have made capital gains far in excess of those that Mr. Deng and Ms. Qi stood to make. 许多情况显示，那些人得到的资本收益似乎远远超过了邓家贵和齐桥桥可能获得的那些。
+[Q] adj.成千倍的(千重);adv.成千倍地 [A] {thousandfold} [E] a thousandfold gain 收益1000倍
+[Q] n. 联盟, 关系; [美]亲密关系; 加入, 入会; 联系; 联合 [A] {affiliation} [E] Wanda has no political affiliations,” Mr. Wang said, according to the company’s transcript. 据公司提供的文字记录，王健林说，“万达没有政治背景。”
+#
+#
+#
+# 海牙法庭受理中菲南海争议，中国不满
+# In Victory for Philippines, Hague Court to Hear Dispute Over South China Sea
+# http://cn.nytimes.com/asia-pacific/20151102/c02chinasea/dual/
+#
+[Q] n. 菲律宾 [A] {Philippines} [E] In Victory for Philippines, Hague Court to Hear Dispute Over South China Sea
+[Q] n. 海牙 [A] {Hague} [E] In Victory for Philippines, Hague Court to Hear Dispute Over South China Sea
+[Q] n. 统治, 裁决, 支配 [A] {ruling} [E] The Philippines has won an important ruling in its case against China over disputed parts of the South China Sea 菲律宾在中菲南海水域争执的案件中赢得了一项重要裁决。
+[Q] n. 公断; 仲裁 [A] {arbitration} [E] with an arbitration court in the Netherlands saying it has jurisdiction in the case and will hold hearings. 荷兰一个仲裁法庭称对此案拥有司法权，将举行听证会。
+[Q] n. 荷兰 [A] {Netherlands} [E] with an arbitration court in the Netherlands saying it has jurisdiction in the case and will hold hearings. 荷兰一个仲裁法庭称对此案拥有司法权，将举行听证会。
+[Q] n. 司法权, 管辖权, 审判权 [A] {jurisdiction} [E] with an arbitration court in the Netherlands saying it has jurisdiction in the case and will hold hearings. 荷兰一个仲裁法庭称对此案拥有司法权，将举行听证会。
+[Q] 常设仲裁法庭 [A] {Permanent Court of Arbitration} [E] The Permanent Court of Arbitration in The Hague issued the ruling on Thursday 位于海牙的常设仲裁法庭上周四宣布了这项裁决。
+[Q] vi.绝交(抵制);n.绝交(抵制外货); n. 联合抵制; 拒绝参加 [A] {boycott} [E] in proceedings that China has boycotted since the Philippines, an ally of the United States, filed suit at the court in 2013. 自从美国的盟友菲律宾在2013年向该法庭提起诉讼以来，中国一直抵制该程序。
+[Q] 提起诉讼 [A] {file suit} [E] in proceedings that China has boycotted since the Philippines, an ally of the United States, filed suit at the court in 2013. 自从美国的盟友菲律宾在2013年向该法庭提起诉讼以来，中国一直抵制该程序。
+[Q] n. 打击 [A] {blow} [E] The ruling was a blow to China 这项裁决对中国是一个打击
+[Q] n. 先例, 前例 [A] {precedent} [E] allowing Beijing to continue making a case that its claims in the South China Sea are based on history rather than legal precedent. 以便北京能继续坚称在南海的领土主张是基于历史而非法律先例。
+[Q] 案件的真情 [A] {the merits of a case} [E] it was prepared to argue the merits of its case before the tribunal 称其做好了上庭辩论的准备
+[Q] [pl. ]【律】法律意义[依据]; [常用复]功过, 功罪; 长处, 优点; 价值 [A] {merit} [E] it was prepared to argue the merits of its case before the tribunal 称其做好了上庭辩论的准备
+[Q] n. 法官席, 法庭, 法院 [A] {tribunal} [E] it was prepared to argue the merits of its case before the tribunal 称其做好了上庭辩论的准备
+[Q] 披着法律外衣的政治挑衅 [A] {a political provocation under the cloak of law}. [E] It accused the Philippines of “a political provocation under the cloak of law.” 它指责菲律宾进行的是“披着法律外衣的政治挑衅”。
+[Q] n. 主张者; 原告; 要求者; 索赔者 [A] {claimant} [E] The case is being closely watched by the United States and other Asian nations that are claimants in the South China Sea 美国和声称在南海拥有主权的其他亚洲国家正在密切关注此案。
+[Q] v. 奋斗, 竞争, 斗争; 为...斗争; 坚决主张, 声称 [A] {contend} [E] The Philippines — represented by an American lawyer, of the Washington law firm — contends that 来自华盛顿律师事务所的美国律师代表菲律宾表示
+[Q] 专属经济区 [A] {exclusive economic zone} [E] 200-nautical-mile exclusive economic zone extending from territory that it claims in the South China Sea 该国有权在其南海领土周围200海里的专属经济区水域开采石油和天然气。
+[Q] n. 思索; 推测; 沉思; 投机 [A] {speculation} [E] There had been speculation about whether the court would accept the case, given China’s absence from the proceedings. 由于中国的缺席，一些人曾猜测该法庭是否会受理此案。
+[Q] v. 设计; 图谋; 发明 [A] {devise} [E] The American naval operation was devised to show that the new island does not have a 12-mile territorial zone 美国海军的行动旨在说明，这个新岛屿不存在12英里的领海水域。
+[Q] n. (岩层等的)露头; 露出地面的岩层[部分] [A] {outcrop} [E] two small outcrops favored by fishermen 这两块礁石周围常有渔民往来
+[Q] n. 一片浅水; 浅滩; [A] {shoal} [E] A deal brokered by the United States that called for both countries to withdraw from the shoal soon fell apart. 由美国斡旋达成的要求两国从该浅滩撤离的协议很快破裂。
+[Q] 国际管辖 [A] {international jurisdiction} [E] The international jurisdiction will always move in its own way 国际管辖权从来都是有自己的一套规则的。
