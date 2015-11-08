@@ -575,7 +575,7 @@
 [Q] adj. 明白的, 不会弄错的 [A] {unmistakable}
 [Q] 干净利落地回答 [A] {crisp} answers
 [Q] n. 油炸马铃薯片; 钞票; 松脆之物 [A] {crisp}
-[Q] 其锋芒毕露的姿态令对手们难以招架。 [A] an {aggressiveness} her {rivals} did not seem ready for
+[Q] 其锋芒毕露的姿态令对手们难以招架。 [A] an {aggressiveness} her {rival}s did not seem ready for
 [Q] n. 对手; 竞争者 [A] {rival}
 [Q] adj. 非附属的 [A] {unaffiliate}d
 [Q] 砰然关闭 [A] {slam}ming {shut}
@@ -786,7 +786,7 @@
 #
 [Q] 旗下的夜总会 [A] X's {spinoff} clubs
 [Q] n. 资产分派; 让产易股; 附带的利益; 副产品; 续集 [A] {spinoff}
-[Q] 专卖店 [A] specialist stores
+[Q] 专卖店 [A] {specialist stores}
 [Q] adj. 传说上有名的; 以历史画装饰的 [A] {storied}
 [Q] 历史悠久的 [A] as {storied} as
 [Q] 要打着手电看才行 [A] consumed by {flashlight}
@@ -956,7 +956,7 @@
 [Q] 弱化 [A] {de-emphasized}
 [Q] 现状 [A] {status quo}
 [Q] 放样 [A] {stake out} [E] Tsai has staked out the center ground 蔡英文已经划出了一个核心范围
-[Q] adv. 踏实地; 不变地 [A] {steadfastly}
+[Q] adv. 踏实地; 不变地 [A] {steadfast}ly
 [Q] 明确地坚持 [A] {stick}ing {steadfast}ly to
 [Q] 维持现状 [A] maintaining the {status} {quo}
 [Q] 阿喀琉斯之踵 [E] 致命要害 [A] {Achilles’} {heel}
@@ -1041,7 +1041,7 @@
 [Q] 出镜 [A] {tape} [E] While taping a 2008 segment for the TV series ‘‘Gangland,’’ he gloated, ‘‘In this city, I’m the man that calls the shots.’’
 [Q] 幸灾乐祸; 得意忘形 [A] {gloat} [E] he gloated, ‘‘In this city, I’m the man that calls the shots.’’ 他得意忘形地说，“在这个城市，我说了算。”
 [Q] 发号施令; 定调子, 操纵 [A] calls the shots
-[Q] 过去式 [A] past tense
+[Q] 过去式 [A] {past tense}
 [Q] 现在回想起来 [A] in {hindsight}
 [Q] n. 事后; 事后的认识, 后见之明, 事后聪明; [A] {hindsight}
 [Q] 穿着一身白 [A] worn all white [E] In hindsight, Shrimp Boy also probably should not have worn all white to the funeral of a murdered rival Chinese gang leader in 2006.
@@ -1136,7 +1136,7 @@
 [Q] 迎合 [A] {cater} to [E] bookstores that cater to mainland visitors 针对内地游客的香港书店
 [Q] 曾经很常见 [A] been a fixture in [E] The market for books on Chinese politics, which have long been a fixture in Hong Kong bookstores that cater to mainland visitors, [E] 有关中国大陆政治的书籍曾在主要针对内地游客的香港书店中很常见
 [Q] n. 出现; 到来; [A] {advent} [E] Advent 基督降临; 降临节 [E] market forces — rising rents and the advent of e-books — play a part. 这部分是市场原因造成的，比如书店租金上涨，还有电子书的出现。
-[Q] 发挥作用; 扮演一个角色, 参与, 装腔骗人 [A] play a part
+[Q] 发挥作用; 扮演一个角色, 参与, 装腔骗人 [A] {play a part}
 [Q] n. 异议 [A] {dissent} [E] is increasingly intolerant of dissent 北京对异见越来越不能容忍
 [Q] n. 任期 [A] {tenure} [E] During Xi's tenure 习近平上任以来
 [Q] n. 首相; 总理 [A] {premier} [E] a former Chinese premier 中国前总理
@@ -1169,7 +1169,7 @@
 [Q] v. 弄脏; 毒害; 污染; 使受毒气影响 [A] {contaminate} [E] {scrape} up contaminated soil 清理被污染的土壤
 [Q] 铲起 [A] {scrape} up [E] to scrape up {contaminate}d soil 来清理被污染的土壤
 [Q] 向疏散区回迁 [A] roll back the evacuation zone
-[Q] adv. 逐步地, 渐渐地 [A] gradually
+[Q] adv. 逐步地, 渐渐地 [A] {gradually}
 [Q] v. 使混淆, 挫败, 使狼狈 [A] {confound} [E] a confounding signal for people making consequential decisions about their lives. 那些需要做出重大人生决定的人们，看到的却是莫衷一是的信息。
 [Q] 广为报道的 [A] {well-publicized} [E] One well-publicized recent study found
 [Q] n. 发生率; 发病率 [A] {incidence} [E] an elevated incidence of thyroid cancer in children living near the plant 居住在电站附近儿童的甲状腺癌发病率上升
@@ -1198,7 +1198,7 @@
 [Q] v. 出价; 祝愿 [A] {bid}
 [Q] 新闻稿 [A] news release [E] The British authorities said in a news release that they were also considering 英国当局在一份新闻稿中说，他们还在考虑
 [Q] adj. 持久的; 持续的 [A] {sustained} [E] The government has come under sustained pressure from 英国一些大牌酒店和奢侈品零售店不断给政府施加压力
-[Q] 大腕 [A] biggest names
+[Q] 大腕 [A] {biggest names}
 [Q] 大金主 [A] {the big spenders} [E] asserting that the cost and complexities involved had driven the big spenders elsewhere. 他们声称这个手续太贵太复杂，已经把大金主赶到了别的地方。
 [Q] n. 游说 [A] {lobbying}
 [Q] 游说团体 [A] {lobbying} group
@@ -1262,7 +1262,7 @@
 [Q] v. 设计; 图谋; 发明 [A] {devise} [E] Professor Feng devised a {condensed} version of that course 冯务中设计了一个浓缩版的“毛概”
 [Q] adj. 浓缩的; 压缩的; 扼要的 [A] {condensed} [E] Professor Feng devised a {condens}ed version of that course 冯务中设计了一个浓缩版的“毛概”
 [Q] 定期进行测试 [A] Tests are administered regularly
-[Q] 观念上很狭隘 [A] closed-minded
+[Q] 观念上很狭隘 [A] {closed-minded}
 [Q] 掩盖 [A] {gloss} [E] it glossed over more {controversial} aspects of Mao’s {tenure}, 掩盖了毛泽东执政期间更有争议的方面
 [Q] adj. 有争议的 [A] {controversial} [E] controversial aspects of Mao’s tenure 毛泽东执政期间更有争议的方面
 [Q] n. 饥荒 [A] {famine} [E] the famine caused by the Great Leap Forward and the chaos of the Cultural Revolution 搞“大跃进”引发饥荒，发动文化大革命引起动乱。
@@ -1306,7 +1306,7 @@
 [Q] 粮食救济 [A] {food} {relief} [E] to provide food relief for {hard-hit} regions. 特别是为受灾严重的地方提供粮食救济。
 [Q] 受灾严重 [A] {hard-hit}
 [Q] adj. 热带的 [A] {tropical} [E] El Nino originates in the eastern tropical Pacific Ocean 厄尔尼诺现象始于热带东太平洋
-[Q] 规律发生转变 [A] patterns shift [E] when normal weather patterns shift in a way that 正常的天气规律发生转变
+[Q] 规律发生转变 [A] {patterns shift} [E] when normal weather patterns shift in a way that 正常的天气规律发生转变
 [Q] v. 扰乱, 使心慌, 使混乱 [A] {perturb}
 [Q] n. 湿气, 降雨, 水分 [A] {moisture}
 [Q] 热量和水分 [A] heat and {moisture}
@@ -1337,7 +1337,7 @@
 [Q] 送礼 [A] {gift-giving}
 [Q] 在某种意义上 [A] {in a sense} [E] {In a real sense} 从现实意义来看
 [Q] n. 矮子; 侏儒 v. 使矮小; 阻碍...的生长; 使显得矮小; [A] {dwarf} [E] dwarfs Britain’s 10 percent and France’s 9 percent 远高于英国的10％和法国的9％。
-[Q] 贸易顺差 [A] positive trade balance
+[Q] 贸易顺差 [A] {positive trade balance}
 [Q] n. 赤字; 不足额 [A] {deficit}
 [Q] 贸易逆差 [A] trade {deficit}
 [Q] n. 团体; 集团; 联盟 [A] {bloc}
@@ -1707,7 +1707,7 @@
 [Q] n. 合法; 合理; 正统 [A] {legitimacy} [E] dispute the legitimacy of the islands built by China. 质疑中国所建岛屿的合法性
 [Q] 把问题推给了国防部 [A] referring questions to the {Defense Department}
 [Q] 白宫新闻发言人 [A] press secretary
-[Q] n. 报刊; 记者们; 新闻界; 通讯社; 强迫征兵 [A] press [E] the press secretary 白宫新闻发言人
+[Q] n. 报刊; 记者们; 新闻界; 通讯社; 强迫征兵 [A] {press} [E] the press secretary 白宫新闻发言人
 [Q] n. 誓约 [A] {vow} [E] a vow widely viewed as a signal to the Chinese 这个誓言被广泛认为是向中国发出的信号
 [Q] 联大; 联合国大会 [A] United Nations {General} {Assembly}
 [Q] v. 支撑, 鼓励, 赞成; 维护; 崇尚 [A] {uphold} [E] interest in upholding the basic principles of freedom of navigation 维护航行自由和贸易自由流动的基本原则
@@ -1969,13 +1969,13 @@
 [Q] n. 单身男子, 单身汉; 学士 [A] {bachelor} [E] By 2020, China will have an estimated 30 million bachelors — a situation so dire that one economist has proposed that a wife should have multiple husbands. 到2020年，预计中国将有3000万单身汉。这种情况非常可怕，一位经济学家甚至提出了一妻多夫制。
 [Q] n.性别 [A] {gender} [E] The gender ratio is a result of the policy, 男女比例失衡是这一政策的结果
 [Q] n. 暴徒；恶棍；刺客 [A] {thug} [E] scores of thugs prevented family members from entering. 外面有几十名暴徒阻止她的家人进去。
-[Q] 几十名暴徒 [A] {scores of thugs} [E] scores of thugs prevented family members from entering. 外面有几十名暴徒阻止她的家人进去。
+[Q] 几十名暴徒 [A] scores of {thug}s [E] {scores of thugs} prevented family members from entering. 外面有几十名暴徒阻止她的家人进去。
 [Q] n. 腹, 腹腔, 腹部; 胃; 肚子; 食欲 [A] {belly} [E] My baby was so grown. He was a life. He used to kick in my belly all the time. 我那孩子都那么大了。他也是条生命啊。他在我肚子里的时候踢的有劲着呢。
 [Q] n. 顿挫, 退步, 挫折 [A] {setback} [E] all believed the huge population was the major setback in achieving a better economy 都认为，庞大的人口总量是实现经济发展的重大障碍
 [Q] v. 制定; 上演; 颁布; 扮演 [A] {enact} [E] After they enacted the policy, he said, “it spread throughout the country quickly. 这一政策颁布后，“几乎没有什么阻碍就一级一级传达、就推行了”。
 [Q] 试点项目 [A] {pilot project} [E] Mr. Liang proposed a pilot project in Shanxi, which was approved 梁中堂提议在山西进行一个试点项目，获得批准
 [Q] adj. 引导的; 试验性的, 试点的; 导向的; v. 领航, 引导, 驾驶; n. 飞行员 [A] {pilot}
-[Q] adj. 乡下的, 乡村风味的, 田园的 [A] rural [E] That project, in rural Yicheng County, was carried out in secret for decades 那个项目在偏远的翼城县秘密实施数十年
+[Q] adj. 乡下的, 乡村风味的, 田园的 [A] {rural} [E] That project, in rural Yicheng County, was carried out in secret for decades 那个项目在偏远的翼城县秘密实施数十年
 [Q] n. 无知; 不知 [A] {ignorance} [E] But it never spread because of ignorance and opposition from central family planning officials 由于中央计划生育官员的无知和反对，这个项目未能扩展开来。
 [Q] 开始生效 [A] {take hold} [E] Across China, the mainstream policy took hold 在国家范围内，主流的政策开始生效。
 [Q] n. 主流 [A] {mainstream} [E] Across China, the mainstream policy took hold 在国家范围内，主流的政策开始生效。
@@ -2047,3 +2047,131 @@
 [Q] n. (岩层等的)露头; 露出地面的岩层[部分] [A] {outcrop} [E] two small outcrops favored by fishermen 这两块礁石周围常有渔民往来
 [Q] n. 一片浅水; 浅滩; [A] {shoal} [E] A deal brokered by the United States that called for both countries to withdraw from the shoal soon fell apart. 由美国斡旋达成的要求两国从该浅滩撤离的协议很快破裂。
 [Q] 国际管辖 [A] {international jurisdiction} [E] The international jurisdiction will always move in its own way 国际管辖权从来都是有自己的一套规则的。
+#
+#
+#
+# 一胎政策的后果将长期影响中国
+# China Will Feel One-Child Policy’s Effects for Decades, Experts Say
+# http://cn.nytimes.com/china/20151102/c02china-experts/dual/
+#
+[Q] (政府法令、法律、协议等)有效，实施中 [A] {in force} [E] But after 35 years in force, experts say, the policy was having undesirable side effects: 但是，在该政策生效35年之后，专家表示，它带来了令人烦扰的副作用
+[Q] vt.,vi. (使)颠倒; 倒置, 倒转 [A] {upend} [E] It upended traditional structures for supporting older adults 颠覆了赡养老人的传统结构
+[Q] v 散播, 传播, 惹起；n 大母猪 [A] {sow} [E] one that could sow social unrest 有可能会导致社会动荡。
+[Q] 社会常态 [A] {social norm} [E] because having one child has become the social norm in China 只生一个孩子在中国已经成为某种社会常态
+[Q] 能育性, 繁殖力; 肥沃; 富饶; 人口出生率 [A] {fertility} [E] Demographers agree that around the world, fertility rates generally fall as wealth and women’s educational levels rise 人口学家表示，在世界各地，随着富裕程度和女性教育水平的提高，生育率通常会下降。
+[Q] n. 动机; adj. 激励的 [A] {incentive} [E] and some have tried to create incentives for families to have more babies. 一些国家已在尝试激励家庭多生孩子。
+[Q] 重男轻女 [A] {preference for sons} [E] In a society with a widespread preference for sons, the one-child policy led to a significantly skewed ratio of men to women 重男轻女的现象在中国比较普遍，一胎制政策导致这里的男女人数明显失衡
+[Q] v. 偏斜, 歪斜; [A] {skew} [E] the one-child policy led to a significantly skewed ratio of men to women 一胎制政策导致这里的男女人数明显失衡
+[Q] adj 有害的，致命的 [A] {pernicious} [E] China will be living with the pernicious legacy of this gender imbalance for decades to come 未来几十年来里，中国将承受这种性别失衡带来的恶劣后果
+[Q] 取消政策 [A] {lift the policy} [E] It should have lifted the policy years ago 中国应该在数年前就取消一胎制政策。
+[Q] n. 分娩 [A] {childbearing} [E] the gender ratio tends to equalize by the time a generation reaches childbearing age. 一代人达到生育年龄时，性别比例才会趋于平衡。
+[Q] 可怕的; 悲惨的; 急迫的; 极端的 [A] {dire} [E] said that brought the unexpected consequence of a dire shortage of younger relatives to care for a rapidly aging population 这带来了未曾料到的后果，能够照料迅速老龄化的人口的年轻亲属出现严重短缺
+[Q] 预测, 估计, 推测 [A] {projection} [E] United Nations population projections 联合国的人口预测
+[Q] 迅速升起 [A] {shot up} [E] but China’s will have shot up to 50 中国的中值将猛升至50岁
+[Q] n. 儒家; adj. 孔子的; 儒教的 [A] {Confucian} [E] in China’s Confucian culture, it is the duty of a son to support and care for his aging parents 在中国的儒家文化中，赡养年迈父母是儿子的责任
+[Q] 儿媳妇 [A] {daughter-in-law} [E] By not having daughters,” he said of the gender imbalance, “you end up not having daughters-in-law. 没有女儿，”他提到性别失衡时说，“最终会导致没有媳妇。
+[Q] 终于 … 了! (当某件事超出所需的时间时) [A] {it's about time} [E] As for dropping the one-child policy, he added, “It’s about time.” 对于一胎政策的废除，他表示，“早就该这样了。”
+[Q] 至于; 关于 [A] {as for} [E] As for dropping the one-child policy, he added, “It’s about time.” 对于一胎政策的废除，他表示，“早就该这样了。”
+#
+#
+#
+# 新疆日报前总编辑“妄议中央”被双开
+# Former Editor of Xinjiang Newspaper in China Is Ousted From Communist Party
+# http://cn.nytimes.com/china/20151103/c03xinjiang/dual/
+#
+[Q] v. 驱逐, 撵走; 剥夺 [A] {oust} [E] Former Editor of Xinjiang Newspaper in China Is Ousted From Communist Party 新疆日报前总编辑“妄议中央”被双开
+[Q] adj. 挥发性的, 不稳定的, 可变的 [A] {volatile} [E] the volatile western region of Xinjiang 该动荡地区
+[Q] v. 使洁净, 使净化; 清洗; 清除; 使通便; [A] {purge} [E] was a rare instance in which the party said it had purged someone for questioning or openly discussing policy, 共产党因党员质疑或公开讨论党的政策而将其清除...是一种罕见的情况
+[Q] n. 种族划分[关系] [A] {ethnicity} [E] trying to suppress violence and protests by angry and frustrated members of the Uighur ethnicity 安全部队一直在该地区试图压制愤怒和不满的维吾尔族人的暴力和抗议活动。
+[Q] 突厥语族的 [A] {Turkic} [E] The Uighurs are a Turkic-speaking 维吾尔族人讲一种突厥语系的语言
+[Q] n. （伊斯兰）逊尼派教徒 [A] {Sunni} [E] Sunni Muslim group 逊尼派穆斯林
+[Q] adj. 有辨识力的；差别对待的 [A] {discriminatory} [E] often complain about discriminatory policies set by the Han 这个少数民族的成员经常抱怨占中国主导地位的汉族制定的歧视性政策。
+[Q] v. 责备, 归咎于 [A] {blame} [E] trying to impose strict anti-Islamic practices in the region because it blames Muslim extremists 共产党将暴力事件的发生归咎于穆斯林极端分子，因此正试图在该地区对伊斯兰教采取严格的限制。
+[Q] 党委 [A] {party committee} [E] and direct its party committee 并担任报社的党委书记。
+[Q] n. 片语, 成语, 惯用语; v. 用短语表达 [A] {phrase} [E] This phrase — “wangyi zhongyang” in Chinese “妄议中央”一词
+[Q] n. 抄本, 誊本; 文字记录; 副本; 学生成绩报告单 [A] {transcript} [E] published online a transcript of a question-and-answer session with Ma Senshu 其网站上发布了有关新条例的问题解答
+[Q] n. 团结, 共同一致, 团结一致 [A] {solidarity} [E] He said the new language was added to ensure that the party would have solidarity in speech and action. 他说，新增加的内容是为了保证全党的团结统一和行动一致。
+[Q] n. 拆卸; 落马 [A] {takedown} [E] the takedown of Mr. Zhao could also be related to party infighting in Xinjiang. 赵新尉的落马也可能与新疆的党内斗争有关。
+[Q] n. 近击; 乱打; 混战 [A] {infighting} [E] the takedown of Mr. Zhao could also be related to party infighting in Xinjiang. 赵新尉的落马也可能与新疆的党内斗争有关。
+[Q] 党内内斗; 党内斗争 [A] {party infighting} [E] the takedown of Mr. Zhao could also be related to party infighting in Xinjiang. 赵新尉的落马也可能与新疆的党内斗争有关。
+[Q] 打倒; 打死; 击落; 拿下 [A] {bring down} [E] brought down Mr. Zhou after many months of detaining and investigating Mr. Zhou’s associates 在拘留了周永康的同伙并对他们进行了好几个月的调查之后，拿下了周永康。
+[Q] n. 写实小说#派别, 宗派; 派系之争, 内讧; 小集团 [A] {faction} [E] it was unclear whether Mr. Zhao was tied to the Zhou and Wang faction in Xinjiang 虽然目前还不清楚赵新尉是否属于新疆的周王派
+[Q] v. 隐约地出现; 阴森地逼近; 影响 [A] {loom} [E] but that “Zhou Yongkang’s presence there looms very large.” 但“周永康在新疆有很大影响”。
+#
+#
+#
+# 中国亿万富翁涉嫌内幕交易被捕
+# Chinese Manager of Highflying Funds Is Arrested in Insider Trading Case
+# http://cn.nytimes.com/china/20151103/c03chinaarrest/dual/
+#
+[Q] n. 情节；故事的本事 [A] {story line} [E] followed what could easily have been an American story line 犹如发生在美国的场面。
+[Q] v. 忧虑, 逮捕, 理解; 担忧; 领会, 理解 [A] {apprehend} [E] He was apprehended near the exit of the 22-mile Hangzhou Bay Bridge in eastern China 警方在中国东部22英里长的杭州湾跨海大桥的出口附近逮捕了徐翔
+[Q] n. 巡逻, 侦察; 巡逻队; 巡逻兵; 巡逻舰队 [A] {patrol} [E] and the highway patrol closed the bridge’s entrances and exits for more than half an hour 高速公路巡警为此将大桥的出入口封闭了半个多小时。
+[Q] 市场投机 [A] {market speculation} [E] was the subject of intense market speculation in September 据称参与了今年9月激烈的市场投机活动。
+[Q] n. 经纪业; 佣金, 经纪费; 掮客业务; 回扣 [A] {brokerage} [E] The online post suggested that Zexi had told China’s biggest brokerage, Citic Securities 说它让中国最大的券商中信证券
+[Q] 中信证券 [A] {CITIC Securities} [E] The online post suggested that Zexi had told China’s biggest brokerage, Citic Securities 说它让中国最大的券商中信证券
+[Q] n. 制作; 伪造物; 构成 [A] {fabrication} [E] Zexi said the attacks were “fabrications from nowhere and malicious attacks.” 泽熙公司表示，这种攻击是“无端编造、恶意中伤”。
+[Q] adj. 精练的, 简练的 [A] {terse} [E] On Sunday, Xinhua issued a terse statement 上周日，新华社发表了一则简短声明
+[Q] vt. 缩回；缩进；取消 [A] {retract} [E] he report was quickly retracted with no explanation and was not available on Xinhua’s website. 该报道被迅速撤下，网站未作任何解释，而且在新华社的网站上也找不到这篇报道。
+[Q] 贪污; 移植; [A] {graft} [E] The arrest comes after Wang Qishan, the Communist Party official in charge of the crackdown on graft 负责反腐的中共官员王岐山...之后就发生了这次逮捕行动。
+[Q] v. 做得比...好; 胜过... [A] {outperform} [E] Zexi funds have outperformed almost every other investment vehicle in China in recent years 泽熙基金近些年来的表现超过了中国几乎所有其他投资工具
+[Q] 财经综合指数 [A] {composite index} [E] Although the Shanghai composite index has risen less than 5 percent so far this year 虽然上证综指今年到目前为止上升了不到5%
+[Q] n. 集成物, 砾岩, 集块; v. 使聚集; 凝聚成一团 [A] {conglomerate} [E] state-owned conglomerate China Resources 国企华润集团
+[Q] n. 起初; 获得学位 [A] {inception} [E] since its inception in 2010 自2010年开始交易以来
+[Q] 中国金融出版社 [A] {China’s financial press} [E] such as higher dividends, has earned him the comparison with Mr. Icahn in China’s financial press. 徐翔获取各个公司的少数股权，奋力争取获得更高股息等股东权利，这种经历使得中国金融媒体把他和伊坎相提并论。
+[Q] n. 被除数; 股息; 红利; 附赠品 [A] {dividend} [E] such as higher dividends, has earned him the comparison with Mr. Icahn in China’s financial press. 徐翔获取各个公司的少数股权，奋力争取获得更高股息等股东权利，这种经历使得中国金融媒体把他和伊坎相提并论。
+[Q] n 意义，涵义，意图 [A] {purport} [E] A picture purportedly of his arrest 他被逮捕时的照片
+[Q] n. 期货 [A] {futures} [E] a high-frequency trading firm suspected of manipulating futures trades to make a profit of more than 2 billion renminbi, 上海警方逮捕了三名与针对一家高频交易公司的调查有关的人士，该公司涉嫌操控期货交易，获利超过20亿元人民币。
+#
+#
+#
+# 限制监控技术出口，美企与奥巴马政府各执一词
+# Battle Heats Up Over Exports of Surveillance Technology
+# http://cn.nytimes.com/world/20151102/c02surveillance/dual/
+#
+[Q] 阿拉伯联合酋长国 [A] {United Arab Emirates} [E] operating through multiple corporations in Dubai, in the United Arab Emirates. 通过在阿联酋迪拜的多家公司开展业务。
+[Q] n. 酋长国 [A] {emirate} [E] operating through multiple corporations in Dubai, in the United Arab Emirates. 通过在阿联酋迪拜的多家公司开展业务。
+[Q] n. 叙利亚人; 叙利亚语 [A] {Syrian} [E] shipping American equipment to the Syrian government 称他们将美国的设备非法输送给了叙利亚政府
+[Q] n. 核准, 约束力, 处罚 [A] {sanction} [E] The Syrian case, in which the two men were fined last month for violating American economic sanctions against Syria, 上个月，这两人因违反美国对叙利亚的经济制裁而被处以罚款。
+[Q] 经济抵制 [经] [A] {economic sanctions} [E] The Syrian case, in which the two men were fined last month for violating American economic sanctions against Syria, 上个月，这两人因违反美国对叙利亚的经济制裁而被处以罚款。
+[Q] n. 权力主义者; 独裁主义者 [A] {authoritarian} [E] is one of the few the Obama administration has pursued to limit authoritarian governments from acquiring technology that enables censoring, spying and hacking. 为了限制专制政府取得能够用于审查、监控、窃取信息的技术，奥巴马政府追查了为数不多的几宗案件
+[Q] adj. 压抑的, 镇压的, 抑制的 [A] {repressive} [E] repressive governments 专制政府
+[Q] adj. 重要的, 充满活力的, 生命的 [A] {vital} [E] That is largely because many of the same tools that repressive governments seek from Western companies are vital for social media and other communications 这主要是因为，专制政府希望从西方企业取得的工具，也对世界各地的政治抗议者及草根组织者所依靠的社交媒体和其他沟通手段至关重要。
+[Q] 阴谋, 秘密计划, 圈套; 情节, 结构; 小块地皮; 地区图, [A] {plot} [E] to track criminals or disrupt plots 来追踪罪犯挫败阴谋
+[Q] n. 抑制; 控制; 克制; 阻止 [A] {restraint} [E] Such dual-use technology is now at the center of a conflict between Silicon Valley and the administration over additional restraints on technology exports. 眼下，硅谷与奥巴马政府围绕加大技术出口的限制发生了冲突，而冲突的核心就是这类两用的技术。
+[Q] 不良人权纪录 [A] {troubling human rights records} [E] that calls for new curbs on exports of advanced surveillance technology to governments with troubling human rights records 呼吁实行新措施，限制向存在不良人权纪录的政府出口先进监控技术的行为
+[Q] adj. 长期存在的；长时间的; 由来已久的 [A] {longstanding} [E] The agreement adds the technology to a longstanding arms control pact that seeks to limit weapons exports to such governments. 该协议将这种技术列入了一项由来已久的军备控制协定中。该协定意在限制面向这类政府的武器出口。
+[Q] 军备控制协定 [A] {arms control pact} [E] longstanding [E] The agreement adds the technology to a longstanding arms control pact that seeks to limit weapons exports to such governments. 该协议将这种技术列入了一项由来已久的军备控制协定中。该协定意在限制面向这类政府的武器出口。
+[Q] adj. 躲闪的, 善于骗人的, 会推托的 [A] {dodgy} [E] the big firms that are very legitimate, and then you have some dodgy parts of the business, which, like gunrunning, is subterranean and shrouded in secrecy 有专业人士，也有很体面的大公司，然后这门生意里又有一些可疑之处, 就像军火走私一样，它是隐蔽的，迷影重重
+[Q] n. 军火走私 [A] {gunrunning} [E] the big firms that are very legitimate, and then you have some dodgy parts of the business, which, like gunrunning, is subterranean and shrouded in secrecy 有专业人士，也有很体面的大公司，然后这门生意里又有一些可疑之处, 就像军火走私一样，它是隐蔽的，迷影重重
+[Q] adj. 地下的; 秘密的; 隐蔽的 [A] {subterranean} [E] the big firms that are very legitimate, and then you have some dodgy parts of the business, which, like gunrunning, is subterranean and shrouded in secrecy 有专业人士，也有很体面的大公司，然后这门生意里又有一些可疑之处, 就像军火走私一样，它是隐蔽的，迷影重重
+[Q] v. 给穿上寿衣; 掩蔽; 覆盖 [A] {shroud} [E] the big firms that are very legitimate, and then you have some dodgy parts of the business, which, like gunrunning, is subterranean and shrouded in secrecy 有专业人士，也有很体面的大公司，然后这门生意里又有一些可疑之处, 就像军火走私一样，它是隐蔽的，迷影重重
+[Q] adj. 凶猛的; 热烈的; 猛烈的 [A] {fierce} [E] The American tech industry mounted a fierce opposition after the Commerce Department issued a proposal in May 商务部于5月发布提案，美国科技企业表达了强烈反对。
+[Q] 表达了强烈反对 [A] {mounted a fierce opposition} [E] The American tech industry mounted a fierce opposition after the Commerce Department issued a proposal in May 商务部于5月发布提案，美国科技企业表达了强烈反对。
+[Q] 遵守, 坚持 [A] {abide by} [E] The regulation was intended to abide by the 2013 pact 该规定的本意是遵守2013年的那份协定。
+[Q] v. 放置架子上, 搁置; 渐渐倾斜, 成斜坡 [A] {shelve} [E] The administration has since quietly shelved the proposal 自那之后，奥巴马政府悄悄地搁置了那份提案。
+[Q] 提倡保护隐私权者 [A] {privacy advocates} [E] Even some privacy advocates thought the proposed regulation was poorly drafted and might hinder activists in developing countries from gaining access to the technology they need to protect their communications. 就连一些隐私倡导人士也认为，该规定起草仓促，可能会妨碍发展中国家的活动人士，使用那些保护自己的通信所需的技术。
+[Q] v. 妨碍; 阻碍; 起阻碍作用; 成为障碍 [A] {hinder} [E] Even some privacy advocates thought the proposed regulation was poorly drafted and might hinder activists in developing countries from gaining access to the technology they need to protect their communications. 就连一些隐私倡导人士也认为，该规定起草仓促，可能会妨碍发展中国家的活动人士，使用那些保护自己的通信所需的技术。
+[Q] vt. 主张；为...斗争; vi. 竞争；奋斗；斗争；争论 [A] {contend} [E] which contends that the group is a cult 并被官方称为邪教
+[Q] n. 礼拜, 祭仪, 礼拜式; 邪教 [A] {cult} [E] which contends that the group is a cult 并被官方称为邪教
+[Q] vt.解散(消除,驳回) [A] {dismiss} [E] The case was dismissed last year 案件于去年被驳回
+[Q] v. 诉请; 求助; 要求; 对...上诉, 将...上诉 [A] {appeal} [E] The case was dismissed last year, but the plaintiffs have appealed 案件于去年被驳回，但原告已提起上诉。
+[Q] v. 使容易; 帮助; 促进 [A] {facilitate} [E] Cisco spokesman said the firm did not “customize our product in any way that would facilitate censorship or repression.” 思科发言人称，该公司并未“以任何有助于审查或压迫的方式，对我们的产品进行定制”。
+#
+#
+#
+# 美太平洋舰队司令：将继续在南海巡航
+# U.S. Admiral, in Beijing, Defends Patrols in South China Sea
+# http://cn.nytimes.com/asia-pacific/20151104/c04china/dual/
+#
+[Q] n. 海军上将; 海军将官 [A] {admiral} [E] U.S. Admiral, in Beijing, Defends Patrols in South China Sea 美太平洋舰队司令：将继续在南海巡航
+[Q] v 使绝缘（防止热，电或声音的进出）；使隔离 [A] {insulate} [E] In an apparent effort by the Obama administration to insulate his visit 太平洋司令部和五角大楼对海军上将哈里斯的行程基本上保密
+[Q] n. 旅程, 游记, 旅行指南 [A] {itinerary} [E] kept Admiral Harris’s itinerary largely under wraps. 这显然是奥巴马政府不想让他的访问受到不良影响。
+[Q] adj.秘密的(不到时候不让露面,不准许自由活动) [A] {under wraps} [E] kept Admiral Harris’s itinerary largely under wraps. 这显然是奥巴马政府不想让他的访问受到不良影响。
+[Q] 母校 [美]校歌 [A] {Alma Mater} [E] His address at the Stanford Center, which is operated by Stanford University, the alma mater of the American ambassador, was closed to the news media. 哈里斯在斯坦福研究中心的讲话不对媒体开放，斯坦福中心由美国驻华大使的母校斯坦福大学管理。
+[Q] n. 母亲; 妈妈 [A] {mater} [E] Alma Mater\n\tHis address at the Stanford Center, which is operated by Stanford University, the alma mater of the American ambassador, was closed to the news media. 哈里斯在斯坦福研究中心的讲话不对媒体开放，斯坦福中心由美国驻华大使的母校斯坦福大学管理。
+[Q] v. 使恶化; 使退化; 使下降; 使堕落; [A] {deteriorate} [E] the Obama administration is also trying to prevent relations with the Chinese military from deteriorating 但奥巴马政府也一直在试图避免与中国的军事关系恶化
+[Q] n. 匈奴, 破坏者, 野蛮人 [A] {Hun} [E] n. {Hungary} 匈牙利
+[Q] n. 匈牙利 [A] {Hungary} [E] {Hun} n. 匈奴, 破坏者, 野蛮人
+[Q] n. 方舟; 平底船 [A] {Ark} [E] the Peace Ark, were visiting American ports 和平方舟号对美国港口进行了访问
+[Q] n. 周长, 周界 [A] {perimeter} [E] the waters inside the 12-nautical-mile perimeter of Subi Reef 入渚碧礁12海里以内水域航行

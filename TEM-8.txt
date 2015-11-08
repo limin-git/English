@@ -1,4 +1,4 @@
-英语专业八级大纲要求词汇表
+# 英语专业八级大纲要求词汇表
 [Q] vt. 放弃 放任 [A] {abandon}
 [Q] v. 贬低降低地位、威望或尊严 [A] {abase}
 [Q] vt. 使不安，使羞愧 [A] {abash}
@@ -1571,7 +1571,7 @@
 [Q] vt. 使发酵,影响 [A] {leaven}
 [Q] vi. 斜视，一瞥 [A] {leer}
 [Q] adj.可疑的，怀疑的；机警的 [A] {leery}
-[Q] [i] n．遗产 [A] {legacy}
+[Q] in．遗产 [A] {legacy}
 [Q] n. 传奇，图例 [A] {legend}
 [Q] n. 兵团；众多，大量 [A] {legion}
 [Q] adj. 不苛刻的仁慈的,宽厚的 [A] {lenient}
@@ -2192,7 +2192,7 @@
 [Q] adj. 摇摇欲坠 [A] {ramshackle}
 [Q] adj. 腐臭的 [A] {rancid}
 [Q] n．敌意，深仇，怨恨 [A] {rancor}
-[Q] [] v.使随机化，完全打乱 [A] {randomize}
+[Q] v.使随机化，完全打乱 [A] {randomize}
 [Q] n. 守林人，骑警，徘徊者 [A] {ranger}
 [Q] v.难以释怀，激怒 [A] {rankle}
 [Q] vt.vi. 咆哮，激昂地说 [A] {rant}
@@ -2389,7 +2389,7 @@
 [Q] adj. 贤明的,有洞察力的 [A] {sapient}
 [Q] n. 讽刺,轻蔑 [A] {sarcasm}
 [Q] adj. 裁缝匠的,缝工的,裁缝的 [A] {sartorial}
-[Q] [seit] 满足,充足,饮食过度 [A] {sate}
+[Q] seit 满足,充足,饮食过度 [A] {sate}
 [Q] v.饱足,过分满足 [A] {satiate}
 [Q] n．讽剌作品；讽刺 [A] {satire}
 [Q] v.使饱和, 浸透 [A] {saturate}

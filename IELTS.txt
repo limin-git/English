@@ -575,8 +575,7 @@
 [Q] vt.表示……的特性 [A] {characterize} [E] 经典例句：This kind of behaviour characterizes the criminal mind. 这种举止是罪犯的心理特征。
 [Q] vt.索价；控告；装满   n.费用；负荷；充电 [A] {charge} [E] 习惯用语：charge  sb. Of murder 指控某人谋杀\n\t经典例句：He charged four dollars for repairing the watch. 他修手表索价四美元。
 [Q] n.图，图表；海图 [A] {chart} [E] 习惯用语：a weather chart 天气图
-[Q] n.追逐，追赶，追求 [A] {chase} [E] 习惯用语：give chase　追赶（某人）
-[Q] 　　　　　　　　　　   经典例句：There was a long chase before the criminal was caught. 　追捕了好久才抓到罪犯。
+[Q] n.追逐，追赶，追求 [A] {chase} [E] 习惯用语：give chase　追赶（某人）\n\t经典例句：There was a long chase before the criminal was caught. 　追捕了好久才抓到罪犯。
 [Q] n./vi.喋喋不休地谈 [A] {chatter} [E] 习惯用语：the chatter classes 喜欢（对政治或社会问题）发表意见的人
 [Q] a.廉价的；劣质的 [A] {cheap}
 [Q] vt.骗取；哄，行骗 [A] {cheat} [E] 习惯用语：cheat sb. (out) of sth. 骗某人的某物  cheat in the exam 考试作弊\n\t经典例句：The criminal cheated the law by suicide. 罪犯以自杀逃脱法律制裁。
@@ -4208,7 +4207,7 @@
 [Q] n./vi.旅行，游历 [A] {tour}
 [Q] n.比赛，锦标赛，联赛 [A] {tournament} [E] 习惯用语：open tournament 公开赛
 [Q] n.旅游者，观光者 [A] {tourist}
-[Q] toward(s)          prep.向；对于；接近\n\t习惯用语：go far towards 大大有助于
+[Q] toward(s)          [A] prep.向；对于；接近 [E] \n\t习惯用语：go far towards 大大有助于
 [Q] n.毛巾，手巾 [A] {towel} [E] 习惯用语：throw in the towel 认输；放弃努力
 [Q] n.塔  vi.屹立，高耸 [A] {tower} [E] 习惯用语：a tower of strength （危机、困难时）可信赖的人；中流砥柱
 [Q] a.有毒的，中毒的 [A] {toxic} [E] 习惯用语：toxic chemicals/fumes 有毒的化学品/烟雾
