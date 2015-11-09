@@ -164,7 +164,7 @@
 [Q] 遵循通知行事 [A] following {notification} from
 [Q] n. 子公司, 辅助者, 附加物 [A] {subsidiary}
 [Q] n. 可持续发展的 持续性, 能维持性, 永续性; [A] {sustainability}
-[Q] firmly against [A] 坚决反对
+[Q] 坚决反对 [A] {firmly against}
 [Q] 解除关系 [A] {disengage}
 [Q] 反烟雾活动团体 [A] {antihaze} {activist} group
 [Q] n. 疏忽, 粗心; 随便, 不修边幅; 疏忽行为 [A] {negligence}
@@ -678,7 +678,7 @@
 [Q] 工业区 [A] {industrial pocket}
 [Q] n. 绝缘; 孤立; 隔离; (保温设施) [A] {insulation}
 [Q] 电源插座 [A] {electrical} {outlet}s
-[Q] 独立的; 自包含的 [A] self-contained
+[Q] 独立的; 自包含的 [A] {self-contained}
 [Q] v. 仿效; 折叠; 复制 [A] {replicate}
 [Q] 剥离到基本需求 [A] stripping down to the basics
 [Q] n. 住处, 寓所, 住宅 [A] {dwelling}
@@ -1363,7 +1363,7 @@
 [Q] n. 行人, 步行者 adj. 徒步的, 通俗的, 呆板的 [A] {pedestrian}
 [Q] n. 妥协 [A] {compromise}
 [Q] n. 方便; 权宜; 私利 [A] {expediency} [E] noting the constant compromise between {professed European values and economic expediency. 这指的是欧洲在价值观和经济权宜之间不断做出的妥协。
-[Q] adj. 公然的; 专门的; 公开承认的; 专业的 [A] professed [E] professed European values 欧洲价值观
+[Q] adj. 公然的; 专门的; 公开承认的; 专业的 [A] {professed} [E] professed European values 欧洲价值观
 [Q] v. 公开宣称; 承认; 表示 [A] {profess}
 [Q] n. 犯罪地点, 集合地点, 审判地 [A] {venue} [E] It is just a venue for us to express concern 这仅仅是一个我们表示关切的场合。
 #
@@ -2175,3 +2175,24 @@
 [Q] n. 匈牙利 [A] {Hungary} [E] {Hun} n. 匈奴, 破坏者, 野蛮人
 [Q] n. 方舟; 平底船 [A] {Ark} [E] the Peace Ark, were visiting American ports 和平方舟号对美国港口进行了访问
 [Q] n. 周长, 周界 [A] {perimeter} [E] the waters inside the 12-nautical-mile perimeter of Subi Reef 入渚碧礁12海里以内水域航行
+#
+#
+#
+# 看到可疑间谍？请拨打政府热线举报！
+# Seen a Spy? With New Hotline, China Invites You to Call It In
+# http://cn.nytimes.com/china/20151103/c03sino-spy/dual/
+#
+[Q] v. 使缠结, 使纠缠; [A] {tangle} [E] To the tangle of emergency phone numbers in China 中国原来有三个紧急电话，这有时会让人困惑
+[Q] n. 公布; 普及; 宣传 [A] {promulgation} [E] one year after the promulgation of a counterespionage law, 这是在一项反间谍法颁布实施一周年之后
+[Q] n. 泛滥, 大雨, 洪水 [A] {spate} [E] The hotline comes after a spate of reported spying episodes around the country 热线公布前，一系列间谍事件在全国范围内发生并得到报道
+[Q] n. 风琴, 机关, 器官 [A] {organ} [E] to report the matter immediately to state security organs, 能够立即向国安机构汇报相关情况
+[Q] v. 窥探; 刺探, 打听; 窥视; 撬, 撬动, 撬起 [A] {pry} [E] steal, pry out, buy or otherwise illegally obtain state secrets or intelligence, or conspire, coerce or pay government employees to become traitors 窃取、刺探、收买或者非法提供国家秘密或者情报，或者策动、引诱、收买国家工作人员叛变活动
+[Q] v. 阴谋, 共谋, 协力; 图谋 [A] {conspire} [E] steal, pry out, buy or otherwise illegally obtain state secrets or intelligence, or conspire, coerce or pay government employees to become traitors 窃取、刺探、收买或者非法提供国家秘密或者情报，或者策动、引诱、收买国家工作人员叛变活动
+[Q] v. 强制; 强迫 [A] {coerce} [E] steal, pry out, buy or otherwise illegally obtain state secrets or intelligence, or conspire, coerce or pay government employees to become traitors 窃取、刺探、收买或者非法提供国家秘密或者情报，或者策动、引诱、收买国家工作人员叛变活动
+[Q] v. 唆使; 煽动, 挑动; 怂恿 [A] {instigate} [E] people who say controversial things and then observe quietly or instigate others 喜欢抛出争议性话题引起争论并暗中观察的那些人
+[Q] n. 传教士, 工作人员, 负有任务者 [A] {missionary} [E] missionaries and journalists stationed abroad or writing on foreign affairs as potential suspects 传教士与驻外、涉外记者都可能有嫌疑
+[Q] v. 驻扎, 配置, 部署 [A] {station} [E] station abroad\n\tmissionaries and journalists stationed abroad or writing on foreign affairs as potential suspects 传教士与驻外、涉外记者都可能有嫌疑
+[Q] abbr. 军情五处( Military Intelligence Security Service, 英国负责国内反间谍、反恐怖的情报部门) [A] {MI5} [E] described the hotline as similar to a line set up by MI5, the British domestic intelligence agency, in the late 1990s. 形容，这条举报热线就像是英国军情五处(MI5)在1990年代末期设立的专线。
+[Q] 外地办事处 [A] {field office} [E] The F.B.I. also asks for people with nonemergency information about potential espionage or terrorism to contact its field offices. 美国联邦调查局(FBI)也曾要求掌握潜在间谍或恐怖活动的非紧急性信息的民众与各分局连络。
+[Q] v. 主张, 申述, 宣称 [A] {allege} [E] and led to the uncovering of more than 10 cases of alleged crimes 已收到数十条线索，并有十余桩罪行经查证属实。
+[Q] adj. 声称的, 所谓的 [A] {alleged} [E] and led to the uncovering of more than 10 cases of alleged crimes 已收到数十条线索，并有十余桩罪行经查证属实。
