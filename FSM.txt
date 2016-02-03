@@ -1,0 +1,43 @@
+[Q] adversely       [A] adv.  敌对地; 逆向地; 不利地 [E] value of the Sub-Fund will be adversely affected.
+[Q] sub-fund        [A] 子基金
+[Q]   securities                [A] 有价证券 [金融]; n 股票证券总称
+[Q]   exchange rates   [A] 汇率
+[Q]  prospectus      [A] 投股说明书; 证券兜售书; 证券销售书
+[Q]  in a timely manner    [A] 及时
+[Q]  fixed income securities    [A] 固定收益证券
+[Q]  deficit    [A] 赤字 [E] However, if there is a deficit, the
+Manager may sell investments of the Sub-Fund to fund distributions and you should note that such distributions will erode the capital of the Sub-Fund and reduce the net asset value of its units.
+[Q]   erode   [A] 侵蚀
+[Q]   Realisation Charge   [A] 变现费
+[Q]  Payable    [A] 应付帐款
+[Q]   Trustee   [A] 受托人
+[Q]   duly signed   [A] 正式签署 [E] You can exit the Sub-Fund at any time by ubmitting a duly signed written instruction or a completed redemption form to the Manager or its approved distributors.
+[Q] incur       [A] v.  招致, 带来, 惹起; 遭受 [E] If you are a new subscriber, you ave the right to cancel your subscription within 7 days from the date of purchase without incurring the initial service charge and fees stated above.
+[Q]  sale proceeds    [A] 销售收益
+[Q] proceeds       [A] n.  收益, 收入; 实收款项
+[Q]  cut-off time    [A] 截止时间
+[Q]   GLOSSARY OF TERMS   [A] 专业术语
+[Q]   gazette     [A] n.  报, 报纸, 公报; v.  刊载于公报 [E] Business Day: Any day other than a Saturday, Sunday, or gazetted public holiday on which commercial banks in
+Singapore are generally open for business
+[Q]  foregoing    [A] adj.  前面的, 前述的, 先前的 [E] without prejudice to the generality of the foregoing\n在不损害前述条文的一般性
+[Q] resilient     [A] adj.  弹回的; 迅速恢复精力的; 有弹力的 [E] Defensive nature has proven to be resilient
+[Q]  Custodian    [A] 保管人
+[Q]  Paribas    [A] 巴黎银行
+[Q]  Capital Guaranteed    [A] 保本
+[Q] capital appreciation     [A] 资本增值
+[Q] appreciation       [A] 增值; 评价; 判断; 升值; 市场涨价
+[Q]  Asian debt securities    [A] 亚洲债券
+[Q]   volatility   [A] 易变性; 易失性; 挥发度; 挥发性; 变更率 [E] are comfortable with the volatility and risk of a fund that invests in Asian debt securities.
+[Q]  discretion      [A] n.  慎重, 考虑, 辨别力; 判定 [E] the Managers have the bsolute discretion to determine whether and when a distribution is to be made.
+[Q]  risk premium    [A] 风险溢价
+[Q]      [A] 
+[Q]      [A] 
+[Q]      [A] 
+[Q]      [A] 
+[Q]      [A] 
+[Q]      [A] 
+[Q]      [A] 
+[Q]      [A] 
+[Q]      [A] 
+[Q]      [A] 
+

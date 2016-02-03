@@ -1985,6 +1985,7 @@
 [Q] n. 布告板; 广告牌; [A] {billboard} [E] In cities, officials erected billboards that showed beaming couples with a single angelic child. 在城市，官员竖起宣传板，画面上是一对愉快的夫妇与他们唯一的如同天使般的孩子。
 [Q] adj. 天使的; 似天使的; 天国的 [A] {angelic} [E] In cities, officials erected billboards that showed beaming couples with a single angelic child. 在城市，官员竖起宣传板，画面上是一对愉快的夫妇与他们唯一的如同天使般的孩子。
 [Q] v. 毁坏, 破坏; 推翻, 打败; 拆除; 驳倒 [A] {demolish} [E] tended to be harsher. One example: “Refuse to have an abortion and you will have your house demolished and lose your cattle.” 这里的标语则更加刻薄。比如“如果拒绝堕胎令，房子倒塌牛充公。”
+[Q] v. 毁坏, 破坏; 推翻, 打败; 拆除; 驳倒\n\tv. 告诫; 斥责 [A] {demolish} {admonish} [E]
 [Q] adj. 劣等的; 假冒的 [A] {shoddy} [E] shoddy school construction 数千名学生因学校建筑质量不合格而丧生
 [Q] adj. 被哀悼的; 令人遗憾的 [A] {lamented} [E] parents lamented having followed the one-child rule 他们的父母为自己遵循了独生子女政策而悲痛。
 [Q] v. 哀悼; 悔恨; 悲叹 [A] {lament} [E] parents lamented having followed the one-child rule 他们的父母为自己遵循了独生子女政策而悲痛。
