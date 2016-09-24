@@ -1,0 +1,677 @@
+﻿discern
+[dis·cern || dɪ'sɜːn]
+v. 分辨, 识别; 认识, 领悟; 看出, 察觉到; 辨明, 分清
+It rapidly becomes difficult to discern patterns of activity in the data, such as might be perceived in a view of all system calls sorted by count.
+
+perceive
+[per·ceive || pər'sɪːv /pə'-]
+v. 察觉; 意识到; 感知; 理解
+It rapidly becomes difficult to discern patterns of activity in the data, such as might be perceived in a view of all system calls sorted by count.
+
+laborious
+adj. 费力的, 吃力的; 牵强的; 勤勉的; 生硬的
+Historically, we would have generated our data and post-processed this by using tools such as awk(1) or perl(1), but that approach is laborious and time wasting.
+
+succinctly
+adv. 简洁地; 简便地
+DTrace enables us to succinctly specify how to group vast amounts of data so that we can easily observe such patterns.
+
+aggregation
+n. 聚集, 集成; 聚集体, 集成体
+The mechanism that does this is termed an aggregation.
+We use aggregations to refine our initial script.
+
+elide
+v. 省略, 取消, 省略发音
+<output elided>
+
+collate
+v. 对照, 校勘, 校对
+In that way, we do not focus on data at individual probe sites but succinctly collate large volumes of data.
+
+precede
+v. 在...之前, 较...优先, 优于; 处在前面; 领先
+An aggregation can be split into two basic components: on the left side, a named associative array that is preceded by the @ symbol;
+
+quantization
+n. 给某变数的不连续数值的分配 (数学用语)
+n. 量子化
+lquantize. Linear quantizations are frequently used to drill down on buckets of interest when the quantize() function has previously been used.
+
+quantize
+1. [数]用基本数的倍数表示; 把连续量转换为数字
+2. [物]使量子化; 用量子论的术语表示
+quantize. Stores the specified argument in the appropriate bucket in a power-of-2 series.
+
+infer
+v. 推论出, 推断; 作推论
+A variable comes into existence when it first has a value assigned to it; its type is inferred from the assigned value
+
+pertinent
+adj. 相关的, 切题的, 中肯的
+We often want to ask pertinent questions upon entry to a function, such as, What was the value of its third argument?
+
+backquote
+n.备份引用
+We can use the backquote character (`) to refer to kernel symbols
+
+assorted
+adj. 组合的, 配合的
+Assorted Actions of Interest
+
+constitute
+v. 制定; 组成; 建立
+All the individual pieces of DIFO that constitute a D program are put together into a file.
+
+concise
+adj. 简洁的, 简明的
+DTrace provides a powerful infrastructure to permit administrators, developers, and servicepersonnel to concisely answer arbitrary questions about the behavior of the operating system and user programs.
+
+aberrant
+adj. 脱离正道的, 变体的, 脱离常轨的
+DTrace will allow you to explore your system to understand how it works, track down performance problems across many layers of software, or locate the cause of aberrant behavior.
+
+familiarity
+n. 亲密, 精通, 熟悉
+Basic familiarity
+with a programming language such as C or a scripting language such as awk(1) or perl(1) will help you learn DTrace and the D programming language faster, but you need not be an expert in any of these areas.
+
+whirlwind
+n. 旋风
+Chapter 1, “Introduction,” provides a whirlwind tour of the entire DTrace facility and introduces readers to the D programming language.
+
+primitive
+n. 原始人, 早期艺术家
+adj. 原始的, 旧式的, 上古的
+Chapter 9, “Aggregations,” and Chapter 10, “Actions and Subroutines,” discuss DTrace's powerful primitive for aggregating data and the set of built-in actions that can be used to build tracing experiments.
+
+speculative
+adj. 思索的; 纯理论的, 非实用性的; 推测的; 冒险性的, 不确定的
+Chapter 13, “Speculative Tracing,” discusses the DTrace facility for speculatively committing data to a trace buffer.
+
+post mortem
+死后的
+how to perform boot-time and post-mortem tracing with DTrace.
+
+typographic
+adj. 排字上的; 印刷术的; 印刷上的
+Typographic Conventions
+
+convention
+n. 大会; 习俗; 协定
+Typographic Conventions
+
+discrete
+adj. 不连续的; 离散的
+probes are enabled discretely only when you are using them.
+
+quiesce
+vt.静止(寂静,不动)
+The system is not quiesced or paused in any way, and instrumentation code is added only for the probes that you enable.
+
+simultaneous
+adj. 同时的, 同时发生的
+You can run as many simultaneous DTrace experiments and commands as you like
+
+on the fly
+adj.在空中(匆忙地,忙碌地
+
+distinct
+adj. 清楚的; 截然不同的; 明显的
+developers, administrators, and service personnel can all work together or on distinct problems on the same system using DTrace without interfering with one another.
+
+inadvertent
+adj. 不注意的, 不慎的, 怠慢的
+As a result, you can never construct an unsafe program that would cause DTrace to inadvertently damage the Solaris kernel or one of the processes running on your system.
+
+verbatim
+adv. 逐字地
+All of the text between conversions is printed verbatim.
+
+exponent
+【数】指数; 幂阶, 方次
+1. (观点, 理论等的)代表者, 倡导者, 拥护者
+3. 说明者, 解说员
+Floating-point constants are always written in decimal and must contain either a decimal point (12.345) or an exponent (123e45) or both (123.34e-5).
+
+precedence
+n. 优先, 居先
+these operators have higher precedence than any of the binary arithmetic operators.
+
+intact
+adj. 尚未被人碰过的, 完整的, 原封不动的
+Note that if your program contains multiple clauses for a single probe, any clause-local variables will remain intact as the clauses are executed
+
+latency
+n. 潜伏, 潜在, 藏起来, 看不见; 潜伏期 (心理学用语); 恢复时间 (计算机用语)
+The latency group ID for the latency group of which the current CPU is a member.
+
+intersperse
+v. 散布; 点缀
+No declarations inside of the enclosing { } are permitted and declarations may not be interspersed between the elements of the probe clause shown above.
+
+intrinsic
+adj. 本身的; 固有的; 本质的; 内在的
+Pointers are needed in D because they are an intrinsic part of the operating system's implementation in C,
+
+sentinel
+n. 步哨; 哨兵
+By convention, address 0 is always defined to be invalid so thatNULL can be used as a sentinel value in C and D programs.
+
+undecipherable
+adj. 译不出的; 无法辨认的
+you might end up tracing a sequence of undecipherable characters.
+
+hyphen
+n. 连字号
+
+companion
+n. 同伴, 伴侣; 看护妇; 朋友#成对的物件之一
+You can use the companion operator offsetof to determine the offset in bytes of a struct
+
+premium
+n. 奖品; 额外补贴, 津贴; 奖金; 酬金
+at a premium 在票面价值以上; [喻]需要很大, 短缺; 很受珍视[尊敬]
+pay a premium for 付佣金
+Bit-fields are typically used in situations when memory storage is at a premium or when a struct layout must match a hardware register layout.
+
+datum
+n. 数据; 资料, 材料; 已知数
+if you wanted to know the number of system calls by user ID, you would not necessarily care about the datum collected at each system call.
+
+median
+n. 中动脉, 中值, 中位数
+adj. 中央的, 正中的, 中间的
+An example of a non-aggregating function is the function MEDIAN that determines the median element of the set.
+
+deviation
+1. 偏离, 背离(from); 偏向, 偏差
+the standard deviation of the set.
+
+pathological
+adj. 病理学的; 病态的; 病理上的
+Data collection does not induce pathological scalability problems.
+
+disjoint
+v. 脱节; 脱臼; 解体
+This technique enables you to compare disjoint data more easily.
+
+augment
+v. 扩大; 加强; 增加; 提高; 扩大; 增加
+The following example augments the system call example to only display the per-second system call rates of the top ten system-calling applications in a ten-second period
+
+footage
+n. 以尺计算长度, 影片的镜头, 尺数
+
+dictate
+n. 命令, 指令, 指挥
+v. 口授, 使听写, 口述; 命令, 要求, 规定; 口授, 口述; 命令, 支配
+The resizing policy of this buffer is dictated by thebufresize option.
+
+mitigate
+v. 镇静, 减轻, 缓和; 缓和下来; 减轻
+Techniques for mitigating this problem are described in Chapter 33, “User Process Tracing.”
+
+postmortem
+n. 尸体检查; 验尸
+adj. 死后的; 死后发生的
+Finally, because the postmortem DTrace debugger commands cannot perform the frame translation, using ustack() with a ring buffer policy always results in raw ustack() data.
+
+scratch
+n. 抓痕; 刮擦声; 擦伤; 乱涂
+v. 搔, 挖出, 抓; 发刮擦声, 抓, 搔
+alloca() allocates size bytes out of scratch space, and returns a pointer to the allocated memory.
+
+analogue
+n. 相似物; 类似物; 类似情况; 同源词
+basename() is a D analogue for basename(1).
+
+concatenate
+v. 如锁链般连续, 连结, 使连锁
+strjoin() creates a string that consists of str1 concatenated with str2.
+
+accommodate
+v. 调节, 使适应, 和解; 供应; 适应
+To accommodate these varying demands, DTrace supports several different buffer policies.
+
+verbatim
+adv. 逐字地
+All of the text between conversions is printed verbatim.
+
+tentatively
+adv. 试验性地; 暂时地
+This chapter discusses the DTrace facility for speculative tracing, the ability to tentatively trace data and then later decide whether to commit the data to a tracing buffer ordiscard it.
+
+sporadic
+adj. 偶尔发生的, 分散的, 零星发生的
+If the failures are sporadic or nondeterministic, you would be forced to trace all events that might be interesting, and later postprocess the data to filter out the ones that were not associated with the failing code path.
+
+pit
+n. 洼坑, 凹处; 矿坑, 煤矿; 地窖; 窑#果核
+A group of frogs were traveling through the woods, and two of them fell into a deep pit.
+
+conformance
+n. 顺应; 一致
+The degree
+of C standard conformance can be selected using the -X option.
+
+intervene
+v. 插入, 干涉, 调停
+Remember that the #! directive must comprise the first two characters of your file withno intervening or preceding whitespace.
+
+wombat
+n. 袋熊
+
+discern
+v. 分辨, 识别; 认识, 领悟; 看出, 察觉到; 辨明, 分清
+The lockstat provider makes available probes that can be used to discern lock contention statistics, or to understand virtually any aspect of locking behavior.
+
+substantial
+adj 实质的；重大的
+While the probe effect induced by enabling them can be substantial, it is not pathological; they may still be enabled with confidence on production systems.
+
+pertain
+v. 属于, 附属, 关于
+The four lockstat probes pertaining to adaptive locks are in Table 18–1.
+
+unanchored
+adj.非锚定的
+Theseunanchored probes that are not associated with any particular point of execution, but rather with the asynchronous interrupt event.
+
+hertz
+n. 赫; 赫兹
+hertz (frequency per second)
+
+discrete
+adj. 不连续的; 离散的
+In a well-designed system, each function performs a discrete and well-defined operation on a specified object or series of like objects.
+
+discrepancy
+n. 相差; 矛盾; 差异
+The common reasons for this discrepancy are described in this section.
+
+anachronism
+n. 时代错误; 落伍的人或事物
+System Call Anachronisms
+
+antiquity
+n. 古代; 古代的遗物; 古老
+For example, for reasons dating back to UNIX TM antiquity, the name of exit(2) in /etc/name_to_sysnum is rexit.
+
+emanate
+v. 散发; 产生; 放射; 散发; 发源; 发出
+Some cross-calls, such as those resulting from page faults, might not emanate from system calls.
+
+induce
+v. 劝诱; 导致; 促使
+Only those faults that induce a signal can trigger the fault probe.
+
+peripheral
+adj. 周边的, 肤浅的, 周围的
+Probe that fires when an I/O request is about to be made either to a peripheral device or to an NFS server.
+
+canonical
+adj. 根据教会法的; 权威的; 标准的
+DTrace chooses one canonical name for such functions and uses that name internally.
+
+cascade
+n. 小瀑布; 波浪, 波状物, 纺织品或头发的花边;
+If you trace every call to the write(2) system call, you will cause a cascade of output.
+
+Infrequent
+adj. 稀少的, 罕见的, 珍贵的
+Infrequent errors can be difficult to debug because they can be difficultto reproduce.
+
+analog
+n.类似(模拟量)
+DTrace can be used as an operating system analog to the black box flight data recorder present on commercial aircraft.
+
+negligible
+adj. 可以忽略的, 无用的, 不足取的
+Often, this effect is negligible, but it can become substantial if many probes are enabled with costly enablings.
+
+crawl
+n. 爬行, 缓慢的行进, 蠕动; 自由式游泳
+you could enable millions of probes in an application, and therefore slow the target process to a crawl.
+
+hesitate
+v. 犹豫, 踌躇, 迟疑
+You should therefore not hesitate to enable many probes if required.
+
+scalability
+n. 可量测性
+n. 在电脑上可以改变图片大小而不扭曲比例的性能
+However, by nature of being global, general-purpose variables, they cannot offer the linear scalability of aggregations.
+
+immutable
+adj. 不可变的; 不能变的; 不变的
+immutable variables
+
+hypothetical
+adj. 假设的, 假定的
+Our hypothetical fileno() takes a FILE pointer as an argument
+
+endeavor
+n. 努力; 尽力
+Sun will endeavor to ensure that these continue to work in future minor releases.
+
+sanity
+n. 神智健全, 健全, 头脑清楚
+As a sanity check
+
+guile
+n. 狡诈; 诡计
+The libraries on which Guile depends can vary depending on your version and build of Guile.
+
+caveat
+n. 预告; 中止申请; 申请书
+
+replica
+n. 复制品; 酷似; 复写
+Yesterday I set up 4 systems, 1 a master, 3 replicas.
+
+forensic
+adj. 法院的, 适合于辩论的, 关于法庭的
+However, if there were no witnesses or these descriptions proved insufficient, you might consider collecting fingerprints and forensic evidence that could be examined for DNA to help solve the case.
+
+facilitate
+v. 使容易; 帮助; 促进
+MDB facilitates analysis of this second class of problems.
+
+foe
+n. 仇敌, 敌人, 反对者
+
+barrack
+v. 使驻兵营内; 住入营房; 向...提供营房; 使住入营房
+
+reentry
+n. 再入; 再进
+Command Reentry
+
+mnemonic
+adj. 有助于记忆的; 记忆的
+In many cases, MDB provides a mnemonic equivalent (::identifier) for the legacy adb(1) dcmd names.
+
+arcana
+n.秘密(神秘)
+Programmers who are experienced with adb(1) or who appreciate brevity or arcana might prefer the $ or : forms of the built-ins.
+
+forcibly
+adv. 强迫地, 强制地; 有说服力地; 强有力地
+By default, a released process is forcibly terminated if it was created by MDB using ::run, or it is released and set running if it was attached to by MDB using the -p option or using the ::attach or :A dcmds.
+
+crucial
+adj. 决定性的, 严厉的, 重要的
+Permission for modifi cation of the technical content is crucial too.
+
+virtue
+n. 德行, 贞操, 美德
+One of the virtues of free software is that everyone is free to contribute to it;
+
+plea
+n. 恳求, 辩解, 请求
+Plea: Additions to this section are particularly welcome.
+
+evenhanded
+adj. 公平的, 公平无私的
+If you or your friends (or enemies, to be evenhanded) have been unfairly omitted from this list, we would like to add your names!
+
+preliminary
+adj. 初步的, 预备的, 开始的
+One of the preliminary versions of gnu m4 (a generic macro processor) exhibits the following bug
+
+synonym
+n. 同义字; 同物异名; 类义字
+the same procedure fails to defi ne a new synonym
+
+annotate
+v. 注解, 给...作注解
+‘set annotate level’
+
+baud
+n. 波特, 传送速度的衡量单位 (计算机用语)
+Set the line speed (baud rate or bits per second) of any serial interface used by gdb for remote debugging.
+
+blurb
+n. 夸大的广告
+n 简介（广告；印在书籍封套上的简介）
+-version This option causes gdb to print its version number and no-warranty blurb, and exit.
+
+akin
+adj. 血族的, 同种的, 同族的
+but in general the threads of a single program are akin to multiple processes
+This is akin to the arguments and environment that you specify for a program
+
+horde
+n. 群, 移动群, 游牧部落
+
+warlock
+n. 术士, 魔术师
+
+dune
+n. 沙丘
+
+arbitration
+n. 公断; 仲裁
+
+disposition
+n. 性情, 处理, 处置
+Disposition Whether the breakpoint is marked to be disabled or deleted when hit.
+
+temptress
+n. 诱惑人的女性, 妖妇，女妖
+
+chastity
+n. 纯洁, 贞操
+
+SAT
+Scholastic Accessment Test 学术能力评估测试;
+
+deem
+v. 认为, 以为; 视作; 持某种看法, 作某种评价
+The synonyms c and fg (for foreground, as the debugged program is deemed to be the foreground program) are provided purely for convenience, and have exactly the same behavior as continue.
+
+underfoot
+adv. 在脚下面, 碍事
+This allows you to examine the overall state of the program, including switching between threads, without worrying that things may change underfoot.
+
+intrusion
+n. 闯入; 侵扰
+This minimizes intrusion when debugging live systems
+
+provision
+n. 供应; 防备; 预备; 食物
+However, gdb has no provision for frameless functions elsewhere in the stack.
+
+spontaneously
+adv. 自然地; 不由自主地; 自发地
+When your program stops, gdb spontaneously prints the line where it stopped.
+
+feasible
+adj. 能实行的, 适宜的, 可行的
+In some applications, it is not feasible for the debugger to interrupt the program’s execution long enough for the developer to learn anything helpful about its behavior.
+
+drastically
+adv. 大大地; 激烈地; 彻底地
+delays introduced by a debugger might cause the program to change its behavior drastically
+
+unobtrusively
+adv. 不引人注目地; 不容易看到地
+However, because gdb records these values without interacting with you, it can do so quickly and unobtrusively, hopefully not disturbing the program’s behavior.
+
+caveat
+n. 预告; 中止申请; 申请书
+Caveats when using the compile command
+
+supersede
+v. 代替, 接替, 取代
+The annotation mechanism has largely been superseded by gdb/mi
+
+apropos
+adv. 适当地; 及时地; 恰当地
+The apropos command searches through all of the gdb commands, and their documentation, for the regular expression speciﬁed in args.
+
+wither
+v. 枯萎, 感到羞愧, 衰退; 使凋谢, 使畏缩, 使消亡
+as gdb evolves, new commands are introduced, and old ones may wither away.
+
+culprit
+n. 被控犯罪的人; 罪犯; 刑事被告
+But this may still be worth it, to catch errors where you have no clue what part of your program is the culprit.
+
+vogue
+n. 时尚, 流行, 时髦
+the TV quiz show Mastermind was in vogue
+
+peg
+n. 钉; 桩; 栓; 衣夹
+He influenced the design of the board, insisting that the 'results' pegs should be arranged in a square rather than in a line, to avoid each result being associated with a particular guess peg.
+
+lockstep
+n.前后紧接(步伐一致的前进,因循守旧)
+In particular, gdb cannot single-step all threads in lockstep.
+
+preempt
+vt.优先购买(先取)
+it prevents other threads from preempting the current thread while you are stepping
+
+dealer
+庄家；发牌者
+beat the dealer 击败庄家
+
+selfie
+自拍ˋsɛlfɪ
+
+cordial
+n. 兴奋剂, 补品
+
+coerce
+v. 强制; 强迫
+are coerced to pointers when used in expressions
+
+auxiliary
+n. 辅助者, 助手; 附属组织, 附属机构; 辅助物; 帆船
+Operating System Auxiliary Information
+
+intermittent
+adj. 间歇的; 断断续续的
+
+undergraduate
+n. 大学生
+
+jerky
+adj. 急动的; 不平稳的; 抽筋的; 颠簸的
+
+glitch
+n. 小故障, 技术性的小毛病, 失灵; 低频干扰
+
+vaccination
+n. 接种疫苗; 牛痘疤; 种痘
+
+screening
+n. 掩护; 筛过; 隔开; 审查
+HEALTH SCREENING
+
+aesthetic
+adj. 美学的; 艺术的; 美的; 审美的
+LASER & AESTHETIC
+
+complexion
+n. 肤色, 局面, 情况
+Are you looking to improve your complexion
+
+acne
+n. 痤疮; 粉刺
+deal with your childhood acne scars
+
+corporate
+adj. 法人的; 公司的; 团体的; 共同的, 全体的
+CORPORATE HEALTHCARE
+
+replenish
+v. 把...装满; 给...添加燃料; 把...再备足, 补充; 再装满, 充满
+
+wreak
+v. 发泄, 报仇
+Zika can “wreak havoc” on the brains of adults and cause major, lasting damage, according to a new study.
+
+havoc
+n. 大破坏, 蹂躏; v. 严重破坏
+Zika can “wreak havoc” on the brains of adults and cause major, lasting damage, according to a new study.
+
+overthrow
+v. 打倒, 颠覆, 推翻
+The research could overthrow the assumption that the virus is only of major worry to pregnant women.
+
+microcephaly
+n. 畸形小头
+the mosquito-borne infection has been primarily linked to microcephaly,
+
+sinister
+adj. 不吉利的, 左边的, 凶恶的
+sinister than had previously been thought
+
+vital
+adj. 重要的, 充满活力的, 生命的
+Those same cells are vital to learning and memory
+
+impairment
+n. 损害; 损伤
+
+cognitive
+adj. 认知的; 有感知的; 认识的
+
+immunology
+n. 免疫学
+
+fluorescent
+adj. 萤光的
+
+invade
+v. 侵略; 拥挤; 侵袭; 侵入, 侵略; 侵袭; 侵犯
+ndicate where in the brain was invaded by the virus.
+
+foetus
+n. 胎儿
+
+susceptible
+adj. 易被感动的, 易动感情的; 易受...影响的; 多情的; 敏感的, 过敏的
+These cells are special, and somehow very susceptible to the infection.
+
+innocuous
+adj. 无害的, 无毒的
+may not be as innocuous as people think.
+
+collagen
+n. 胶原质
+left are collagen drinks
+
+vector
+n. 带菌者
+vector control
+
+revamp
+v. 给换新面; 改造; 修补; 改写
+Sengkang mall Compass One to reopen in September after 11-month revamp
+
+eatery
+n. 餐馆; 食堂
+
+complement
+v. 补助; 补足
+
+amenity
+n. 优雅, 适意, 舒适; 福利设施, 文化设施, 便利设施; 愉快; 礼仪, 礼节
+will also be improved amenities such as larger common areas and a children's playground.
+
+imminent
+adj. 即将来临的; 逼近的
+to welcomed the mall's imminent reopening.
+
+originality
+n. 创造力; 创见; 独创性; 创举
+a choice that drew flak online for its lack of originality.
+
+blossom
+n. 花; 开花; 全部花朵; 开花期
+

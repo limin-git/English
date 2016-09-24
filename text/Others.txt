@@ -1,0 +1,44 @@
+
+#
+[Q]  n.  蒙特卡洛(摩纳哥城市, 俗称赌城)   [A] Monte-Carlo 
+[Q]  adj.  决定论的; 确定的   [A]  deterministic  
+[Q]  非判定性的; 非确定的   [A]  non-deterministic 
+[Q]  n.  食谱; 处方; 烹饪法; 制作法; 诀窍  [A]  recipe  - Numerical Recipes
+[Q]  adj.拟随机的(拟随机)   [A]  quasi-random - quasi-random number generator 
+[Q]  v.  指示; 表示   [A]  denote  - X denotes a number generator class returning objects of type T
+[Q]  adj.  根据教会法的; 权威的; 标准的; 典范的 [数] 典型的 [数]; 正则; 规范; adj 符合规定的，经典的＝orthodox   [A]  canonical  - First, it allows scaling of the values to some canonical range, such as [0..1).
+[Q]  adj.  随机的   [A]  stochastic  - that is based on some stochastic process
+[Q]  衰变   [A]  decay - nuclear decay 核衰变 
+[Q]  二极管   [A]  diode  - Zehner diode 齐纳二极管
+[Q]  (有座脚的)瓮, 缸, 坛;  骨灰盒; [喻]坟墓  [A]  urn - drawing from an urn
+[Q]   n.  接近; 概算; 近似额; 近似值  [A]  approximations - inter-arrival times of network packets or keyboard events may be close approximations of stochastic processes.
+[Q]  权衡, 让步   [A]  trade-off - memory trade-off
+[Q] 大批, 大群    [A]  multitude  - The multitude of generators provided in this library 
+[Q] n.  受惠者; 受益人    [A] beneficiary   -  Red Dot campaign to raise $250,000 where net proceeds will be donated to four beneficiaries.
+[Q]  召集; 征集, 筹集(款)   [A]  raise -  Red Dot campaign to raise $250,000 where net proceeds will be donated to four beneficiaries.
+[Q]  井号   [A]  hashtag
+[Q] n.  帝国; 皇家 [A] imperial - hotel imperial
+[Q] n.  [古、诗]中国 [A] Cathay  
+[Q]     [A]
+[Q]     [A]
+[Q]     [A]
+[Q]     [A]
+[Q]     [A]
+[Q]     [A]
+[Q]     [A]
+[Q]     [A]
+[Q]     [A]
+[Q]     [A]
+[Q]     [A]
+[Q]     [A]
+[Q]     [A]
+[Q]     [A]
+[Q]     [A]
+[Q]     [A]
+[Q]     [A]
+
+
+
+
+
+

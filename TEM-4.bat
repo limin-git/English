@@ -1,1 +1,1 @@
-START "" "C:\My Document\Code\C++\Review\Release\Review.exe" --config=TEM-4.ini
+start "" Review4.exe --config-file=config\TEM-4.cfg

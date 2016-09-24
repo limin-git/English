@@ -1,1 +1,1 @@
-START "" "C:\My Document\Code\C++\Review\Release\Review.exe" --config=IELTS.ini
+start "" Review4.exe --config-file=config\IELTS.cfg

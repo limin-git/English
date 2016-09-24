@@ -1,6 +1,4 @@
 *.log
 *.wav
 test*
-speech/
-backup/
-*.doc
+*.exe

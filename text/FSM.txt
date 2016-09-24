@@ -1,0 +1,170 @@
+[Q] {adversely} [A] adv. 敌对地; 逆向地; 不利地 [E] value of the Sub-Fund will be adversely affected.
+[Q] sub-fund [A] 子基金
+[Q] {securities} [A] 有价证券 [金融]; n 股票证券总称
+[Q] {exchange rates} [A] 汇率
+[Q] {prospectus} [A] 发售计划说明书；投股说明书; 证券兜售书; 证券销售书
+[Q] in a timely manner [A] 及时
+[Q] fixed income securities [A] 固定收益证券
+[Q] {deficit} [A] 赤字 [E] However, if there is a deficit, the Manager may sell investments of the Sub-Fund to fund distributions and you should note that such distributions will erode the capital of the Sub-Fund and reduce the net asset value of its units.
+[Q] {erode} [A] 侵蚀
+[Q] {Realisation} {Charge} [A] 变现费
+[Q] {Payable} [A] 应付帐款
+[Q] {Trustee} [A] 受托人
+[Q] duly signed [A] 正式签署 [E] You can exit the Sub-Fund at any time by ubmitting a duly signed written instruction or a completed redemption form to the Manager or its approved distributors.
+[Q] {incur} [A] v. 招致, 带来, 惹起; 遭受 [E] If you are a new subscriber, you ave the right to cancel your subscription within 7 days from the date of purchase without incurring the initial service charge and fees stated above.
+[Q] sale proceeds [A] 销售收益
+[Q] {proceeds} [A] n. 收益, 收入; 实收款项
+[Q] {cut-off time} [A] 截止时间
+[Q] {GLOSSARY} OF TERMS [A] 专业术语
+[Q] {gazette} [A] n. 报, 报纸, 公报; v. 刊载于公报 [E] Business Day: Any day other than a Saturday, Sunday, or gazetted public holiday on which commercial banks in Singapore are generally open for business
+[Q] {foregoing} [A] adj. 前面的, 前述的, 先前的 [E] without prejudice to the generality of the foregoing\n在不损害前述条文的一般性
+[Q] {resilient} [A] adj. 弹回的; 迅速恢复精力的; 有弹力的 [E] Defensive nature has proven to be resilient
+[Q] {Custodian} [A] 保管人
+[Q] {Paribas} [A] 巴黎银行
+[Q] {Capital Guaranteed} [A] 保本
+[Q] capital {appreciation} [A] 资本增值
+[Q] {appreciation} [A] 增值; 评价; 判断; 升值; 市场涨价
+[Q] Asian {debt securities} [A] 亚洲债券
+[Q] {volatility} [A] 易变性; 易失性; 挥发度; 挥发性; 变更率 [E] are comfortable with the volatility and risk of a fund that invests in Asian debt securities.
+[Q] {discretion} [A] n. 慎重, 考虑, 辨别力; 判定 [E] the Managers have the bsolute discretion to determine whether and when a distribution is to be made.
+[Q] {risk premium} [A] 风险溢价
+[Q] {settlement} services [A] 结算服务
+[Q] {speculative} element [A] 投机因素 [E] There may be a greater degree of volatility in such markets because of the speculative element, significant retail participation and the lack of liquidity
+[Q] {retail} participation [A] 散户参与
+[Q] {taxation} [A] 税收
+[Q] {initial margin} [A] 原始保证金 [贸易] 原始押金 [贸易]; 初始保证金
+[Q] {derivative} [A] n. 引出之物, 衍生字, 系出物; 衍生工具; [E] Investments in derivatives may require the deposit of initial margin and additional deposit of margin on short notice if the market moves against the investment positions.
+[Q] additional deposit of {margin} [A] 保证金额外的押金
+[Q] {liquidate} [A] 清算 [E] the Sub-Fund’s investments may be liquidated at a loss
+[Q] Net asset value (NAV) [A] 资产净值
+[Q] {pursuant} [A] 根据 [E] the NAV of the Sub-Fund or Class of the Sub-Fund is to be determined pursuant to the provisions of the trust deed of the Fund
+[Q] {provisions} [A] 规定
+[Q] the trust deed of the Fund [A] 基金信托契约
+[Q] {solicitor} [A] 律师
+[Q] {hedge} [A] 对冲
+[Q] {currency hedges} [A] 货币对冲
+[Q] {overlay} of currency {hedges} [A] 货币对冲的叠加
+[Q] {perpetual} [A] adj. 永久的, 没完没了的, 不断的 [E] The fund does not buy into perpetual or undated bonds, and avoids bonds rated lower than BBB-.
+[Q] fairly {prudent} approach [A] 比较稳妥的办法
+[Q] {prudent} [A] adj. 审慎的, 小心的; 节俭的; 精明的; 善于经营的
+[Q] {holistic} [A] adj. 整体的; 全盘的
+[Q] {elusive} [A] 难以捉摸 [E] investors are able to gain access to this elusive product
+[Q] {readily} [A] adv. 乐意地, 欣然地; 无困难地, 容易地; 很快地, 立即地
+[Q] {quasi-sovereign} [A] 准主权
+[Q] {quasi} [A] 准; adj. 类似的; 半的; 外表的; 准的
+[Q] {skew} [A] v. 偏斜, 歪斜; 斜视; 侧转; 使偏斜, 使歪斜; 使有偏见; 歪曲
+[Q] {weightage} [A] 权重
+[Q] {backdrop} [A] 背景
+[Q] {conservative} {investor} [A] 保守的投资者
+[Q] {portfolio} [A] 投资搭配
+[Q] {mitigate} [A] v. 镇静, 减轻, 缓和; 缓和下来; 减轻 [E] The bonds allocation helps to mitigate the downside risk of the portfolios during equity markets downturn.
+[Q] {downturn} [A] n. 低迷时期
+[Q] {Monetary} Authority of Singapore [A] 新加坡金融管理局
+[Q] {collectively} [A] adv. 全体地; 共同地 [E] each a “Sub-Fund” and collectively, the “Sub-Funds”
+[Q] {provisions} of the Deed [A] 契约规定 [E] Investors should refer to the relevant provisions of the Deed and obtain independent professional advice in the event of any doubt or ambiguity relating thereto
+[Q] relating {thereto} [A] 与此有关的 [E] Investors should refer to the relevant provisions of the Deed and obtain independent professional advice in the event of any doubt or ambiguity relating thereto
+[Q] {stock exchange} [A] 证券交易所 [E] Investors should note that the Units are not listed on any stock exchange
+[Q] {subscribe for} [A] 认购 [E] Investors may subscribe for or realise their Units through the Managers
+[Q] {ultimate} {discretion} [A] 最终的自由裁量权 [E] subject to the ultimate discretion of the Managers in respect of the subscription 受到认购经理的最终裁量权
+[Q] {in accordance with} [A] 与...一致; 依照；[E] sale, switching or realisation of an investor’s Units in accordance with and subject to the provisions of the Deed.
+[Q] {constitute} [A] v. 制定; 组成; 建立; 构成
+[Q] {constitute} an offer [A] 构成要约 [E] This Prospectus does not constitute an offer or solicitation to anyone in any jurisdiction in which such offer or solicitation is not authorised or to any person to whom it is unlawful to make such offer or solicitation and may only be used in connection with the offering of Units as contemplated herein.
+[Q] {solicitation} [A] 征集; 恳请; 征求; 请求;
+[Q] {jurisdiction} [A] n. 司法权, 管辖权, 审判权
+[Q] {contemplate} [A] 沉思； 默想； 考虑; 预期［料］[E] as contemplated herein 如本文所考虑的
+[Q] {material} [A] adj. 物质的; 具体的; 肉体的
+[Q] {material} changes [A] 发生重大变化
+[Q] {ascertain} [A] v. 确定; 探知
+[Q] {foreign exchange} [A] 外汇
+[Q] {domicile} [A] 住所；户籍所在地；[E] citizenship, residence or domicile 国籍，居住地或户籍所在地
+[Q] {investment schemes} [A] 投资计划
+[Q] {collective} [A] adj. 集体的, 共同的, 聚集的 [E] collective investment schemes. 集体投资计划。
+[Q] {other than} [A] 不同于; 除了 [E] No person, other than the Managers, has been authorised to issue any advertisement
+[Q] {offering}, {subscription} [A] 发行，认购
+[Q] {jurisdictions} [A] 司法管辖区 [E] Applications may be made in other jurisdictions to enable the Units to be marketed freely in those jurisdictions.
+[Q] {Futures} Act [A] 期货法
+[Q] {merit} [A] n. 优点, 价值, 功绩 [E] The Authority has not, in any way, considered the investment merits of the Sub-Funds.
+[Q] {open-ended} [A] 开放式 [E] The Fund is a stand-alone open-ended umbrella fund constituted in Singapore 开放式伞型基金
+[Q] {Trust Deed} [A] 信托契约
+[Q] {covenant} [A] n. 契约; 盟约
+[Q] {wholly-owned} {subsidiary} [A] 全资子公司
+[Q] {discretionary} funds [A] 自由资金
+[Q] {discretionary} [A] adj. 任意的, 无条件的
+[Q] extensive presence [A] 广泛存在 [E] UOBAM has an extensive presence in Asia with regional business and investment offices in Malaysia, Thailand, Brunei, Taiwan and Japan.
+[Q] {ventures} [A] 企业
+[Q] {joint ventures} [A] 合资企业
+[Q] {spectrum} [A] n. 谱; 频谱; 光谱; 射频频谱
+[Q] emerging market [A] 新兴市场
+[Q] is committed to achieving [A] 致力于实现 [E] In addition, UOBAM is committed to achieving consistently good performance. 此外，大华资产管理致力于实现始终如一的良好表现。
+[Q] {indemnity} insurance [A] 责任保险
+[Q] {indemnity} [A] n. 损害赔偿; 补偿
+[Q] {accountancy} [A] n. 会计工作; 会计学 [E] He holds a Bachelor of Accountancy from the then University of Singapore
+[Q] {charter} [A] n. 特许状, 宪章, 执照 [E] He is a Chartered Financial Analyst charter holder
+[Q] {deputy} [A] n. 代理人; 代表
+[Q] {segregation} [A] 隔离
+[Q] {conclusive} evidence [A] 确凿证据
+[Q] {prevail} [A] v. 流行, 获胜, 盛行
+[Q] {discrepancy} [A] n. 相差; 矛盾; 差异
+[Q] {registrar} [A] 注册员
+[Q] {trustee} [A] 信托公司
+[Q] {custodian} [A] 监管公司
+[Q] Chartered Financial Analyst [A] 特许金融分析师（CFA）
+[Q] {at one's discretion} [A] 自行处理; 随...的意见
+[Q] {currency} {denomination} [A] 货币单位
+[Q] {inter alia} [A] 特别是; 在其他事物之外; 尤其;
+[Q] {obligation} [A] n. 义务, 债务, 职责
+[Q] Global Dividend Equity Fund [A] 全球红利股票基金
+[Q] E-Commerce [A] 电子商务
+[Q] {debenture} [A] 债券
+[Q] {envisage} [A] v. 想像, 设想; 正视, 面对
+[Q] originally {envisaged} [A] 最初的设想
+[Q] {principal amount} [A] 本金 [E] are subject to investment risks, including the possible loss of the principal amount invested
+[Q] {inherent} risk [A] 固有风险
+[Q] {denominate} [A] v. 命名; 计价 [E] Where investments made by the Sub-Funds are denominated in a foreign currency
+[Q] {fluctuation} [A] n. 波动; 动摇; 变动
+[Q] {adversely} [A] adv. 敌对地; 逆向地; 不利地 [E] The investments of the Sub-Funds may be adversely affected by political instability as well as exchange controls
+[Q] {repatriation} [A] n. 遣送回国; 调回本国; 归国 [E] restrictions on repatriation of investments 投资的汇出限制
+[Q] financial derivative instruments [A] 金融衍生工具
+[Q] {commodity} [A] n. 日用品, 有用的物品, 商品 [E] financial derivatives on commodities 对商品的金融衍生品
+[Q] {commitment} [A] n. 托付, 交托; 下狱; 委任; 收监 [E] Such exposure will be calculated using the commitment approach as described in, and in accordance with the provisions of, the Code.
+[Q] {over the counter} [A] 不通过交易所直接售给顾客的
+[Q] {counterpart} [A] n. 副本, 配对物, 复本
+[Q] {novation} [A] n. 新债代旧债; 新契约代旧契约
+[Q] {stipulate} [A] v. 规定; 约定
+[Q] {prior to} [A] 在...以前; 在前; 居先 [E] Prior to each trade, the Managers will ensure that the intended trade will comply with the stated investment objective
+[Q] {rectify} [A] v. 矫正, 精馏, 调整; 纠正
+[Q] {virtue} [A] n. 德行, 贞操, 美德
+[Q] {by virtue of} [A] 凭借
+[Q] inherent characteristics [A] 固有特性 [E] because of the speculative element, significant retail participation and the lack of liquidity which are inherent characteristics of these Asian and/or emerging markets.
+[Q] Small and medium {capitalisation} companies [A] 中小市值公司
+[Q] {customarily} [A] adv. 习惯上, 通常, 习俗上
+[Q] Standard and Poor’s, Moody’s Investors Service [A] 标准普尔，穆迪投资者服务公司
+[Q] {Fitch} Inc [A] 惠誉公司
+[Q] {borne} [A] vb. 负担(适宜于,提供);adj.由...运载的 [E] All bank charges incurred in relation to any payment by telegraphic transfer shall be borne by the investors.
+[Q] {notional} [A] adj. 概念上的; 想像的; 抽象的; 假设的
+[Q] {allot} [A] v. 分配; 指派; 分配给; 拨出
+[Q] [A]
+[Q] [A]
+[Q] [A]
+[Q] [A]
+[Q] [A]
+[Q] [A]
+[Q] [A]
+[Q] [A]
+[Q] [A]
+[Q] [A]
+[Q] [A]
+[Q] [A]
+[Q] [A]
+[Q] [A]
+[Q] [A]
+[Q] [A]
+[Q] [A]
+[Q] [A]
+[Q] [A]
+[Q] [A]
+[Q] [A]
+[Q] [A]
+[Q] [A]
+[Q] [A]
+[Q] [A]
