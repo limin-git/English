@@ -1,1 +1,1 @@
-start "" Review4.exe config\GRE分类词汇总结.cfg
+start "" Review.exe config\GRE分类词汇总结.cfg

@@ -1,1 +1,1 @@
-start "" Review4.exe config\TOEFL_完全词汇手册.cfg
+start "" Review.exe config\TOEFL_完全词汇手册.cfg

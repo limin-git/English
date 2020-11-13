@@ -1,1 +1,1 @@
-start "" Review6.exe config\English.cfg
+start "" Review.exe config\English.cfg

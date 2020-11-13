@@ -1,1 +1,1 @@
-start "" Review4.exe config\”·√Ù∫ÈTOEFL¥ ª„¥ÆΩ≤.cfg
+start "" Review.exe config\”·√Ù∫ÈTOEFL¥ ª„¥ÆΩ≤.cfg

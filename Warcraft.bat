@@ -1,1 +1,1 @@
-start "" Review4.exe config\Warcraft.cfg
+start "" Review.exe config\Warcraft.cfg
